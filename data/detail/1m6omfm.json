@@ -1,0 +1,664 @@
+{
+  "iid": "1m6omfm",
+  "result": {
+    "columns": [
+      "销量 2330",
+      "收藏103人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "显瘦褶皱半身裙弹力针织背心宽松短打超百搭双口袋牛仔外套三件套\n预售7天发货 显瘦褶皱半身裙弹力针织背心宽松短打超百搭双口袋牛仔外套三件套",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180731_38jd9b5a9b6k001l7fek05e242jdc_750x767.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180731_55cl15i77k4890e7la0dg0hj7h0dj_750x1000.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180731_4fc30j419gak7fkg3c84l375aa9cd_640x961.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180731_6f9bk6id5g7hjbheil8kg211465hb_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180731_4ckaah351iccdgkce950c5iaeladc_640x961.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180731_10eehk9jll8404ilh31fk4568jja9_2428x2428.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180731_480id788l5fd6e19ch759ejccfghl_2563x2563.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180731_19lb99b0j223c479f88i92k95lgef_750x851.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180731_4e42efkc8897b47dd0bdk4e5badcl_640x961.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180731_5cf9277b0jlei750bjg3eihl78g20_750x1000.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180731_0d04gi2498i07b3j5ckb60hhc0jbi_640x961.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180731_2871i4i068gf1ceeefh3ij65d7l56_800x800.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180731_1la6ggeffg5c2j1iaaebabdhk7785_750x1000.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "显瘦褶皱半身裙弹力针织背心宽松短打超百搭双口袋牛仔外套三件套\n预售7天发货 显瘦褶皱半身裙弹力针织背心宽松短打超百搭双口袋牛仔外套三件套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "166.39",
+      "highPrice": "237.70",
+      "iid": "1m6omfm",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m6omfm&userId=12zan7a&shopId=1c8km",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "27.30",
+      "lowPrice": "39.00",
+      "oldPrice": "¥39.00",
+      "price": "¥27.30~¥166.39",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1c8km",
+      "state": 0,
+      "tags": "",
+      "title": "秋装2018新款牛仔外套女韩版宽松短款针织背心高腰半身裙中长裙小个子显高时尚套装裙子三件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180731_5be6jhh7ggj68d4063gkca4egh02i_750x1000.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180731_0l537ikbbgf0jakdceek8gkda0eb6_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180731_2ikjabid88445g2f6j9ag38d1a232_640x961.jpg"
+      ],
+      "userId": "12zan7a"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州卿慈服饰制衣厂"
+          },
+          {
+            "key": "颜色",
+            "value": "半身裙,背心,外套,背心+外套+半身裙"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东广州"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "通勤（OL）"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "1、因不同的计量方法，测量允许2-3cm内误差，此种状况并非质量问题。 2、衣服的颜色因灯光的原因可能会与原来的原色有所区别，单品以实物为准",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "胸围",
+              "背心60-100外114",
+              "背心60-100外117",
+              "背心60-100外120"
+            ],
+            [
+              "腰围",
+              "54-92",
+              "54-92",
+              "57-95"
+            ],
+            [
+              "臀围",
+              "86",
+              "86",
+              "89"
+            ],
+            [
+              "裙长",
+              "78",
+              "78",
+              "78"
+            ],
+            [
+              "袖长",
+              "49",
+              "49.5",
+              "50"
+            ],
+            [
+              "肩宽",
+              "50",
+              "52",
+              "54"
+            ],
+            [
+              "衣长",
+              "背心43/外套52",
+              "背心43/外套52.5",
+              "背心43/外套53"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 641,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "质量做工蛮好的，款式新颖很喜欢，尺码合适穿着很舒服，价格实惠买的放心，卖家服务周到，物流给力，好评。",
+          "created": 1534940013,
+          "extraInfo": [
+            "是否合身:合身"
+          ],
+          "isAnonymous": 0,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115ykwz0",
+          "style": "颜色:背心 尺码:L ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_825c06kdj394515kkkjhhi0el8j86_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "遁***a"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1c8km",
+      "cFans": 148001,
+      "cGoods": 237,
+      "cSells": 453857,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139937",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139938",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139939",
+          "name": "棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139940",
+          "name": "裙装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139941",
+          "name": "PU皮裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139943",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139944",
+          "name": "针织裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139945",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139946",
+          "name": "棒球/牛仔外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139948",
+          "name": "上装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139949",
+          "name": "针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139950",
+          "name": "毛衣开衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139965",
+          "name": "裤装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139969",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139975",
+          "name": "短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139981",
+          "name": "皮裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139985",
+          "name": "长裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139986",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139991",
+          "name": "毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20139992",
+          "name": "打底衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20145312",
+          "name": "丝袜打底袜"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20151933",
+          "name": "配饰"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20159125",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20159962",
+          "name": "背心马甲"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20177266",
+          "name": "牛仔裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20206815",
+          "name": "长T"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20208444",
+          "name": "衣裙套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20208445",
+          "name": "衣裤套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20208446",
+          "name": "牛仔长裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20219058",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20219146",
+          "name": "其他外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20268830",
+          "name": "清仓区"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20285974",
+          "name": "短T"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20303627",
+          "name": "雪纺衫/蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20303628",
+          "name": "牛仔短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20323868",
+          "name": "背带裤/连体裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1c8km/list/index?categoryId=20323869",
+          "name": "背带裙"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "花千树",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.62
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.63
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1c8km",
+      "shopLogo": "//s11.mogucdn.com/p2/170307/90107743_249h273075iec3ggg2bgflckd2f2c_320x320.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1c8km",
+      "type": 1,
+      "userId": "12zan7a"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥27.30~¥166.39",
+      "isAbroad": false,
+      "priceRange": "¥27.30~¥166.39",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "外套",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "半身裙",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "背心",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "背心+外套+半身裙",
+              "styleId": 4,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180731_3add3g4kg65ehlg8dhg2fgiif6fl6_640x961.jpg",
+          "nowprice": 8316,
+          "price": 11880,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 445,
+          "stockId": "116fvr6a",
+          "style": "外套",
+          "styleId": 1,
+          "xdSkuId": "116fvr6a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180731_3add3g4kg65ehlg8dhg2fgiif6fl6_640x961.jpg",
+          "nowprice": 8316,
+          "price": 11880,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 443,
+          "stockId": "116fvr6c",
+          "style": "外套",
+          "styleId": 1,
+          "xdSkuId": "116fvr6c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180731_3add3g4kg65ehlg8dhg2fgiif6fl6_640x961.jpg",
+          "nowprice": 8316,
+          "price": 11880,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 470,
+          "stockId": "116fvr6e",
+          "style": "外套",
+          "styleId": 1,
+          "xdSkuId": "116fvr6e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180731_37gdd142i37hi35jg8fej6eadh705_640x961.jpg",
+          "nowprice": 6433,
+          "price": 9190,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 440,
+          "stockId": "116fvr6g",
+          "style": "半身裙",
+          "styleId": 2,
+          "xdSkuId": "116fvr6g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180731_37gdd142i37hi35jg8fej6eadh705_640x961.jpg",
+          "nowprice": 6433,
+          "price": 9190,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 454,
+          "stockId": "116fvr6i",
+          "style": "半身裙",
+          "styleId": 2,
+          "xdSkuId": "116fvr6i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180731_37gdd142i37hi35jg8fej6eadh705_640x961.jpg",
+          "nowprice": 6433,
+          "price": 9190,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 469,
+          "stockId": "116fvr6k",
+          "style": "半身裙",
+          "styleId": 2,
+          "xdSkuId": "116fvr6k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180731_020geleh9df25e7li59kb894kecha_640x961.jpg",
+          "nowprice": 2730,
+          "price": 3900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 248,
+          "stockId": "116fvr6m",
+          "style": "背心",
+          "styleId": 3,
+          "xdSkuId": "116fvr6m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180731_020geleh9df25e7li59kb894kecha_640x961.jpg",
+          "nowprice": 2730,
+          "price": 3900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 87,
+          "stockId": "116fvr6o",
+          "style": "背心",
+          "styleId": 3,
+          "xdSkuId": "116fvr6o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180731_020geleh9df25e7li59kb894kecha_640x961.jpg",
+          "nowprice": 2730,
+          "price": 3900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 190,
+          "stockId": "116fvr6q",
+          "style": "背心",
+          "styleId": 3,
+          "xdSkuId": "116fvr6q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180731_4c0aga22i6215531dkbb581c7a52h_640x960.jpg",
+          "nowprice": 16639,
+          "price": 23770,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 270,
+          "stockId": "116fvr6s",
+          "style": "背心+外套+半身裙",
+          "styleId": 4,
+          "xdSkuId": "116fvr6s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180731_4c0aga22i6215531dkbb581c7a52h_640x960.jpg",
+          "nowprice": 16639,
+          "price": 23770,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 286,
+          "stockId": "116fvr6u",
+          "style": "背心+外套+半身裙",
+          "styleId": 4,
+          "xdSkuId": "116fvr6u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180731_4c0aga22i6215531dkbb581c7a52h_640x960.jpg",
+          "nowprice": 16639,
+          "price": 23770,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 385,
+          "stockId": "116fvr6w",
+          "style": "背心+外套+半身裙",
+          "styleId": 4,
+          "xdSkuId": "116fvr6w"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "秋装2018新款牛仔外套女韩版宽松短款针织背心高腰半身裙中长裙小个子显高时尚套装裙子三件套",
+      "totalStock": 4187
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

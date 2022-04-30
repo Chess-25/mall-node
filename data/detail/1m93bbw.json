@@ -1,0 +1,455 @@
+{
+  "iid": "1m93bbw",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "今年流行这种超长款的外套搭配，所以这期出了这一套",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180927_3g860ie99b89d34cag1k71afb679b_750x1252.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_72ladl8jk8l01ckh3je3k39j4f511_750x895.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_0cdbh43081bif7i7gflege0f17gde_750x1049.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_2beab6109a1cafca88j581996j13a_750x1199.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_0650ee11293b8gl4e6ebf1kl7a301_750x1252.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_30b97731kah025gf6j0j1d2kfa526_750x895.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_0d9459f77i6h3gflc906dcbk9b0b1_750x882.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "今年流行这种超长款的外套搭配，所以这期出了这一套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "169.00",
+      "highPrice": "241.43",
+      "iid": "1m93bbw",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m93bbw&userId=1bwmzxu&shopId=1172vupi",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "89.60",
+      "lowPrice": "128.00",
+      "oldPrice": "¥128.00",
+      "price": "¥89.60~¥169.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172vupi",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋装新款韩版长款毛衣外套配雪纺长袖连衣裙两件套长裙子时尚套装",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_35e3gbjhal74194gac800k4fi5393_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_5223i2bc2kl6i5f3a35fc6db3699d_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_584f0715ahl8f7f2fgbh4ib2l4bc3_750x895.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_8dgd9e9fhi2g517fi4e626c8eehfj_750x1199.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_211d58e6k3579glkffbfd1b9jikc3_750x1252.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_7a0d676kgafbg9i4hk16kb10hi6ge_750x895.jpg"
+      ],
+      "userId": "1bwmzxu"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "衣人有约制衣厂"
+          },
+          {
+            "key": "颜色",
+            "value": "灰色毛衣外套,白色连衣裙,白色连衣裙+灰色毛衣外套套装"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "长款（81-100cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市海珠区敦和路87号107房"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "裙长",
+              "107",
+              "108",
+              "109"
+            ],
+            [
+              "腰围",
+              "110",
+              "114",
+              "118"
+            ],
+            [
+              "衣长",
+              "110",
+              "111",
+              "112"
+            ],
+            [
+              "胸围",
+              "94",
+              "98",
+              "102"
+            ],
+            [
+              "袖长",
+              "59",
+              "60",
+              "61"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172vupi",
+      "cFans": 0,
+      "cGoods": 7,
+      "cSells": 0,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172vupi/list/index?categoryId=20346134",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupi/list/index?categoryId=20346136",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupi/list/index?categoryId=20346137",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupi/list/index?categoryId=20346138",
+          "name": "毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupi/list/index?categoryId=20346139",
+          "name": "棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupi/list/index?categoryId=20346140",
+          "name": "裤子"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "娇茉定制",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 5.0
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172vupi",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180919_3iah0laah7kb6fbf163e8kj39bck2_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172vupi",
+      "type": 1,
+      "userId": "1bwmzxu"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥89.60~¥169.00",
+      "isAbroad": false,
+      "priceRange": "¥89.60~¥169.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "灰色毛衣外套",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "白色连衣裙",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "白色连衣裙+灰色毛衣外套套装",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_3j6ae1a7cek5ca9k003clb2dlj01e_750x1252.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 50,
+          "stockId": "1175hfzm",
+          "style": "灰色毛衣外套",
+          "styleId": 1,
+          "xdSkuId": "1175hfzm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_3j6ae1a7cek5ca9k003clb2dlj01e_750x1252.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 50,
+          "stockId": "1175hfzo",
+          "style": "灰色毛衣外套",
+          "styleId": 1,
+          "xdSkuId": "1175hfzo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_3j6ae1a7cek5ca9k003clb2dlj01e_750x1252.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 50,
+          "stockId": "1175hfzq",
+          "style": "灰色毛衣外套",
+          "styleId": 1,
+          "xdSkuId": "1175hfzq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_099i921j7fl728k5cc58dbj0fld7h_640x960.jpg",
+          "nowprice": 8960,
+          "price": 12800,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 50,
+          "stockId": "1175hfzs",
+          "style": "白色连衣裙",
+          "styleId": 2,
+          "xdSkuId": "1175hfzs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_099i921j7fl728k5cc58dbj0fld7h_640x960.jpg",
+          "nowprice": 8960,
+          "price": 12800,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 50,
+          "stockId": "1175hfzu",
+          "style": "白色连衣裙",
+          "styleId": 2,
+          "xdSkuId": "1175hfzu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_099i921j7fl728k5cc58dbj0fld7h_640x960.jpg",
+          "nowprice": 8960,
+          "price": 12800,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 50,
+          "stockId": "1175hfzw",
+          "style": "白色连衣裙",
+          "styleId": 2,
+          "xdSkuId": "1175hfzw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_64idhcf82d4e36g3b822g9e82eddd_640x960.jpg",
+          "nowprice": 16900,
+          "price": 24143,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 50,
+          "stockId": "1175hfzy",
+          "style": "白色连衣裙+灰色毛衣外套套装",
+          "styleId": 3,
+          "xdSkuId": "1175hfzy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_64idhcf82d4e36g3b822g9e82eddd_640x960.jpg",
+          "nowprice": 16900,
+          "price": 24143,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 50,
+          "stockId": "1175hg00",
+          "style": "白色连衣裙+灰色毛衣外套套装",
+          "styleId": 3,
+          "xdSkuId": "1175hg00"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_64idhcf82d4e36g3b822g9e82eddd_640x960.jpg",
+          "nowprice": 16900,
+          "price": 24143,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 50,
+          "stockId": "1175hg02",
+          "style": "白色连衣裙+灰色毛衣外套套装",
+          "styleId": 3,
+          "xdSkuId": "1175hg02"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋装新款韩版长款毛衣外套配雪纺长袖连衣裙两件套长裙子时尚套装",
+      "totalStock": 450
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

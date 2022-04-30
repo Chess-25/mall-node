@@ -1,0 +1,2562 @@
+{
+  "iid": "1ltf2tu",
+  "result": {
+    "columns": [
+      "销量 292",
+      "收藏42人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "弹力打底衫上衣纯白色t恤修身夏装韩版女装",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180925_4l8eci0hef88k1k7h5d5eie8i8l78_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180925_836j9kl70jb4e82ij0cehlk3d8j60_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180925_341j9c84k3elg0a2ki2bi0fi5fg1f_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180925_2i18ij7ke3hhfkce7iik7g075eei0_790x1150.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180925_8efd36l38hc7i9h5c44ibi7j7jcjj_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180925_42ak725klbd5h567h9ldc20bi3g2d_790x1170.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180315_7bf8a426e5ff8947k032ic73bj175_790x1014.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180315_6ki5h7ikeaic0jel6973568k6edi5_790x1009.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_28lhga1683l7eaabcjl5hgf1k904c_790x970.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180315_2a8523ahi7e1i7e8hkk919f29l75f_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180315_7cig6e3j85fcg1b3ji4b9fhle3ij2_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180315_55a4bc7ehh775ei9df9kcacgb0a91_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180315_0472bah0ikgh1jj9d8iii19cei536_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_0fe9al03b8hi065c677aa1jk60lb3_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180315_78aa199445l38602f77161aa9g1b5_790x992.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_4djca5ch8777hd5bafij064bgl1a1_790x1118.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_3l2723affk99859jii27ilk539d7i_790x1052.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_5bbb9ljeg01hc7170cb9h4049ji86_790x789.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_2i4b17a87gd5e9e80k4c6je6c604k_790x391.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_7j7abb2ehl00e723ae32a4c9a4dih_790x506.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_538k7i467617ekc39j6k840dgikhk_790x399.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180315_5e3fk5ec0ckc290aa1kdc8icg8e36_790x400.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180315_0172f282ji8ka16cci8761d8j1i78_790x461.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #685#",
+      "desc": "弹力打底衫上衣纯白色t恤修身夏装韩版女装",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "促销价",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "49.80",
+      "highPrice": "71.28",
+      "iid": "1ltf2tu",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1ltf2tu&userId=13dqakc&shopId=1nzr4u",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "39.90",
+      "lowPrice": "57.00",
+      "oldPrice": "¥57.00",
+      "price": "¥39.90~¥49.80",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1nzr4u",
+      "state": 0,
+      "tags": "",
+      "title": "纯棉白色t恤女夏短袖修身短款半袖2018新款夏装紧身黑色体恤上衣长袖秋冬",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180926_88fke6gjal7aij03e3acg237je0la_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180925_42jgbjiigf2b02506le2i1lal5bj0_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180925_17cd358662ffc9jhah6bf6bl99c75_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180925_854990i7aclki62jh59gkeg39ida2_640x960.jpg"
+      ],
+      "userId": "13dqakc",
+      "video": {
+        "cover": "//s3.mogucdn.com/mlcdn/c45406/180315_59l6a2g835h08agc05ae05e8jec9e_640x960.jpg",
+        "videoId": 472308
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厂名",
+            "value": "邑生活服装厂"
+          },
+          {
+            "key": "季节",
+            "value": "夏季"
+          },
+          {
+            "key": "颜色",
+            "value": "v领灰色长袖,U领宝蓝色长袖,U领黑色,U领白色长袖,U领黑色长袖,U领果绿色,U领枚红色,U领粉红色,v领玫红色长袖,U领桔色长袖,v领宝蓝色长袖,U领灰色长袖,U领白色,v领白色长袖,v领黑色长袖,v领桔色长袖,U领浅灰色,U领桔色,U领玫红色长袖"
+          },
+          {
+            "key": "厂址",
+            "value": "成都大邑潘家街4段"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "尺码",
+            "value": "M（建议86-95斤穿）,L（建议96-105斤穿）,S（建议85斤以下穿）,5XL（建议150-165斤穿）,XXL（建议116-130斤穿）,4XL（建议140-150斤穿）,XL（建议106-115斤穿）,3XL（建议130-140斤穿）"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "修身"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "测量单位厘米，手工测量 可能存在1-3厘米误差",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "M（建议86-95斤穿）",
+              "S（建议85斤以下穿）",
+              "L（建议96-105斤穿）",
+              "XL（建议106-115斤穿）"
+            ],
+            [
+              "肩宽",
+              "34",
+              "33",
+              "35",
+              "36"
+            ],
+            [
+              "腰围",
+              "70",
+              "66",
+              "74",
+              "78"
+            ],
+            [
+              "衣长",
+              "58",
+              "57",
+              "59",
+              "60"
+            ],
+            [
+              "胸围",
+              "80",
+              "76",
+              "84",
+              "88"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL（建议116-130斤穿）",
+              "3XL（建议130-140斤穿）",
+              "4XL（建议140-150斤穿）",
+              "5XL（建议150-165斤穿）"
+            ],
+            [
+              "肩宽",
+              "37",
+              "38",
+              "39",
+              "40"
+            ],
+            [
+              "腰围",
+              "82",
+              "86",
+              "90",
+              "94"
+            ],
+            [
+              "衣长",
+              "61",
+              "62",
+              "63",
+              "64"
+            ],
+            [
+              "胸围",
+              "92",
+              "96",
+              "100",
+              "104"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1nzr4u",
+      "list": [
+        "满68元减2元",
+        "满128元减5元"
+      ]
+    },
+    "rate": {
+      "cRate": 39,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服纯棉，我喜欢，穿起来舒服，修身",
+          "created": 1533012389,
+          "explain": "[商家回复]:  非常感谢亲真诚的评价，您的满意是我们追求的最高目标，任何不满意或者满意请及时告诉我们的客服哦，我们努力为您解决一切问题",
+          "images": [
+            "//s5.mogucdn.com/mlcdn/c45406/180731_5h0hka3flbgk8bg3jg9a87l02ikil_1080x1440.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115qw410",
+          "style": "颜色:U领黑色 尺码:L（建议96-105斤穿） ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "wx_yxs3udw43hwv7"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1nzr4u",
+      "cFans": 3197,
+      "cGoods": 286,
+      "cSells": 231795,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=1357815",
+          "name": "T桖"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=1471474",
+          "name": "衬衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=1471487",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=1505927",
+          "name": "家居服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=1505928",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=1505929",
+          "name": "袜子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=1505930",
+          "name": "下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=20228439",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=20292206",
+          "name": "雪纺衫/蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=20292436",
+          "name": "风衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=20313562",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1nzr4u/list/index?categoryId=20339319",
+          "name": "秋装新品"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "邑生活",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.73
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.7
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1nzr4u",
+      "shopLogo": "//s5.mogucdn.com/p1/160525/1ov59e_ifrtsztfmnqtczdchazdambqhayde_80x80.gif",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1nzr4u",
+      "type": 1,
+      "userId": "13dqakc"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥39.90~¥49.80",
+      "isAbroad": false,
+      "priceRange": "¥39.90~¥49.80",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "U领白色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "U领黑色",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "U领浅灰色",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "U领枚红色",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "U领果绿色",
+              "styleId": 5,
+              "type": "style"
+            },
+            {
+              "index": 6,
+              "isDefault": false,
+              "name": "U领桔色",
+              "styleId": 6,
+              "type": "style"
+            },
+            {
+              "index": 7,
+              "isDefault": false,
+              "name": "U领粉红色",
+              "styleId": 7,
+              "type": "style"
+            },
+            {
+              "index": 8,
+              "isDefault": false,
+              "name": "U领白色长袖",
+              "styleId": 8,
+              "type": "style"
+            },
+            {
+              "index": 9,
+              "isDefault": false,
+              "name": "U领黑色长袖",
+              "styleId": 9,
+              "type": "style"
+            },
+            {
+              "index": 10,
+              "isDefault": false,
+              "name": "U领灰色长袖",
+              "styleId": 10,
+              "type": "style"
+            },
+            {
+              "index": 11,
+              "isDefault": false,
+              "name": "U领玫红色长袖",
+              "styleId": 11,
+              "type": "style"
+            },
+            {
+              "index": 12,
+              "isDefault": false,
+              "name": "U领桔色长袖",
+              "styleId": 12,
+              "type": "style"
+            },
+            {
+              "index": 13,
+              "isDefault": false,
+              "name": "U领宝蓝色长袖",
+              "styleId": 13,
+              "type": "style"
+            },
+            {
+              "index": 14,
+              "isDefault": false,
+              "name": "v领白色长袖",
+              "styleId": 14,
+              "type": "style"
+            },
+            {
+              "index": 15,
+              "isDefault": false,
+              "name": "v领黑色长袖",
+              "styleId": 15,
+              "type": "style"
+            },
+            {
+              "index": 16,
+              "isDefault": false,
+              "name": "v领灰色长袖",
+              "styleId": 16,
+              "type": "style"
+            },
+            {
+              "index": 17,
+              "isDefault": false,
+              "name": "v领玫红色长袖",
+              "styleId": 17,
+              "type": "style"
+            },
+            {
+              "index": 18,
+              "isDefault": false,
+              "name": "v领桔色长袖",
+              "styleId": 18,
+              "type": "style"
+            },
+            {
+              "index": 19,
+              "isDefault": false,
+              "name": "v领宝蓝色长袖",
+              "styleId": 19,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "M（建议86-95斤穿）",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "S（建议85斤以下穿）",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L（建议96-105斤穿）",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL（建议106-115斤穿）",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL（建议116-130斤穿）",
+              "sizeId": 104,
+              "type": "size"
+            },
+            {
+              "index": 105,
+              "isDefault": false,
+              "name": "3XL（建议130-140斤穿）",
+              "sizeId": 105,
+              "type": "size"
+            },
+            {
+              "index": 106,
+              "isDefault": false,
+              "name": "4XL（建议140-150斤穿）",
+              "sizeId": 106,
+              "type": "size"
+            },
+            {
+              "index": 107,
+              "isDefault": false,
+              "name": "5XL（建议150-165斤穿）",
+              "sizeId": 107,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 670,
+          "stockId": "110h8bo6",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8bo6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 708,
+          "stockId": "110h8bo8",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8bo8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 409,
+          "stockId": "110h8boa",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8boa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 481,
+          "stockId": "110h8boc",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8boc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 764,
+          "stockId": "110h8boe",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8boe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 904,
+          "stockId": "110h8bog",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8bog"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 979,
+          "stockId": "110h8boi",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8boi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_079lce9699667d22cc6b62g44cjag_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 970,
+          "stockId": "110h8bok",
+          "style": "U领白色",
+          "styleId": 1,
+          "xdSkuId": "110h8bok"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 670,
+          "stockId": "110h8boo",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8boo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 909,
+          "stockId": "110h8bom",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8bom"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 586,
+          "stockId": "110h8boq",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8boq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 784,
+          "stockId": "110h8bos",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8bos"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 845,
+          "stockId": "110h8bou",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8bou"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 875,
+          "stockId": "110h8bow",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8bow"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 980,
+          "stockId": "110h8boy",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8boy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_59g3e86kl839ihi971gbkhj1jga51_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 959,
+          "stockId": "110h8bp0",
+          "style": "U领黑色",
+          "styleId": 2,
+          "xdSkuId": "110h8bp0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 999,
+          "stockId": "110h8bp4",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bp4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "110h8bp2",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bp2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 990,
+          "stockId": "110h8bp6",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bp6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 989,
+          "stockId": "110h8bp8",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bp8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 1000,
+          "stockId": "110h8bpa",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bpa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "110h8bpc",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bpc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "110h8bpe",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bpe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_25i86374abfgh8745k4ik5kajejl6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "110h8bpg",
+          "style": "U领浅灰色",
+          "styleId": 3,
+          "xdSkuId": "110h8bpg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 958,
+          "stockId": "110h8bpk",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bpk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 929,
+          "stockId": "110h8bpi",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bpi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 938,
+          "stockId": "110h8bpm",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bpm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 970,
+          "stockId": "110h8bpo",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bpo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 979,
+          "stockId": "110h8bpq",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bpq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "110h8bps",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bps"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "110h8bpu",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bpu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_3ihef5i29ijefjdi7jl467f4jhcdf_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "110h8bpw",
+          "style": "U领枚红色",
+          "styleId": 4,
+          "xdSkuId": "110h8bpw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 969,
+          "stockId": "110h8bq0",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bq0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 100,
+          "stockId": "110h8bpy",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bpy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 100,
+          "stockId": "110h8bq2",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bq2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 989,
+          "stockId": "110h8bq4",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bq4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 980,
+          "stockId": "110h8bq6",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bq6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "110h8bvs",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bvs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "110h8bvu",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bvu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180315_3cj0bbfj8b92b8e9e42bb7ji962g3_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "110h8bvw",
+          "style": "U领果绿色",
+          "styleId": 5,
+          "xdSkuId": "110h8bvw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 980,
+          "stockId": "110h8bw0",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bw0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 990,
+          "stockId": "110h8bvy",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bvy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 976,
+          "stockId": "110h8bw2",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bw2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 990,
+          "stockId": "110h8bw4",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bw4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 100,
+          "stockId": "110h8bw6",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bw6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "110h8bw8",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bw8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "110h8bwa",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bwa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180315_7g2l86hgbfhkehad6jkk7lka8df63_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "110h8bwc",
+          "style": "U领桔色",
+          "styleId": 6,
+          "xdSkuId": "110h8bwc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 947,
+          "stockId": "110h8bwg",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bwg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 988,
+          "stockId": "110h8bwe",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bwe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 950,
+          "stockId": "110h8bwi",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bwi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 990,
+          "stockId": "110h8bwk",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bwk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 979,
+          "stockId": "110h8bwm",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bwm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "110h8bwo",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bwo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "110h8bwq",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bwq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180315_6l4bjh2d67gecl50iedgh4h9f8ff6_800x800.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "110h8bws",
+          "style": "U领粉红色",
+          "styleId": 7,
+          "xdSkuId": "110h8bws"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 499,
+          "stockId": "11744y0e",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y0g",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 499,
+          "stockId": "11744y0i",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y0k",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y0m",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 500,
+          "stockId": "11744y0o",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 500,
+          "stockId": "11744y0q",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_0284l79jk1dh301fb1lejk037716h_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 500,
+          "stockId": "11744y0s",
+          "style": "U领白色长袖",
+          "styleId": 8,
+          "xdSkuId": "11744y0s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744y0w",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y0w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y0u",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y0u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 499,
+          "stockId": "11744y0y",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y0y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y10",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y10"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y12",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y12"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 500,
+          "stockId": "11744y14",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y14"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 500,
+          "stockId": "11744y16",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y16"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_03b8f522d380c929kfacfbi1iia35_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 500,
+          "stockId": "11744y18",
+          "style": "U领黑色长袖",
+          "styleId": 9,
+          "xdSkuId": "11744y18"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744y1c",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y1a",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744y1e",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y1g",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y1i",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744y1k",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744y1m",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_4298l62h2g6kdh0deda06j3j0hl8c_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744y1o",
+          "style": "U领灰色长袖",
+          "styleId": 10,
+          "xdSkuId": "11744y1o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744y1s",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y1s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y1q",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y1q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744y1u",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y1u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y1w",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y1w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y1y",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y1y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744y20",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y20"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744y22",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y22"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_453kfk87a2j7jgf7fj34l7ejj85cj_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744y24",
+          "style": "U领玫红色长袖",
+          "styleId": 11,
+          "xdSkuId": "11744y24"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744y28",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y28"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y26",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y26"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744y2a",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y2a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y2c",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y2c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y2e",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y2e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744y2g",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y2g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744y2i",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y2i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_2ibbbk2ki5308dg0hkhabgedgh6ek_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744y2k",
+          "style": "U领桔色长袖",
+          "styleId": 12,
+          "xdSkuId": "11744y2k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744y2o",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y2o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y2m",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y2m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744y2q",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y2q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y2s",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y2s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y2u",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y2u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744y2w",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y2w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744y2y",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y2y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180925_5fegg73dblghih1jfdb14h1jlcf83_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744y30",
+          "style": "U领宝蓝色长袖",
+          "styleId": 13,
+          "xdSkuId": "11744y30"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744y34",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y34"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y32",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y32"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744y36",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y36"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y38",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y38"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y3a",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y3a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 500,
+          "stockId": "11744y3e",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y3e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 500,
+          "stockId": "11744y3c",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y3c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1lj4bcjig71d046db6862jjh90lkd_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 500,
+          "stockId": "11744y3g",
+          "style": "v领白色长袖",
+          "styleId": 14,
+          "xdSkuId": "11744y3g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744y3k",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744y3k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744y3i",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744y3i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744y3m",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744y3m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744y3o",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744y3o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744y3q",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744y3q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 500,
+          "stockId": "11744yvk",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744yvk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 500,
+          "stockId": "11744yvm",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744yvm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_1ddif2407666740c004fehibef0gk_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 500,
+          "stockId": "11744yvo",
+          "style": "v领黑色长袖",
+          "styleId": 15,
+          "xdSkuId": "11744yvo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744yvs",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yvs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744yvq",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yvq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744yvu",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yvu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744yvw",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yvw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744yvy",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yvy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744yw0",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yw0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744yw2",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yw2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_6ij511l6b3bh05d396fdgbli35d7i_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744yw4",
+          "style": "v领灰色长袖",
+          "styleId": 16,
+          "xdSkuId": "11744yw4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744yw8",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744yw8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744yw6",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744yw6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744ywa",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744ywa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744ywc",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744ywc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744ywi",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744ywi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744ywe",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744ywe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744ywg",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744ywg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_4h1hkc2i6i3592i9397j64kha9f68_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744ywk",
+          "style": "v领玫红色长袖",
+          "styleId": 17,
+          "xdSkuId": "11744ywk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744ywo",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744ywo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744ywm",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744ywm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744ywq",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744ywq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744yws",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744yws"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744ywu",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744ywu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744yww",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744yww"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744ywy",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744ywy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180925_555hi1091gf2g67l3h0c374h371df_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744yx0",
+          "style": "v领桔色长袖",
+          "styleId": 18,
+          "xdSkuId": "11744yx0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "M（建议86-95斤穿）",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11744yx4",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yx4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "S（建议85斤以下穿）",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "11744yx2",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yx2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "L（建议96-105斤穿）",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "11744yx6",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yx6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XL（建议106-115斤穿）",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "11744yx8",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yx8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "XXL（建议116-130斤穿）",
+          "sizeId": 104,
+          "stock": 500,
+          "stockId": "11744yxa",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yxa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "3XL（建议130-140斤穿）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "11744yxc",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yxc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "4XL（建议140-150斤穿）",
+          "sizeId": 106,
+          "stock": 0,
+          "stockId": "11744yxe",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yxe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0f8b9dae59l373cbakcaal68fd3a7_800x800.jpg",
+          "nowprice": 4980,
+          "price": 7128,
+          "size": "5XL（建议150-165斤穿）",
+          "sizeId": 107,
+          "stock": 0,
+          "stockId": "11744yxg",
+          "style": "v领宝蓝色长袖",
+          "styleId": 19,
+          "xdSkuId": "11744yxg"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "纯棉白色t恤女夏短袖修身短款半袖2018新款夏装紧身黑色体恤上衣长袖秋冬",
+      "totalStock": 70270
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

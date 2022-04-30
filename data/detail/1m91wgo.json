@@ -1,0 +1,663 @@
+{
+  "iid": "1m91wgo",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018春秋装新款韩版宽松百搭学生蝴蝶结雪纺白衬衫女长袖打底衬衣",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180926_4e0c55j9kkeakejil3a24dl5hfbkg_709x682.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_3ke5gc1e5cbkiac9g8829de6gjf10_800x764.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #686#",
+      "desc": "2018春秋装新款韩版宽松百搭学生蝴蝶结雪纺白衬衫女长袖打底衬衣",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "29.53",
+        "sendAddress": ""
+      },
+      "highNowPrice": "46.47",
+      "highPrice": "46.47",
+      "iid": "1m91wgo",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m91wgo&userId=17hb59e&shopId=1172ui8q",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "42.19",
+      "lowPrice": "42.19",
+      "price": "¥42.19~¥46.47",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172ui8q",
+      "state": 0,
+      "tags": "",
+      "title": "2018春秋装新款韩版宽松百搭学生蝴蝶结雪纺白衬衫女长袖打底衬衣",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180926_8dcb9bb099di6b1ee3h397k1k341e_640x960.jpg"
+      ],
+      "userId": "17hb59e"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厂名",
+            "value": "海宁紫艺服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,白色,红色"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "适中"
+          },
+          {
+            "key": "衣门襟",
+            "value": "单排扣"
+          },
+          {
+            "key": "穿着方式",
+            "value": "开襟"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,2XL,3XL,4XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          },
+          {
+            "key": "下摆",
+            "value": "敞口"
+          },
+          {
+            "key": "季节",
+            "value": "秋冬"
+          },
+          {
+            "key": "厂址",
+            "value": "浙江省海宁市许村镇许路29号2栋4楼"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "学院"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "衣长（前）",
+              "52",
+              "53",
+              "54",
+              "55"
+            ],
+            [
+              "肩宽",
+              "48",
+              "49",
+              "50",
+              "51"
+            ],
+            [
+              "胸围",
+              "100",
+              "102",
+              "103",
+              "105"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "2XL",
+              "3XL",
+              "4XL"
+            ],
+            [
+              "衣长（前）",
+              "56",
+              "57",
+              "58"
+            ],
+            [
+              "肩宽",
+              "52",
+              "53",
+              "54"
+            ],
+            [
+              "胸围",
+              "107",
+              "109",
+              "111"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172ui8q",
+      "cFans": 94,
+      "cGoods": 493,
+      "cSells": 10287,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172ui8q/list/index?categoryId=20249608",
+          "name": "靴子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ui8q/list/index?categoryId=20253469",
+          "name": "休闲平底鞋"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ui8q/list/index?categoryId=20253470",
+          "name": "厚底松糕鞋"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ui8q/list/index?categoryId=20253473",
+          "name": "粗跟乐福鞋"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ui8q/list/index?categoryId=20253670",
+          "name": "跑步鞋"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ui8q/list/index?categoryId=20253671",
+          "name": "板鞋"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ui8q/list/index?categoryId=20272308",
+          "name": "打底衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "麻辣蘑菇",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.93
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.98
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172ui8q",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/170918_8b5hhc6b69l0ag57j45abe33ecei5_1024x1024.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172ui8q",
+      "type": 2,
+      "userId": "17hb59e"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥42.19~¥46.47",
+      "isAbroad": false,
+      "priceRange": "¥42.19~¥46.47",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "白色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "红色",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "2XL",
+              "sizeId": 104,
+              "type": "size"
+            },
+            {
+              "index": 105,
+              "isDefault": false,
+              "name": "3XL",
+              "sizeId": 105,
+              "type": "size"
+            },
+            {
+              "index": 106,
+              "isDefault": false,
+              "name": "4XL",
+              "sizeId": 106,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_773l7cdl37k7d42k72gd73dj2l2lb_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 2000,
+          "stockId": "1174yp3s",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1174yp3s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_773l7cdl37k7d42k72gd73dj2l2lb_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 2000,
+          "stockId": "1174yp3q",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1174yp3q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_773l7cdl37k7d42k72gd73dj2l2lb_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 2000,
+          "stockId": "1174yp3u",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1174yp3u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_773l7cdl37k7d42k72gd73dj2l2lb_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 2000,
+          "stockId": "1174yp3w",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1174yp3w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_773l7cdl37k7d42k72gd73dj2l2lb_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "2XL",
+          "sizeId": 104,
+          "stock": 2000,
+          "stockId": "1174yp3y",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1174yp3y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_773l7cdl37k7d42k72gd73dj2l2lb_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "3XL",
+          "sizeId": 105,
+          "stock": 2000,
+          "stockId": "1174yp4k",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1174yp4k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_773l7cdl37k7d42k72gd73dj2l2lb_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "4XL",
+          "sizeId": 106,
+          "stock": 2000,
+          "stockId": "1174yp4m",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1174yp4m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_7el03i013c87h1hgbe45gfb34e690_640x640.jpg",
+          "nowprice": 4219,
+          "price": 4219,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 2000,
+          "stockId": "1174yp40",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yp40"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_7el03i013c87h1hgbe45gfb34e690_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 2000,
+          "stockId": "1174yp42",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yp42"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_7el03i013c87h1hgbe45gfb34e690_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 2000,
+          "stockId": "1174yp44",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yp44"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_7el03i013c87h1hgbe45gfb34e690_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 2000,
+          "stockId": "1174yp46",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yp46"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_7el03i013c87h1hgbe45gfb34e690_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "2XL",
+          "sizeId": 104,
+          "stock": 2000,
+          "stockId": "1174yp48",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yp48"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_7el03i013c87h1hgbe45gfb34e690_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "3XL",
+          "sizeId": 105,
+          "stock": 2000,
+          "stockId": "1174yp4o",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yp4o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_7el03i013c87h1hgbe45gfb34e690_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "4XL",
+          "sizeId": 106,
+          "stock": 2000,
+          "stockId": "1174yp4q",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yp4q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3k14glfk01ebb2hb10bc6h8652bd9_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 2000,
+          "stockId": "1174yp4a",
+          "style": "红色",
+          "styleId": 3,
+          "xdSkuId": "1174yp4a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3k14glfk01ebb2hb10bc6h8652bd9_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 2000,
+          "stockId": "1174yp4c",
+          "style": "红色",
+          "styleId": 3,
+          "xdSkuId": "1174yp4c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3k14glfk01ebb2hb10bc6h8652bd9_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 2000,
+          "stockId": "1174yp4e",
+          "style": "红色",
+          "styleId": 3,
+          "xdSkuId": "1174yp4e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3k14glfk01ebb2hb10bc6h8652bd9_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 2000,
+          "stockId": "1174yp4g",
+          "style": "红色",
+          "styleId": 3,
+          "xdSkuId": "1174yp4g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3k14glfk01ebb2hb10bc6h8652bd9_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "2XL",
+          "sizeId": 104,
+          "stock": 2000,
+          "stockId": "1174yp4i",
+          "style": "红色",
+          "styleId": 3,
+          "xdSkuId": "1174yp4i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3k14glfk01ebb2hb10bc6h8652bd9_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "3XL",
+          "sizeId": 105,
+          "stock": 2000,
+          "stockId": "1174yp4s",
+          "style": "红色",
+          "styleId": 3,
+          "xdSkuId": "1174yp4s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3k14glfk01ebb2hb10bc6h8652bd9_640x640.jpg",
+          "nowprice": 4647,
+          "price": 4647,
+          "size": "4XL",
+          "sizeId": 106,
+          "stock": 2000,
+          "stockId": "1174yp4u",
+          "style": "红色",
+          "styleId": 3,
+          "xdSkuId": "1174yp4u"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018春秋装新款韩版宽松百搭学生蝴蝶结雪纺白衬衫女长袖打底衬衣",
+      "totalStock": 42000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

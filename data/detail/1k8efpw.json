@@ -1,0 +1,1366 @@
+{
+  "iid": "1k8efpw",
+  "result": {
+    "columns": [
+      "销量 160",
+      "收藏130人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "纯棉舒适 弹力好 宽松显瘦",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/p2/170310/89187459_3dc26g6c165g7jb90gfl59jldb09f_700x534.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_5dd47deeibghge6088digk8i3f5ld_700x633.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_20c4f5871algg3db540216e8gi6el_700x641.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_3d2432e22l31bhi75bl49i4c19a64_700x598.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_4jc0gih4i78h21jcgaec2k71e1bb6_700x552.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_1lek002al137lkacgl68dl007hfi3_750x837.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_639akc8kf1ekk2jbhhlk9d6hihl85_700x667.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_28kfb7a02e74800hkhc559fhaj6h0_700x764.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_6aac4233ie4lkia6j268bl1ci5a88_700x871.jpg",
+            "//s3.mogucdn.com/p2/170310/89187459_7kfi51h529kehhb1jcf9il7kddi49_700x805.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_80lie3f805eel87b3c6f5l5f249l0_700x856.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_6ldja8b15bhc857ha73g0hfj0k0k5_700x794.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_2kl10e070i7dbhj2cfa18k1eelh9j_700x796.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_4k0k2jdk7l1l7b03gg9ad9044c5k5_700x824.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_55h654dg8f3a612e033ah340g4k9h_700x825.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_2f1f0gjdfbd5afhlhj4fi5c6dj8kh_700x833.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_8fl7e77ga5f1159d0aadh1824lgb4_700x876.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_396lc1fh24g25867406j669keifbl_700x883.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_4j6h49f1ci2f4l5g0bakg5k1iflak_700x860.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_6e88daiadd1hkgllfbielk116jd7f_700x867.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_8ej31ldhg0blkl45i8eaec73a3l9d_700x831.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_1bfdld79546k92bg9fl1b8llj342c_700x926.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/p2/170310/89187459_88adhclj4a3114c96de3ge9jld0ch_700x593.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_5gb2488l02jb9951c24ch67fec4h2_700x602.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_407kha5144i1ha72jfdai7jf2k909_700x653.jpg",
+            "//s5.mogucdn.com/p2/170310/89187459_89h120e0c3alc35j5gd4kabc4kka2_700x621.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_410j0lfba5248f1fk3761092g6b55_700x708.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_3a5ea8gi2f3jl5d54j1ec2gebkllf_700x672.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_14ib08bi161k06kb8l8i30f5jigib_700x681.jpg",
+            "//s11.mogucdn.com/p2/170310/89187459_14438dll03lkj8da5i07kk460174g_700x625.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #685#",
+      "desc": "纯棉舒适 弹力好 宽松显瘦",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "限时特优",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "39.00",
+      "highPrice": "55.72",
+      "iid": "1k8efpw",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1k8efpw&userId=12y770e&shopId=15wm6",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "39.00",
+      "lowPrice": "55.72",
+      "oldPrice": "¥55.72",
+      "price": "¥39.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "15wm6",
+      "state": 0,
+      "tags": "",
+      "title": "2018夏季新款纯色体恤韩版白色短袖T恤女百搭学生黑色宽松圆领上衣显瘦打底衫",
+      "topImages": [
+        "//s11.mogucdn.com/p2/170310/89187459_381lbi9315h9jjgl1i812il7ie72e_640x960.jpg",
+        "//s5.mogucdn.com/p2/170310/89187459_812gldl34edgf3ak9l89jdg65ea61_640x960.jpg",
+        "//s5.mogucdn.com/p2/170310/89187459_7jl27i2g65ad84klgj8iedikc4ba3_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_7egi7gg21847le5fj9fij25cbifga_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_4bjgdcj4l464045569ig82968d24i_640x960.jpg",
+        "//s5.mogucdn.com/p2/170310/89187459_15l3j7ggbk6e030kdcb8h26j045gk_640x960.jpg",
+        "//s5.mogucdn.com/p2/170310/89187459_216a6l4c933c6ge00330k7ek51i61_640x960.jpg",
+        "//s5.mogucdn.com/p2/170310/89187459_706jb7bhli72k3d99a634j75764ci_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_3d18jfeh02ig9ldba13a3jf08c959_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_0d0i7la4ddekd87kab425fcjhl5i0_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_176ced5dd1lk16ggeadh7j6i3hg8g_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_5g91e8f1adhi6gijglb695b6fbc4c_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_5h687g51758haah6f1ij3lg8lgkcj_640x960.jpg",
+        "//s11.mogucdn.com/p2/170310/89187459_1ahdj5blg13ek0fi6fgg48d7cl072_640x960.jpg"
+      ],
+      "userId": "12y770e"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "颜色",
+            "value": "黑麻灰【纯棉显瘦】,草绿色【纯棉显瘦】,墨绿色【纯棉显瘦】,黄色【纯棉显瘦】,酒红色【纯棉显瘦】,桔红色【纯棉显瘦】,军绿色【纯棉显瘦】,大红色【纯棉显瘦】,黑色【纯棉显瘦】,白花灰【纯棉显瘦】,白色【纯棉显瘦】,粉红色【纯棉显瘦】,天蓝色【纯棉显瘦】"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "适中"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M,XXL"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          },
+          {
+            "key": "下摆",
+            "value": "敞口"
+          },
+          {
+            "key": "季节",
+            "value": "春夏"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "袖长",
+            "value": "短袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "衣长",
+              "58",
+              "59",
+              "60",
+              "61"
+            ],
+            [
+              "肩宽",
+              "36",
+              "37",
+              "38",
+              "39"
+            ],
+            [
+              "胸围",
+              "82",
+              "86",
+              "90",
+              "94"
+            ],
+            [
+              "腰围",
+              "不限",
+              "不限",
+              "不限",
+              "不限"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL"
+            ],
+            [
+              "衣长",
+              "62"
+            ],
+            [
+              "肩宽",
+              "40"
+            ],
+            [
+              "胸围",
+              "98"
+            ],
+            [
+              "腰围",
+              "不限"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=15wm6",
+      "list": [
+        "满2件减10元",
+        "满2件减8元",
+        "满2件减11元"
+      ]
+    },
+    "rate": {
+      "cRate": 67,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "一开始还担心质量不好，收到衣服后 感觉所有的担心都是多余的，短袖摸起来就特别舒服 一看就不是松松垮垮的 很有型衣服质量绝对值这个价钱 而且我买的黑色 刚洗了 一点都不掉色 衣服上有一个不忘初心 方得始终 店家真的是不忘初心 把衣服做的这么好  真是评价 绝对值！",
+          "created": 1526800409,
+          "extraInfo": [
+            "体重:53 kg",
+            "是否合身:合身",
+            "身高:168 cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "114v295e",
+          "style": "颜色:黑色【纯棉显瘦】 尺码:M ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_825c06kdj394515kkkjhhi0el8j86_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "一只松鼠916"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/15wm6",
+      "cFans": 6232,
+      "cGoods": 80,
+      "cSells": 49773,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=1500866",
+          "name": "韩版T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=1503630",
+          "name": "纯棉运动裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20100823",
+          "name": "百搭卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20120614",
+          "name": "秋冬外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20163664",
+          "name": "新品上市"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20166324",
+          "name": "不倒绒加厚"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20166325",
+          "name": "纯棉薄款"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20166330",
+          "name": "夏季短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20174591",
+          "name": "130元2件"
+        },
+        {
+          "link": "http://s.meilishuo.com/15wm6/list/index?categoryId=20275668",
+          "name": "羊羔绒加厚"
+        }
+      ],
+      "isMarked": false,
+      "level": 2,
+      "name": "依芙娅",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.77
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.78
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        }
+      ],
+      "shopId": "15wm6",
+      "shopLogo": "//s11.mogucdn.com/p1/151101/1h3lhf_ifqtqmdfmfsggojzgqzdambqgyyde_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/15wm6",
+      "type": 1,
+      "userId": "12y770e"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥39.00",
+      "isAbroad": false,
+      "priceRange": "¥39.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色【纯棉显瘦】",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "白色【纯棉显瘦】",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "白花灰【纯棉显瘦】",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "黑麻灰【纯棉显瘦】",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "军绿色【纯棉显瘦】",
+              "styleId": 5,
+              "type": "style"
+            },
+            {
+              "index": 6,
+              "isDefault": false,
+              "name": "墨绿色【纯棉显瘦】",
+              "styleId": 6,
+              "type": "style"
+            },
+            {
+              "index": 7,
+              "isDefault": false,
+              "name": "草绿色【纯棉显瘦】",
+              "styleId": 7,
+              "type": "style"
+            },
+            {
+              "index": 8,
+              "isDefault": false,
+              "name": "天蓝色【纯棉显瘦】",
+              "styleId": 8,
+              "type": "style"
+            },
+            {
+              "index": 9,
+              "isDefault": false,
+              "name": "粉红色【纯棉显瘦】",
+              "styleId": 9,
+              "type": "style"
+            },
+            {
+              "index": 10,
+              "isDefault": false,
+              "name": "黄色【纯棉显瘦】",
+              "styleId": 10,
+              "type": "style"
+            },
+            {
+              "index": 11,
+              "isDefault": false,
+              "name": "大红色【纯棉显瘦】",
+              "styleId": 11,
+              "type": "style"
+            },
+            {
+              "index": 12,
+              "isDefault": false,
+              "name": "酒红色【纯棉显瘦】",
+              "styleId": 12,
+              "type": "style"
+            },
+            {
+              "index": 13,
+              "isDefault": false,
+              "name": "桔红色【纯棉显瘦】",
+              "styleId": 13,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_25h76ha0b447dae7eehk5f0jih84l_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 48,
+          "stockId": "1pwvcz2",
+          "style": "黑色【纯棉显瘦】",
+          "styleId": 1,
+          "xdSkuId": "1pwvcz2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_25h76ha0b447dae7eehk5f0jih84l_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 44,
+          "stockId": "1pwvcz4",
+          "style": "黑色【纯棉显瘦】",
+          "styleId": 1,
+          "xdSkuId": "1pwvcz4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_25h76ha0b447dae7eehk5f0jih84l_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 61,
+          "stockId": "1pwvcz6",
+          "style": "黑色【纯棉显瘦】",
+          "styleId": 1,
+          "xdSkuId": "1pwvcz6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_25h76ha0b447dae7eehk5f0jih84l_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 71,
+          "stockId": "1pwvcz8",
+          "style": "黑色【纯棉显瘦】",
+          "styleId": 1,
+          "xdSkuId": "1pwvcz8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_25h76ha0b447dae7eehk5f0jih84l_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 71,
+          "stockId": "1pwvcza",
+          "style": "黑色【纯棉显瘦】",
+          "styleId": 1,
+          "xdSkuId": "1pwvcza"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_2ie9lkcci6bjcgbl06ab928jcc7jf_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 20,
+          "stockId": "1pwvczc",
+          "style": "白色【纯棉显瘦】",
+          "styleId": 2,
+          "xdSkuId": "1pwvczc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_2ie9lkcci6bjcgbl06ab928jcc7jf_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1pwvcze",
+          "style": "白色【纯棉显瘦】",
+          "styleId": 2,
+          "xdSkuId": "1pwvcze"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_2ie9lkcci6bjcgbl06ab928jcc7jf_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 41,
+          "stockId": "1pwvczg",
+          "style": "白色【纯棉显瘦】",
+          "styleId": 2,
+          "xdSkuId": "1pwvczg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_2ie9lkcci6bjcgbl06ab928jcc7jf_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 74,
+          "stockId": "1pwvczi",
+          "style": "白色【纯棉显瘦】",
+          "styleId": 2,
+          "xdSkuId": "1pwvczi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_2ie9lkcci6bjcgbl06ab928jcc7jf_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 84,
+          "stockId": "1pwvczk",
+          "style": "白色【纯棉显瘦】",
+          "styleId": 2,
+          "xdSkuId": "1pwvczk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_6hdeld2dj31baa1eddkgk4af0c7ak_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 82,
+          "stockId": "1pwvczm",
+          "style": "白花灰【纯棉显瘦】",
+          "styleId": 3,
+          "xdSkuId": "1pwvczm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_6hdeld2dj31baa1eddkgk4af0c7ak_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 77,
+          "stockId": "1pwvczo",
+          "style": "白花灰【纯棉显瘦】",
+          "styleId": 3,
+          "xdSkuId": "1pwvczo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_6hdeld2dj31baa1eddkgk4af0c7ak_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 82,
+          "stockId": "1pwvczq",
+          "style": "白花灰【纯棉显瘦】",
+          "styleId": 3,
+          "xdSkuId": "1pwvczq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_6hdeld2dj31baa1eddkgk4af0c7ak_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 92,
+          "stockId": "1pwvczs",
+          "style": "白花灰【纯棉显瘦】",
+          "styleId": 3,
+          "xdSkuId": "1pwvczs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_6hdeld2dj31baa1eddkgk4af0c7ak_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 95,
+          "stockId": "1pwvczu",
+          "style": "白花灰【纯棉显瘦】",
+          "styleId": 3,
+          "xdSkuId": "1pwvczu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_793he704be4b4008470ggac695k5d_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "1pwvczw",
+          "style": "黑麻灰【纯棉显瘦】",
+          "styleId": 4,
+          "xdSkuId": "1pwvczw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_793he704be4b4008470ggac695k5d_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1pwvczy",
+          "style": "黑麻灰【纯棉显瘦】",
+          "styleId": 4,
+          "xdSkuId": "1pwvczy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_793he704be4b4008470ggac695k5d_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "1pwvd00",
+          "style": "黑麻灰【纯棉显瘦】",
+          "styleId": 4,
+          "xdSkuId": "1pwvd00"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_793he704be4b4008470ggac695k5d_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "1pwvd02",
+          "style": "黑麻灰【纯棉显瘦】",
+          "styleId": 4,
+          "xdSkuId": "1pwvd02"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_793he704be4b4008470ggac695k5d_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "1pwvd04",
+          "style": "黑麻灰【纯棉显瘦】",
+          "styleId": 4,
+          "xdSkuId": "1pwvd04"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_16jb67463l47e9addl730ah5i3f2i_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "1pwvd06",
+          "style": "军绿色【纯棉显瘦】",
+          "styleId": 5,
+          "xdSkuId": "1pwvd06"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_16jb67463l47e9addl730ah5i3f2i_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1pwvd08",
+          "style": "军绿色【纯棉显瘦】",
+          "styleId": 5,
+          "xdSkuId": "1pwvd08"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_16jb67463l47e9addl730ah5i3f2i_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "1pwvd0a",
+          "style": "军绿色【纯棉显瘦】",
+          "styleId": 5,
+          "xdSkuId": "1pwvd0a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_16jb67463l47e9addl730ah5i3f2i_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "1pwvd0c",
+          "style": "军绿色【纯棉显瘦】",
+          "styleId": 5,
+          "xdSkuId": "1pwvd0c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_16jb67463l47e9addl730ah5i3f2i_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "1pwvd0e",
+          "style": "军绿色【纯棉显瘦】",
+          "styleId": 5,
+          "xdSkuId": "1pwvd0e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_7fikh1ccgi6229f7kj707hfk543ei_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 83,
+          "stockId": "1pwvd0g",
+          "style": "墨绿色【纯棉显瘦】",
+          "styleId": 6,
+          "xdSkuId": "1pwvd0g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_7fikh1ccgi6229f7kj707hfk543ei_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 79,
+          "stockId": "1pwvd0i",
+          "style": "墨绿色【纯棉显瘦】",
+          "styleId": 6,
+          "xdSkuId": "1pwvd0i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_7fikh1ccgi6229f7kj707hfk543ei_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 82,
+          "stockId": "1pwvd0k",
+          "style": "墨绿色【纯棉显瘦】",
+          "styleId": 6,
+          "xdSkuId": "1pwvd0k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_7fikh1ccgi6229f7kj707hfk543ei_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 87,
+          "stockId": "1pwvd0m",
+          "style": "墨绿色【纯棉显瘦】",
+          "styleId": 6,
+          "xdSkuId": "1pwvd0m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_7fikh1ccgi6229f7kj707hfk543ei_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 95,
+          "stockId": "1pwvd0o",
+          "style": "墨绿色【纯棉显瘦】",
+          "styleId": 6,
+          "xdSkuId": "1pwvd0o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_3djhf341k6k9960ji7gfb32c0l8l2_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 93,
+          "stockId": "1pwvd0q",
+          "style": "草绿色【纯棉显瘦】",
+          "styleId": 7,
+          "xdSkuId": "1pwvd0q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_3djhf341k6k9960ji7gfb32c0l8l2_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 91,
+          "stockId": "1pwvd0s",
+          "style": "草绿色【纯棉显瘦】",
+          "styleId": 7,
+          "xdSkuId": "1pwvd0s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_3djhf341k6k9960ji7gfb32c0l8l2_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 91,
+          "stockId": "1pwvd0u",
+          "style": "草绿色【纯棉显瘦】",
+          "styleId": 7,
+          "xdSkuId": "1pwvd0u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_3djhf341k6k9960ji7gfb32c0l8l2_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 95,
+          "stockId": "1pwvd0w",
+          "style": "草绿色【纯棉显瘦】",
+          "styleId": 7,
+          "xdSkuId": "1pwvd0w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_3djhf341k6k9960ji7gfb32c0l8l2_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 93,
+          "stockId": "1pwvd0y",
+          "style": "草绿色【纯棉显瘦】",
+          "styleId": 7,
+          "xdSkuId": "1pwvd0y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/p2/170310/89187459_570924013g231lafil5dj0d10c4gd_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 97,
+          "stockId": "1pwvd10",
+          "style": "天蓝色【纯棉显瘦】",
+          "styleId": 8,
+          "xdSkuId": "1pwvd10"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/p2/170310/89187459_570924013g231lafil5dj0d10c4gd_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 95,
+          "stockId": "1pwvd12",
+          "style": "天蓝色【纯棉显瘦】",
+          "styleId": 8,
+          "xdSkuId": "1pwvd12"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/p2/170310/89187459_570924013g231lafil5dj0d10c4gd_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 96,
+          "stockId": "1pwvd14",
+          "style": "天蓝色【纯棉显瘦】",
+          "styleId": 8,
+          "xdSkuId": "1pwvd14"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/p2/170310/89187459_570924013g231lafil5dj0d10c4gd_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 93,
+          "stockId": "1pwvd16",
+          "style": "天蓝色【纯棉显瘦】",
+          "styleId": 8,
+          "xdSkuId": "1pwvd16"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/p2/170310/89187459_570924013g231lafil5dj0d10c4gd_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 93,
+          "stockId": "1pwvd18",
+          "style": "天蓝色【纯棉显瘦】",
+          "styleId": 8,
+          "xdSkuId": "1pwvd18"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/p2/170310/89187459_160gcgl6a024kf5eeg8lbfblc1334_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 89,
+          "stockId": "1pwvd1a",
+          "style": "粉红色【纯棉显瘦】",
+          "styleId": 9,
+          "xdSkuId": "1pwvd1a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/p2/170310/89187459_160gcgl6a024kf5eeg8lbfblc1334_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 81,
+          "stockId": "1pwvd1c",
+          "style": "粉红色【纯棉显瘦】",
+          "styleId": 9,
+          "xdSkuId": "1pwvd1c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/p2/170310/89187459_160gcgl6a024kf5eeg8lbfblc1334_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 91,
+          "stockId": "1pwvd1e",
+          "style": "粉红色【纯棉显瘦】",
+          "styleId": 9,
+          "xdSkuId": "1pwvd1e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/p2/170310/89187459_160gcgl6a024kf5eeg8lbfblc1334_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 93,
+          "stockId": "1pwvd1g",
+          "style": "粉红色【纯棉显瘦】",
+          "styleId": 9,
+          "xdSkuId": "1pwvd1g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/p2/170310/89187459_160gcgl6a024kf5eeg8lbfblc1334_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 98,
+          "stockId": "1pwvd1i",
+          "style": "粉红色【纯棉显瘦】",
+          "styleId": 9,
+          "xdSkuId": "1pwvd1i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_002c61ghhefh3f8cd4idf9e5gbk1a_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "1pwvd1k",
+          "style": "黄色【纯棉显瘦】",
+          "styleId": 10,
+          "xdSkuId": "1pwvd1k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_002c61ghhefh3f8cd4idf9e5gbk1a_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1pwvd1m",
+          "style": "黄色【纯棉显瘦】",
+          "styleId": 10,
+          "xdSkuId": "1pwvd1m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_002c61ghhefh3f8cd4idf9e5gbk1a_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "1pwvd1o",
+          "style": "黄色【纯棉显瘦】",
+          "styleId": 10,
+          "xdSkuId": "1pwvd1o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_002c61ghhefh3f8cd4idf9e5gbk1a_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "1pwvd1q",
+          "style": "黄色【纯棉显瘦】",
+          "styleId": 10,
+          "xdSkuId": "1pwvd1q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_002c61ghhefh3f8cd4idf9e5gbk1a_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "1pwvd1s",
+          "style": "黄色【纯棉显瘦】",
+          "styleId": 10,
+          "xdSkuId": "1pwvd1s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_858i0c1df5igdc19gc269be161b18_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 88,
+          "stockId": "1pwvd1u",
+          "style": "大红色【纯棉显瘦】",
+          "styleId": 11,
+          "xdSkuId": "1pwvd1u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_858i0c1df5igdc19gc269be161b18_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 88,
+          "stockId": "1pwvd1w",
+          "style": "大红色【纯棉显瘦】",
+          "styleId": 11,
+          "xdSkuId": "1pwvd1w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_858i0c1df5igdc19gc269be161b18_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 87,
+          "stockId": "1pwvd1y",
+          "style": "大红色【纯棉显瘦】",
+          "styleId": 11,
+          "xdSkuId": "1pwvd1y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_858i0c1df5igdc19gc269be161b18_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 96,
+          "stockId": "1pwvd20",
+          "style": "大红色【纯棉显瘦】",
+          "styleId": 11,
+          "xdSkuId": "1pwvd20"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_858i0c1df5igdc19gc269be161b18_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 95,
+          "stockId": "1pwvd22",
+          "style": "大红色【纯棉显瘦】",
+          "styleId": 11,
+          "xdSkuId": "1pwvd22"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_8ch26ge31d9f2d3e614cae75ad87e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "1pwvd24",
+          "style": "酒红色【纯棉显瘦】",
+          "styleId": 12,
+          "xdSkuId": "1pwvd24"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_8ch26ge31d9f2d3e614cae75ad87e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1pwvd26",
+          "style": "酒红色【纯棉显瘦】",
+          "styleId": 12,
+          "xdSkuId": "1pwvd26"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_8ch26ge31d9f2d3e614cae75ad87e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "1pwvd28",
+          "style": "酒红色【纯棉显瘦】",
+          "styleId": 12,
+          "xdSkuId": "1pwvd28"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_8ch26ge31d9f2d3e614cae75ad87e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "1pwvd2a",
+          "style": "酒红色【纯棉显瘦】",
+          "styleId": 12,
+          "xdSkuId": "1pwvd2a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_8ch26ge31d9f2d3e614cae75ad87e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "1pwvd2c",
+          "style": "酒红色【纯棉显瘦】",
+          "styleId": 12,
+          "xdSkuId": "1pwvd2c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_17ecdlc3442804gc69453d9713g7e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "1pwvd2e",
+          "style": "桔红色【纯棉显瘦】",
+          "styleId": 13,
+          "xdSkuId": "1pwvd2e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_17ecdlc3442804gc69453d9713g7e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1pwvd2g",
+          "style": "桔红色【纯棉显瘦】",
+          "styleId": 13,
+          "xdSkuId": "1pwvd2g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_17ecdlc3442804gc69453d9713g7e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "1pwvd2i",
+          "style": "桔红色【纯棉显瘦】",
+          "styleId": 13,
+          "xdSkuId": "1pwvd2i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_17ecdlc3442804gc69453d9713g7e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "1pwvd2k",
+          "style": "桔红色【纯棉显瘦】",
+          "styleId": 13,
+          "xdSkuId": "1pwvd2k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/p2/170310/89187459_17ecdlc3442804gc69453d9713g7e_640x960.jpg",
+          "nowprice": 3900,
+          "price": 5572,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "1pwvd2m",
+          "style": "桔红色【纯棉显瘦】",
+          "styleId": 13,
+          "xdSkuId": "1pwvd2m"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018夏季新款纯色体恤韩版白色短袖T恤女百搭学生黑色宽松圆领上衣显瘦打底衫",
+      "totalStock": 3211
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

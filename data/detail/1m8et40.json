@@ -1,0 +1,549 @@
+{
+  "iid": "1m8et40",
+  "result": {
+    "columns": [
+      "销量 124",
+      "收藏1人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款韩版晚晚风复古针织开衫毛衣+小清新休闲百搭显瘦纯色半身裙两件套时尚套装女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180910_3db05fe5j4870k77ffc5eg364ld8e_750x1072.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_8637kk84862f401h4ec395405h6ej_750x1056.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_7cii55fhl94222i9gc7af0jh00ej1_750x924.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_8e0h9g5d87k389icc87k286ik5klb_750x681.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180910_23ka8ib5lif310hg7e716hb6a1lf4_750x764.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_6kil4ck98ikiaj5112akhefk0ldi8_750x892.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_498egf4680ehg0a8j83icb6i2gcg0_750x948.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180910_82h4g7c889hj7j71f6dl676a2j6dk_750x1121.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180910_8ek3162jjhkjc3figlbc2jbc68c2g_750x864.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_48jkkh4g0fg1faii8643e66gf038k_750x1044.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180910_24i90738139ai22i2cbe3h6b10be9_750x1036.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_0eckb3l7e4104d1197ai47ga1fk7j_750x1020.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_6llkfb8ll71h81f4li3hb1269kd0e_750x780.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_0il8d56e8a9af2b9egkk169hf8h77_750x832.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_879gkh6fb3bib4f2akhf75a5a9343_750x846.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_2kj8l3c6l2210fc0i802j796fibgl_750x810.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180910_889d72iehg9j4bc2h8eibge6k2356_750x457.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_0586475kb361bd4dj50fdkhk97bd7_750x474.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180910_50ibj862da4fh9h5gcd9gd1del8di_750x461.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180910_3h62ge7ha4483if40hf77c4ilc0g5_750x455.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季新款韩版晚晚风复古针织开衫毛衣+小清新休闲百搭显瘦纯色半身裙两件套时尚套装女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "86.10",
+      "highPrice": "123.00",
+      "iid": "1m8et40",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m8et40&userId=1hn1r8&shopId=14mv8",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "39.10",
+      "lowPrice": "55.86",
+      "oldPrice": "¥55.86",
+      "price": "¥39.10~¥86.10",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14mv8",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩版晚晚风复古针织开衫毛衣+小清新休闲百搭显瘦纯色半身裙两件套时尚套装女",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180910_76i9d422ji0dgl908efaefdi69aki_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180910_0ickfjcjc1a4529939fed165fbbgj_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180910_7293fgk7lh8g43i3hd8f4lgji2abf_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180910_5eflh07e0jhf49b0c1386g638gghg_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180910_8gdhff1f4lh8lia57aefbfal9kc4d_640x960.jpg"
+      ],
+      "userId": "1hn1r8"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市MYSTICGIRL有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "开衫毛衣(单件),毛衣+半身裙(两件套),黑色半身裙(单件)"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市白云区萧岗村西街31号"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "V领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "胸围",
+              "108",
+              "112",
+              "116",
+              "120"
+            ],
+            [
+              "腰围",
+              "58-76",
+              "62-80",
+              "66-84",
+              "70-88"
+            ],
+            [
+              "裙长",
+              "80",
+              "81",
+              "82",
+              "83"
+            ],
+            [
+              "袖长",
+              "60",
+              "61",
+              "62",
+              "63"
+            ],
+            [
+              "肩宽",
+              "46",
+              "47",
+              "48",
+              "49"
+            ],
+            [
+              "衣长",
+              "60",
+              "61",
+              "62",
+              "63"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 1,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "遮肚子 还可以。。",
+          "created": 1538018411,
+          "extraInfo": [
+            "体重:48 kg",
+            "是否合身:合身",
+            "身高:155 cm"
+          ],
+          "images": [
+            "//s3.mogucdn.com/mlcdn/c45406/180927_5hl6823h3f13h2c47309641iefh02_1080x1440.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_803j6a639j4b8jldl5f3k4900710h_1080x1440.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116cylme",
+          "style": "颜色:毛衣+半身裙(两件套) 尺码:M ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_0l1ff9kf2hbc32fe4a2g05l77d89d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "小杨杨杨婷婷"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14mv8",
+      "cFans": 36631,
+      "cGoods": 578,
+      "cSells": 271216,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14mv8/list/index?categoryId=1502826",
+          "name": "上衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mv8/list/index?categoryId=1502827",
+          "name": "下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mv8/list/index?categoryId=1502828",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mv8/list/index?categoryId=1502829",
+          "name": "时尚套装"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "8度女装",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.49
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.51
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14mv8",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180312_597efl5h1k15iecf0idkig1ef3kag_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14mv8",
+      "type": 1,
+      "userId": "1hn1r8"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥39.10~¥86.10",
+      "isAbroad": false,
+      "priceRange": "¥39.10~¥86.10",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "开衫毛衣(单件)",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色半身裙(单件)",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "毛衣+半身裙(两件套)",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_77bg96k2cehi81g0hif177bf58ej2_750x681.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 492,
+          "stockId": "116w0zlo",
+          "style": "开衫毛衣(单件)",
+          "styleId": 1,
+          "xdSkuId": "116w0zlo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_77bg96k2cehi81g0hif177bf58ej2_750x681.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 497,
+          "stockId": "116w0zlq",
+          "style": "开衫毛衣(单件)",
+          "styleId": 1,
+          "xdSkuId": "116w0zlq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_77bg96k2cehi81g0hif177bf58ej2_750x681.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 494,
+          "stockId": "116w0zls",
+          "style": "开衫毛衣(单件)",
+          "styleId": 1,
+          "xdSkuId": "116w0zls"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_77bg96k2cehi81g0hif177bf58ej2_750x681.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 497,
+          "stockId": "116w0zlu",
+          "style": "开衫毛衣(单件)",
+          "styleId": 1,
+          "xdSkuId": "116w0zlu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180910_636f281h9d42b64d32108j5830j71_750x864.jpg",
+          "nowprice": 3910,
+          "price": 5586,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 497,
+          "stockId": "116w0zlw",
+          "style": "黑色半身裙(单件)",
+          "styleId": 2,
+          "xdSkuId": "116w0zlw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180910_636f281h9d42b64d32108j5830j71_750x864.jpg",
+          "nowprice": 3910,
+          "price": 5586,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 496,
+          "stockId": "116w0zly",
+          "style": "黑色半身裙(单件)",
+          "styleId": 2,
+          "xdSkuId": "116w0zly"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180910_636f281h9d42b64d32108j5830j71_750x864.jpg",
+          "nowprice": 3910,
+          "price": 5586,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 498,
+          "stockId": "116w102o",
+          "style": "黑色半身裙(单件)",
+          "styleId": 2,
+          "xdSkuId": "116w102o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180910_636f281h9d42b64d32108j5830j71_750x864.jpg",
+          "nowprice": 3910,
+          "price": 5586,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 497,
+          "stockId": "116w102q",
+          "style": "黑色半身裙(单件)",
+          "styleId": 2,
+          "xdSkuId": "116w102q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_83914j7d9339i702de493b1fk9igc_750x832.jpg",
+          "nowprice": 8610,
+          "price": 12300,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 476,
+          "stockId": "116w102s",
+          "style": "毛衣+半身裙(两件套)",
+          "styleId": 3,
+          "xdSkuId": "116w102s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_83914j7d9339i702de493b1fk9igc_750x832.jpg",
+          "nowprice": 8610,
+          "price": 12300,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 470,
+          "stockId": "116w102u",
+          "style": "毛衣+半身裙(两件套)",
+          "styleId": 3,
+          "xdSkuId": "116w102u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_83914j7d9339i702de493b1fk9igc_750x832.jpg",
+          "nowprice": 8610,
+          "price": 12300,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 483,
+          "stockId": "116w102w",
+          "style": "毛衣+半身裙(两件套)",
+          "styleId": 3,
+          "xdSkuId": "116w102w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180910_83914j7d9339i702de493b1fk9igc_750x832.jpg",
+          "nowprice": 8610,
+          "price": 12300,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 490,
+          "stockId": "116w102y",
+          "style": "毛衣+半身裙(两件套)",
+          "styleId": 3,
+          "xdSkuId": "116w102y"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩版晚晚风复古针织开衫毛衣+小清新休闲百搭显瘦纯色半身裙两件套时尚套装女",
+      "totalStock": 5887
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "iid": "1m91wm4",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏1人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新品韩版圆领套头长袖多扣白色针织衫上衣+高腰开叉PU皮包臀半身裙两件套时尚套装",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180926_1b7jf88j2j7g5ij5bigb2kh30057h_750x817.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_1678legbb69b6d13da6ha87jhkbic_750x817.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_669fd0lh02ed8ll4f99kja1f41f04_750x879.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_594ai6a1559l84kj67822il0i3792_750x817.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_79hkl92c9fkckeg34be4b5becdfdg_750x817.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_4400ke59cc5fak32ife8i095lcg8j_750x1069.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_44kj8gj22833j2k09gc1jej9f0585_750x717.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_2lch8g39l8h640c1a3378af16h8hc_750x815.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_6h3f4b03655ck3k42250d7b56h61i_750x817.png",
+            "//s5.mogucdn.com/mlcdn/c45406/180926_587263ckfd8e0i9548i243cecc0f9_750x836.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_654a048kha1e22gd1lak8l512c287_750x817.png",
+            "//s5.mogucdn.com/mlcdn/c45406/180926_14396j78eflf81c6245ff00bef83f_750x817.png",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季新品韩版圆领套头长袖多扣白色针织衫上衣+高腰开叉PU皮包臀半身裙两件套时尚套装",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "148.00",
+      "highPrice": "211.43",
+      "iid": "1m91wm4",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m91wm4&userId=1262te0&shopId=14oj2",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "68.00",
+      "lowPrice": "97.15",
+      "oldPrice": "¥97.15",
+      "price": "¥68.00~¥148.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14oj2",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新品韩版圆领套头长袖多扣白色针织衫上衣+高腰开叉PU皮包臀半身裙两件套时尚套装",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180926_0c0hhbhj1abb381e50j4kl8hil56d_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180926_6hgi3j66fh333k0de4edcd472h55c_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180926_087khefh1d5ccid306el38b4af9g7_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180926_5398jik64lge3jj64b53fj8291gg5_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180926_0fddc7ghc19ac735h9la47c5d05hi_640x960.jpg"
+      ],
+      "userId": "1262te0"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "琪琪服饰"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "颜色",
+            "value": "白色上衣+皮裙,皮裙,白色上衣"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市海珠区上冲南约西03号2楼201"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "甜美"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "商品尺寸均为实物测量，可能存在1-3cm左右的误差，（图片因拍摄灯光照射以及显示器的不同，可能存在略微色差，具体请以实物为准 ， 略  微色差纯属正常，敬请理解）",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "裙长",
+              "39",
+              "40",
+              "41"
+            ],
+            [
+              "肩宽",
+              "43",
+              "44",
+              "45"
+            ],
+            [
+              "腰围",
+              "62",
+              "66",
+              "70"
+            ],
+            [
+              "衣长",
+              "53",
+              "54",
+              "55"
+            ],
+            [
+              "胸围",
+              "116",
+              "120",
+              "124"
+            ],
+            [
+              "袖长",
+              "64",
+              "65",
+              "66"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14oj2",
+      "cFans": 39035,
+      "cGoods": 305,
+      "cSells": 247085,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14oj2/list/index?categoryId=20187096",
+          "name": "Top 上装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oj2/list/index?categoryId=20187097",
+          "name": "Bottom 下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oj2/list/index?categoryId=20187098",
+          "name": "Dress 裙装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oj2/list/index?categoryId=20187099",
+          "name": "Suit 套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oj2/list/index?categoryId=20187100",
+          "name": "New 新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oj2/list/index?categoryId=20283924",
+          "name": "Clearance 清仓区"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "茵素家",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.64
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.63
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14oj2",
+      "shopLogo": "//s3.mogucdn.com/mlcdn/c45406/180512_612ab5d7dfl160ial0jdg8l035b2l_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14oj2",
+      "type": 1,
+      "userId": "1262te0"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥68.00~¥148.00",
+      "isAbroad": false,
+      "priceRange": "¥68.00~¥148.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "白色上衣",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "皮裙",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "白色上衣+皮裙",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_05i7da0f136alfkk0k91ka4ki3jdi_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "1174ypw6",
+          "style": "白色上衣",
+          "styleId": 1,
+          "xdSkuId": "1174ypw6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_05i7da0f136alfkk0k91ka4ki3jdi_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 100,
+          "stockId": "1174ypw4",
+          "style": "白色上衣",
+          "styleId": 1,
+          "xdSkuId": "1174ypw4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_05i7da0f136alfkk0k91ka4ki3jdi_640x960.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 100,
+          "stockId": "1174ypw8",
+          "style": "白色上衣",
+          "styleId": 1,
+          "xdSkuId": "1174ypw8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_01g5cg13dg7h180h30i7405bl1fbe_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "1174ypwc",
+          "style": "皮裙",
+          "styleId": 2,
+          "xdSkuId": "1174ypwc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_01g5cg13dg7h180h30i7405bl1fbe_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 100,
+          "stockId": "1174ypwa",
+          "style": "皮裙",
+          "styleId": 2,
+          "xdSkuId": "1174ypwa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_01g5cg13dg7h180h30i7405bl1fbe_640x960.jpg",
+          "nowprice": 6800,
+          "price": 9715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 100,
+          "stockId": "1174ypwe",
+          "style": "皮裙",
+          "styleId": 2,
+          "xdSkuId": "1174ypwe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_09k0b3bal17jja75l2f3kh45gi326_640x960.jpg",
+          "nowprice": 14800,
+          "price": 21143,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "1174ypwg",
+          "style": "白色上衣+皮裙",
+          "styleId": 3,
+          "xdSkuId": "1174ypwg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_09k0b3bal17jja75l2f3kh45gi326_640x960.jpg",
+          "nowprice": 14800,
+          "price": 21143,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 100,
+          "stockId": "1174ypwi",
+          "style": "白色上衣+皮裙",
+          "styleId": 3,
+          "xdSkuId": "1174ypwi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_09k0b3bal17jja75l2f3kh45gi326_640x960.jpg",
+          "nowprice": 14800,
+          "price": 21143,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 100,
+          "stockId": "1174ypwk",
+          "style": "白色上衣+皮裙",
+          "styleId": 3,
+          "xdSkuId": "1174ypwk"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新品韩版圆领套头长袖多扣白色针织衫上衣+高腰开叉PU皮包臀半身裙两件套时尚套装",
+      "totalStock": 900
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

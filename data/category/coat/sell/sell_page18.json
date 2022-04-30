@@ -1,0 +1,464 @@
+{
+  "data": {
+    "cpc_offset": 0,
+    "filter": {
+      "list": [
+        {
+          "fcid": "10057922",
+          "sort": "pop",
+          "style": null,
+          "title": "流行",
+          "type": "sort"
+        },
+        {
+          "fcid": "10057922",
+          "sort": "sell",
+          "style": null,
+          "title": "热销",
+          "type": "sort"
+        },
+        {
+          "fcid": "10057922",
+          "sort": "new",
+          "style": null,
+          "title": "上新",
+          "type": "sort"
+        }
+      ],
+      "title": "美丽说wap首页"
+    },
+    "isEnd": false,
+    "list": [
+      {
+        "acm": "3.ms.0_4_1m754c2.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 7,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m754c2?acm=3.ms.0_4_1m754c2.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m754c2",
+        "itemMarks": "-1",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m754c2?acm=3.ms.0_4_1m754c2.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥139.00",
+        "popularStar": 0,
+        "price": "69.00",
+        "props": [
+          "秋季2018新款女时尚搭配气质韩版百搭阔腿裤两件套时髦女装套装潮"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 683,
+        "shopId": 110908,
+        "show": {
+          "h": 416,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180811_6e44kl5c7fj1bc65h9aeh63eh3dkh_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180811_6e44kl5c7fj1bc65h9aeh63eh3dkh_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "秋季2018新款女时尚搭配气质韩版百搭阔腿裤两件套时髦女装套装潮",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m8dqau.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 7,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m8dqau?acm=3.ms.0_4_1m8dqau.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m8dqau",
+        "itemMarks": "1525",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m8dqau?acm=3.ms.0_4_1m8dqau.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥68.00",
+        "popularStar": 0,
+        "price": "68.00",
+        "props": [
+          "2018秋装新款女装遮肚子显瘦洋气套装裙毛衣针织裙两件套"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 678,
+        "shopId": 1302445206,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180910_06le6c4gea295l6cl35h9e33dkh46_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180910_06le6c4gea295l6cl35h9e33dkh46_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋装新款女装遮肚子显瘦洋气套装裙毛衣针织裙两件套",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m7otwu.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 52,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m7otwu?acm=3.ms.0_4_1m7otwu.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m7otwu",
+        "itemMarks": "1525 1232",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m7otwu?acm=3.ms.0_4_1m7otwu.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥97.15",
+        "popularStar": 0,
+        "price": "68.00",
+        "props": [
+          "2018秋季新品韩版慵懒风宽松针织马海毛长袖条纹毛衣+高腰直筒九分阔腿牛仔两件套时尚套装女"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 678,
+        "shopId": 109179,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180825_1ai5ekf8k86fjfg33e48ej85gbb74_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180825_1ai5ekf8k86fjfg33e48ej85gbb74_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋季新品韩版慵懒风宽松针织马海毛长袖条纹毛衣+高腰直筒九分阔腿牛仔两件套时尚套装女",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m656po.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 6,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m656po?acm=3.ms.0_4_1m656po.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m656po",
+        "itemMarks": "1525",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m656po?acm=3.ms.0_4_1m656po.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥85.00",
+        "popularStar": 0,
+        "price": "59.50",
+        "props": [
+          "2018秋装新款大码半身裙韩版百搭复古中长款高腰显瘦圆环拉链黑色弹力棉包臀裙一步裙长裙子女"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 676,
+        "shopId": 108810,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180719_22g2hik1e1a3ig1gdd417k6e137jg_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180719_22g2hik1e1a3ig1gdd417k6e137jg_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋装新款大码半身裙韩版百搭复古中长款高腰显瘦圆环拉链黑色弹力棉包臀裙一步裙长裙子女",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m7efl6.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 31,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m7efl6?acm=3.ms.0_4_1m7efl6.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m7efl6",
+        "itemMarks": "1525 2 138 172 173",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m7efl6?acm=3.ms.0_4_1m7efl6.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥120.00",
+        "popularStar": 0,
+        "price": "84.00",
+        "props": [
+          "2018秋季新款时尚套装韩版个性水洗毛边破洞牛仔外套高腰显瘦过膝连帽卫衣裙连衣裙两件套"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 673,
+        "shopId": 102776,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180818_701lk3el2h781646ik65il51k0kbg_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180818_701lk3el2h781646ik65il51k0kbg_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋季新款时尚套装韩版个性水洗毛边破洞牛仔外套高腰显瘦过膝连帽卫衣裙连衣裙两件套",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m7r7sq.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 53,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m7r7sq?acm=3.ms.0_4_1m7r7sq.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m7r7sq",
+        "itemMarks": "-1",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m7r7sq?acm=3.ms.0_4_1m7r7sq.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥99.90",
+        "popularStar": 0,
+        "price": "69.93",
+        "props": [
+          "2018秋季新款韩版宽松时尚套装气质小香风洋气针织开衫背心吊带裙子晚晚风毛衣外套长裙两件套"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 671,
+        "shopId": 20919870,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180827_1e81fhh79jf9ck0067j25ke955h3e_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180827_1e81fhh79jf9ck0067j25ke955h3e_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋季新款韩版宽松时尚套装气质小香风洋气针织开衫背心吊带裙子晚晚风毛衣外套长裙两件套",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1lt0i3q.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 19,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1lt0i3q?acm=3.ms.0_4_1lt0i3q.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1lt0i3q",
+        "itemMarks": "82",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1lt0i3q?acm=3.ms.0_4_1lt0i3q.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥98.00",
+        "popularStar": 0,
+        "price": "68.60",
+        "props": [
+          "2018秋装新款女裤韩版百搭宽松小脚针织哈伦裤女萝卜休闲裤子"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 661,
+        "shopId": 110424,
+        "show": {
+          "h": 416,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180312_071g2i9ai62bkkll16ekb4l833l19_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180312_071g2i9ai62bkkll16ekb4l833l19_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋装新款女裤韩版百搭宽松小脚针织哈伦裤女萝卜休闲裤子",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m755b0.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 113,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m755b0?acm=3.ms.0_4_1m755b0.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m755b0",
+        "itemMarks": "1525 2 138 172 173",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m755b0?acm=3.ms.0_4_1m755b0.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥160.00",
+        "popularStar": 0,
+        "price": "112.00",
+        "props": [
+          "2018秋季新款时尚套装韩版气质中长款过膝拼接系带风衣外套高腰显瘦格子长袖连衣裙两件套"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 661,
+        "shopId": 102776,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180811_5ck77h7dl38flk2093glf1ikl2545_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180811_5ck77h7dl38flk2093glf1ikl2545_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋季新款时尚套装韩版气质中长款过膝拼接系带风衣外套高腰显瘦格子长袖连衣裙两件套",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1ltwdgi.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 72,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ltwdgi?acm=3.ms.0_4_1ltwdgi.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1ltwdgi",
+        "itemMarks": "1525",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1ltwdgi?acm=3.ms.0_4_1ltwdgi.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥70.00",
+        "popularStar": 0,
+        "price": "49.00",
+        "props": [
+          "衬衫女长袖2018秋装新款韩版百搭修身显瘦白色上衣纯色大口袋雪纺衬衣女"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 659,
+        "shopId": 102712,
+        "show": {
+          "h": 416,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180320_7ea9d71b0kj69ic7hbg8e93a430d5_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180320_7ea9d71b0kj69ic7hbg8e93a430d5_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "衬衫女长袖2018秋装新款韩版百搭修身显瘦白色上衣纯色大口袋雪纺衬衣女",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m7793w.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 46,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m7793w?acm=3.ms.0_4_1m7793w.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m7793w",
+        "itemMarks": "1525 2 138 1232 172 173",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m7793w?acm=3.ms.0_4_1m7793w.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥85.00",
+        "popularStar": 0,
+        "price": "59.50",
+        "props": [
+          "2018秋季新款女装秋款气质条纹毛衣长袖针织衫+高腰牛仔裤子两件套装时尚套装"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 658,
+        "shopId": 434834,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180813_59fl10gdi33d92bi6284d4e2e3cai_640x850.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 744,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/180813_59fl10gdi33d92bi6284d4e2e3cai_640x850.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋季新款女装秋款气质条纹毛衣长袖针织衫+高腰牛仔裤子两件套装时尚套装",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m71ndu.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 43,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m71ndu?acm=3.ms.0_4_1m71ndu.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m71ndu",
+        "itemMarks": "1525 1547 1092",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m71ndu?acm=3.ms.0_4_1m71ndu.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥142.00",
+        "popularStar": 0,
+        "price": "99.40",
+        "props": [
+          "2018秋季新款女装两件套西装领排扣长袖气质上衣+修身小脚裤时尚套装潮"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 648,
+        "shopId": 21215672,
+        "show": {
+          "h": 416,
+          "img": "http://s11.mogucdn.com/mlcdn/55cf19/180809_8c5b33hig04f9kle9i50khk7hjea3_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s11.mogucdn.com/mlcdn/55cf19/180809_8c5b33hig04f9kle9i50khk7hjea3_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋季新款女装两件套西装领排扣长袖气质上衣+修身小脚裤时尚套装潮",
+        "titleTags": null,
+        "type": 2
+      },
+      {
+        "acm": "3.ms.0_4_1m7oe8u.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cfav": 85,
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1m7oe8u?acm=3.ms.0_4_1m7oe8u.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "cparam": null,
+        "iid": "1m7oe8u",
+        "itemMarks": "1525",
+        "itemType": 5,
+        "leftbottom_taglist": [],
+        "lefttop_taglist": [],
+        "link": "http://item.meilishuo.com/h5/detail/1m7oe8u?acm=3.ms.0_4_1m7oe8u.0.13385-69004.ni0a5r4QXNtna.t_-sd_117-lc_16",
+        "orgPrice": "￥98.58",
+        "popularStar": 0,
+        "price": "69.00",
+        "props": [
+          "2018秋季新款时尚套装韩版个性拼色假两件拼接针织套头连帽毛衣高腰显瘦休闲裤两件套"
+        ],
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "sale": 647,
+        "shopId": 107846,
+        "show": {
+          "h": 416,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180825_8201ib7k30311jl33cld94gf8d7j7_640x960.jpg_320x999.jpg",
+          "w": 320
+        },
+        "showLarge": {
+          "h": 840,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/180825_8201ib7k30311jl33cld94gf8d7j7_640x960.jpg_560x999.jpg",
+          "w": 560
+        },
+        "title": "2018秋季新款时尚套装韩版个性拼色假两件拼接针织套头连帽毛衣高腰显瘦休闲裤两件套",
+        "titleTags": null,
+        "type": 2
+      }
+    ],
+    "page": 18,
+    "param": {
+      "_mgjuuid": "b245f802-c407-412e-a562-6019884a15ca",
+      "cKey": "wap-index",
+      "cpcEventId": 70005,
+      "cpc_offset": 0,
+      "eventId": 70003,
+      "fcid": "10057922",
+      "page": "18",
+      "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+      "ptpWallCpc": "_wall_cpc",
+      "ptpWallDoc": "_wall_docs",
+      "section": "0",
+      "sort": "sell"
+    },
+    "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+    "sort": "sell",
+    "title": "美丽说wap首页",
+    "total": 41680
+  },
+  "returnCode": "1001",
+  "returnMessage": null,
+  "success": true
+}

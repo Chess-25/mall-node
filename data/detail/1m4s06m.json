@@ -1,0 +1,571 @@
+{
+  "iid": "1m4s06m",
+  "result": {
+    "columns": [
+      "销量 1655",
+      "收藏187人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "新款短袖t恤上衣女学生条纹复古港味女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180623_3d98efekd7j11g6jehe6l0368ajad_784x443.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180623_40l6ekfkjkj69lajelgjbeha617j9_790x1120.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180623_2kick1jge31107g8ea465933hae8c_790x1002.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180623_5aaa8l7ed2c9j27ie0l0a3e59ae3i_790x767.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180623_83748c0fa05fj9ak0h094i52a829e_790x1049.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180623_02ggk6e0j0ddi904ccidhg078gjli_790x1081.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180623_4e5cbe96j7h144ad9db03gilihgcj_790x990.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #685#",
+      "desc": "新款短袖t恤上衣女学生条纹复古港味女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "新品促销",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省揭阳市"
+      },
+      "highNowPrice": "27.90",
+      "highPrice": "29.90",
+      "iid": "1m4s06m",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m4s06m&userId=13kd8ws&shopId=1ohyam",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "27.90",
+      "lowPrice": "29.90",
+      "oldPrice": "¥29.90",
+      "price": "¥27.90",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1ohyam",
+      "state": 0,
+      "tags": "",
+      "title": "t恤女短袖2018新款夏学生宽松韩版ulzzang百搭条纹ins超火的上衣",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180623_1l8jlga277egb5cih5ilkdge0kb61_800x1200.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180623_109d62cl03dg89g8c2d894i61ii43_800x800.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180623_2ck0a5438bedkjjh0gb4240kfd56l_750x1124.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180623_4kla2c449k4c5957eflgcej2c5hd3_750x995.jpg"
+      ],
+      "userId": "13kd8ws"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "动物图案"
+          },
+          {
+            "key": "厂名",
+            "value": "普宁市流沙宝邻针织制衣厂"
+          },
+          {
+            "key": "颜色",
+            "value": "670*黄条纹,670*红灰条纹,670*黄蓝条纹"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "XL,L,M,XXL"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省普宁市流沙东斗文村工业区金安楼"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "元素",
+            "value": "破洞"
+          },
+          {
+            "key": "袖长",
+            "value": "短袖"
+          },
+          {
+            "key": "风格",
+            "value": "通勤（OL）"
+          },
+          {
+            "key": "潮流",
+            "value": "欧美"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "M",
+              "L",
+              "XL",
+              "XXL"
+            ],
+            [
+              "号型",
+              "无号型",
+              "无号型",
+              "无号型",
+              "无号型"
+            ],
+            [
+              "肩宽",
+              "40",
+              "42",
+              "44",
+              "46"
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "衣长",
+              "60",
+              "62",
+              "63",
+              "64"
+            ],
+            [
+              "胸围",
+              "92",
+              "96",
+              "100",
+              "104"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1ohyam",
+      "list": [
+        "满229元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 242,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣衣拿到了，质量好，面料柔软，穿起舒服，价格实惠，物流速度给力，服务态度好",
+          "created": 1531837275,
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115lilxg",
+          "style": "颜色:670*黄条纹 尺码:L ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "紫瑄Rose"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1ohyam",
+      "cFans": 10310,
+      "cGoods": 87,
+      "cSells": 41360,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20192588",
+          "name": "时尚套装【suit】"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196314",
+          "name": "上衣【jacket】"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196315",
+          "name": "仙仙女裙【skirt】"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196316",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196317",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196318",
+          "name": "雪纺/衬衫【blouse"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196321",
+          "name": "班服/情路装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196322",
+          "name": "防晒/棒球服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196323",
+          "name": "背心/吊带"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20196325",
+          "name": "裤子【pants】"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20204826",
+          "name": "新品推荐【new】"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20234277",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20234278",
+          "name": "针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ohyam/list/index?categoryId=20234279",
+          "name": "毛衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 2,
+      "name": "leezhylin",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.63
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.62
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1ohyam",
+      "shopLogo": "//s5.mogucdn.com/mlcdn/c45406/170415_7flklei586l025bkg2fib560j51l6_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1ohyam",
+      "type": 1,
+      "userId": "13kd8ws"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥27.90",
+      "isAbroad": false,
+      "priceRange": "¥27.90",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "670*黄条纹",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "670*红灰条纹",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "670*黄蓝条纹",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180623_46i563j2c0j1812ag066cf717ghj9_750x750.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "M",
+          "sizeId": 100,
+          "stock": 603,
+          "stockId": "115kblx6",
+          "style": "670*黄条纹",
+          "styleId": 1,
+          "xdSkuId": "115kblx6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180623_46i563j2c0j1812ag066cf717ghj9_750x750.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "L",
+          "sizeId": 101,
+          "stock": 658,
+          "stockId": "115kblx4",
+          "style": "670*黄条纹",
+          "styleId": 1,
+          "xdSkuId": "115kblx4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180623_46i563j2c0j1812ag066cf717ghj9_750x750.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "XL",
+          "sizeId": 102,
+          "stock": 807,
+          "stockId": "115kblx8",
+          "style": "670*黄条纹",
+          "styleId": 1,
+          "xdSkuId": "115kblx8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180623_46i563j2c0j1812ag066cf717ghj9_750x750.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "XXL",
+          "sizeId": 103,
+          "stock": 871,
+          "stockId": "115kblxa",
+          "style": "670*黄条纹",
+          "styleId": 1,
+          "xdSkuId": "115kblxa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_5jec6cbbjd8c174eljdi28g2k5385_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "M",
+          "sizeId": 100,
+          "stock": 893,
+          "stockId": "115kblxc",
+          "style": "670*红灰条纹",
+          "styleId": 2,
+          "xdSkuId": "115kblxc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_5jec6cbbjd8c174eljdi28g2k5385_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "L",
+          "sizeId": 101,
+          "stock": 853,
+          "stockId": "115kblxe",
+          "style": "670*红灰条纹",
+          "styleId": 2,
+          "xdSkuId": "115kblxe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_5jec6cbbjd8c174eljdi28g2k5385_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "XL",
+          "sizeId": 102,
+          "stock": 935,
+          "stockId": "115kblxg",
+          "style": "670*红灰条纹",
+          "styleId": 2,
+          "xdSkuId": "115kblxg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_5jec6cbbjd8c174eljdi28g2k5385_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "XXL",
+          "sizeId": 103,
+          "stock": 951,
+          "stockId": "115kblxi",
+          "style": "670*红灰条纹",
+          "styleId": 2,
+          "xdSkuId": "115kblxi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_1jai605kj63af5c00jh2h4c5d3k65_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "M",
+          "sizeId": 100,
+          "stock": 964,
+          "stockId": "115kblxk",
+          "style": "670*黄蓝条纹",
+          "styleId": 3,
+          "xdSkuId": "115kblxk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_1jai605kj63af5c00jh2h4c5d3k65_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "L",
+          "sizeId": 101,
+          "stock": 951,
+          "stockId": "115kblxm",
+          "style": "670*黄蓝条纹",
+          "styleId": 3,
+          "xdSkuId": "115kblxm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_1jai605kj63af5c00jh2h4c5d3k65_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "XL",
+          "sizeId": 102,
+          "stock": 963,
+          "stockId": "115kblxo",
+          "style": "670*黄蓝条纹",
+          "styleId": 3,
+          "xdSkuId": "115kblxo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180623_1jai605kj63af5c00jh2h4c5d3k65_800x800.jpg",
+          "nowprice": 2790,
+          "price": 2990,
+          "size": "XXL",
+          "sizeId": 103,
+          "stock": 968,
+          "stockId": "115kblxq",
+          "style": "670*黄蓝条纹",
+          "styleId": 3,
+          "xdSkuId": "115kblxq"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "t恤女短袖2018新款夏学生宽松韩版ulzzang百搭条纹ins超火的上衣",
+      "totalStock": 10417
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

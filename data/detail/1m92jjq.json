@@ -1,0 +1,429 @@
+{
+  "iid": "1m92jjq",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "蕾丝上衣女长袖网纱打底衫半高领内搭镂空立领小衫2018秋装新款潮",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180927_5j6kgiae3abc8b0i4j9cgcdke7k70_789x416.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_8gbkd112i2kf6i1ei0be78e3efkf5_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_09k6c8hfeg1al8ci1bc37j1ah9idg_790x904.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_332jdjj1808ka72658j80e390f7b3_715x785.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_76aiibh1cj0ccfc601c82e2j888l9_786x520.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_47b7ealk074af7g882l64heb11klb_786x720.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7bfl87g3d0dh62kj9eh46if0c800g_785x607.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4ljlih9b26jf870f2fkcbbld3k8b6_786x502.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_214ch8hb0jgij5khl6ke9a8l1g59h_790x905.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7gl14jc8d8jch0a69cia08i6c6cg3_786x632.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #690#",
+      "desc": "蕾丝上衣女长袖网纱打底衫半高领内搭镂空立领小衫2018秋装新款潮",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "85.40",
+        "sendAddress": "福建省莆田市"
+      },
+      "highNowPrice": "122.00",
+      "highPrice": "122.00",
+      "iid": "1m92jjq",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92jjq&userId=19g5n1w&shopId=1172urec",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "122.00",
+      "lowPrice": "122.00",
+      "price": "¥122.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172urec",
+      "state": 0,
+      "tags": "",
+      "title": "蕾丝上衣女长袖网纱打底衫半高领内搭镂空立领小衫2018秋装新款潮",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180927_511eae4l190f52782jkc31jl2355e_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180927_4589eb38k3fhg7c949653l6j4104k_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_5eilfi9fi6bii2i048c4i0j5cla7i_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_1if9f7k0laj70a3ahbb2kk1ja02kk_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_352j2d0031a34i3e34acc8licika0_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180927_6ak287ad90ilegff4e8leh31h4jb5_640x960.jpg"
+      ],
+      "userId": "19g5n1w"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厂名",
+            "value": "普宁市仟衣纯服饰鞋包厂"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色不加绒"
+          },
+          {
+            "key": "袖型",
+            "value": "其他袖型"
+          },
+          {
+            "key": "穿着方式",
+            "value": "套头"
+          },
+          {
+            "key": "尺码",
+            "value": "XL（建议115-124斤）,M（建议95-104斤）,XXL（建议125-135斤）,L（建议105-114斤）"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "收腰"
+          },
+          {
+            "key": "下摆",
+            "value": "开叉"
+          },
+          {
+            "key": "样式款型",
+            "value": "斜肩"
+          },
+          {
+            "key": "季节",
+            "value": "秋冬"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省普宁市"
+          },
+          {
+            "key": "材质",
+            "value": "蕾丝"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "元素",
+            "value": "成衣染色"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "M（建议95-104斤）",
+              "L（建议105-114斤）",
+              "XL（建议115-124斤）",
+              "XXL（建议125-135斤）"
+            ],
+            [
+              "肩宽",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "胸围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "袖长",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172urec",
+      "cFans": 137,
+      "cGoods": 400,
+      "cSells": 2361,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320885",
+          "name": "礼服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320889",
+          "name": "睡衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320894",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320911",
+          "name": "短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320912",
+          "name": "防晒衣 披肩"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320913",
+          "name": "风衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320920",
+          "name": "牛仔外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320923",
+          "name": "背带裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320929",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320957",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20320958",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20325018",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172urec/list/index?categoryId=20325801",
+          "name": "连衣裙"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "初见韩版女装",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.94
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.94
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172urec",
+      "shopLogo": "//s5.mogucdn.com/pic/141211/1agxqe_ieygmodbmiztmzrqmuytambqmmyde_120x120.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172urec",
+      "type": 2,
+      "userId": "19g5n1w"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥122.00",
+      "isAbroad": false,
+      "priceRange": "¥122.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色不加绒",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "M（建议95-104斤）",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "L（建议105-114斤）",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "XL（建议115-124斤）",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XXL（建议125-135斤）",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3bc7153d4c2icfd9b0fgj25i56fgf_800x800.jpg",
+          "nowprice": 12200,
+          "price": 12200,
+          "size": "M（建议95-104斤）",
+          "sizeId": 100,
+          "stock": 1964,
+          "stockId": "11756fcq",
+          "style": "黑色不加绒",
+          "styleId": 1,
+          "xdSkuId": "11756fcq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3bc7153d4c2icfd9b0fgj25i56fgf_800x800.jpg",
+          "nowprice": 12200,
+          "price": 12200,
+          "size": "L（建议105-114斤）",
+          "sizeId": 101,
+          "stock": 1904,
+          "stockId": "11756fcs",
+          "style": "黑色不加绒",
+          "styleId": 1,
+          "xdSkuId": "11756fcs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3bc7153d4c2icfd9b0fgj25i56fgf_800x800.jpg",
+          "nowprice": 12200,
+          "price": 12200,
+          "size": "XL（建议115-124斤）",
+          "sizeId": 102,
+          "stock": 1908,
+          "stockId": "11756fcu",
+          "style": "黑色不加绒",
+          "styleId": 1,
+          "xdSkuId": "11756fcu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3bc7153d4c2icfd9b0fgj25i56fgf_800x800.jpg",
+          "nowprice": 12200,
+          "price": 12200,
+          "size": "XXL（建议125-135斤）",
+          "sizeId": 103,
+          "stock": 2072,
+          "stockId": "11756fcw",
+          "style": "黑色不加绒",
+          "styleId": 1,
+          "xdSkuId": "11756fcw"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "蕾丝上衣女长袖网纱打底衫半高领内搭镂空立领小衫2018秋装新款潮",
+      "totalStock": 7848
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

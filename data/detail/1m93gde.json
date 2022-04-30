@@ -1,0 +1,677 @@
+{
+  "iid": "1m93gde",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款韩版中长款拼色套头毛衣女针织衫高腰修身显瘦毛边黑色小脚裤时尚套装两件套女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6lei6clh7l0071f8kbklfj43g7e74_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_2ki0e2dhda76dlgh8la84gd6la235_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_6jlhjgdhhcfahf8gkhcf83fb0f7f4_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_73b6jgh1aej45b5h5djle97jkbk8a_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_8cg4j56df2422bcbl6ggk4188lakg_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4li72b30ffdfg373i95h4bf59k8j7_640x960.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_7igj2j82bj12l71kb6c7565k23g0g_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7hif9i49ij6bikkf0e6leifj17eda_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_0b5gfc834j8ac27hhhd8203dgkc97_750x750.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_1ile8icg69k8iba4bf66gf578d5f1_750x750.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_356lde9a0k6eal74caig73iklf07a_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_2e3llj79h648d4c51bkik0leljg82_750x562.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4b2eih67e18j9i44k1ad4i139gb7k_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_88d7ila3jakc5dd88c59l701e8227_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_2ja3g00419k65hdcibdfi4i90eggd_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_1h6066gjk4k8f0ebi8f1977d3fgf9_750x750.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_6efga62d950l2cg9ihe9kf0ck13g3_750x1000.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_40e3hf8ggk61l8b1e17lgh64hl44j_750x1000.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "package_info",
+          "desc": "厂家出厂验货，仓库验货，包装员验货，我们每个商品都有经过3验再配货包装！ 请菇凉放心购物！",
+          "key": "包装展示"
+        },
+        {
+          "anchor": "service_info",
+          "desc": "为了让菇凉们可以在蘑菇街无忧购物，我们为您提供了两大保障：1、我们支持七天无理由退换货，只要不影响二次销售，在收到货后七天内都可以正常退换货。2、我们为菇凉购买了运费险（番茄炒蛋和美丽说端下单的是没有运费险补助的哦）您申请退货后，退货的邮费您先垫付，然后把您寄过来的物流单号填到退货流程中，邮费在订单退货完成后蘑菇街官方会在三个工作日内自动返回到您的蘑菇钱包上，这个运费是蘑菇街合作的保险公司发的，不是商家发的哦！（菇凉， 同为广东省的有5元的运费补贴， 其它地区10元，钱包里的钱也是可以提现的哦）",
+          "key": "服务说明"
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季新款韩版中长款拼色套头毛衣女针织衫高腰修身显瘦毛边黑色小脚裤时尚套装两件套女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "139.00",
+      "highPrice": "198.58",
+      "iid": "1m93gde",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m93gde&userId=14a80pg&shopId=1172ukzw",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "59.00",
+      "lowPrice": "84.29",
+      "oldPrice": "¥84.29",
+      "price": "¥59.00~¥139.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172ukzw",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩版中长款拼色套头毛衣女针织衫高腰修身显瘦毛边黑色小脚裤时尚套装两件套女",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_45ijb371bhii8ac73bl59h93kkg7j_640x854.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_63i3l8ajgi1a46l04akf3fijaghkf_640x854.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_0elai21e1g6ff7a5k4j9d96770e10_640x854.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_1d5954g3k9lhh4hde5ifaiia3j881_640x854.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_5ahlgfkeb5bgi6a514g1eg78c5ebf_640x854.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_2e93ekla1j6h1j572879jj20cchf8_640x854.jpg"
+      ],
+      "userId": "14a80pg"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市小蛮腰服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "蓝色毛衣,蓝色马毛衣+裤子,裤子"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "均码,S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "中长款（66-80cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州海珠区昌岗路石桥大街6号之2"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "元素",
+            "value": "撞色/拼色"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "因测量方式不同会有2-3cm误差，相关数据仅作参考，以收到实物为准，望亲理解！ 2、由于光线、显示器等原因，衣服颜色可能与实物有细微差别，请菇凉们理性购物",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "胸围",
+              "144",
+              "",
+              "",
+              ""
+            ],
+            [
+              "袖长",
+              "70",
+              "",
+              "",
+              ""
+            ],
+            [
+              "肩宽",
+              "71",
+              "",
+              "",
+              ""
+            ],
+            [
+              "衣长",
+              "66",
+              "",
+              "",
+              ""
+            ],
+            [
+              "腰围",
+              "",
+              "62",
+              "64",
+              "66"
+            ],
+            [
+              "裤长",
+              "",
+              "87",
+              "88",
+              "89"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XL"
+            ],
+            [
+              "胸围",
+              ""
+            ],
+            [
+              "袖长",
+              ""
+            ],
+            [
+              "肩宽",
+              ""
+            ],
+            [
+              "衣长",
+              ""
+            ],
+            [
+              "腰围",
+              "68"
+            ],
+            [
+              "裤长",
+              "90"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172ukzw",
+      "list": [
+        "满99元减3元",
+        "满159元减5元",
+        "满259元减10元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172ukzw",
+      "cFans": 7015,
+      "cGoods": 598,
+      "cSells": 60341,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265743",
+          "name": "上衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265744",
+          "name": "下装Bottom"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265745",
+          "name": "连衣裙Dress"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265747",
+          "name": "时尚套装Suit"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265748",
+          "name": "棒球服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265750",
+          "name": "毛衣/针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265751",
+          "name": "卫衣/t恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265752",
+          "name": "雪纺衫/衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265754",
+          "name": "吊带背心"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265758",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265759",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265760",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20265761",
+          "name": "背带裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20303923",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20303924",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20303927",
+          "name": "牛仔系列"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20303928",
+          "name": "48元2件"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ukzw/list/index?categoryId=20344941",
+          "name": "风衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "橘子定制",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.48
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.5
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172ukzw",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180323_6h0cc28ibl1h3giijj2b4003i6eh9_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172ukzw",
+      "type": 1,
+      "userId": "14a80pg"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥59.00~¥139.00",
+      "isAbroad": false,
+      "priceRange": "¥59.00~¥139.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "裤子",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "蓝色毛衣",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "蓝色马毛衣+裤子",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_465lbe468cdl6fc85h4lfd54k3ja1_640x854.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 200,
+          "stockId": "1175jjmg",
+          "style": "裤子",
+          "styleId": 1,
+          "xdSkuId": "1175jjmg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_465lbe468cdl6fc85h4lfd54k3ja1_640x854.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "S",
+          "sizeId": 101,
+          "stock": 200,
+          "stockId": "1175jjmk",
+          "style": "裤子",
+          "styleId": 1,
+          "xdSkuId": "1175jjmk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_465lbe468cdl6fc85h4lfd54k3ja1_640x854.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "M",
+          "sizeId": 102,
+          "stock": 200,
+          "stockId": "1175jjmi",
+          "style": "裤子",
+          "styleId": 1,
+          "xdSkuId": "1175jjmi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_465lbe468cdl6fc85h4lfd54k3ja1_640x854.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "L",
+          "sizeId": 103,
+          "stock": 200,
+          "stockId": "1175jjmm",
+          "style": "裤子",
+          "styleId": 1,
+          "xdSkuId": "1175jjmm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_465lbe468cdl6fc85h4lfd54k3ja1_640x854.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "XL",
+          "sizeId": 104,
+          "stock": 200,
+          "stockId": "1175jjmo",
+          "style": "裤子",
+          "styleId": 1,
+          "xdSkuId": "1175jjmo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1eebef9h633cjif7h64l7730b5ick_640x854.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 200,
+          "stockId": "1175jjn2",
+          "style": "蓝色毛衣",
+          "styleId": 2,
+          "xdSkuId": "1175jjn2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1eebef9h633cjif7h64l7730b5ick_640x854.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "S",
+          "sizeId": 101,
+          "stock": 200,
+          "stockId": "1175jjmq",
+          "style": "蓝色毛衣",
+          "styleId": 2,
+          "xdSkuId": "1175jjmq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1eebef9h633cjif7h64l7730b5ick_640x854.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "M",
+          "sizeId": 102,
+          "stock": 200,
+          "stockId": "1175jjms",
+          "style": "蓝色毛衣",
+          "styleId": 2,
+          "xdSkuId": "1175jjms"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1eebef9h633cjif7h64l7730b5ick_640x854.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "L",
+          "sizeId": 103,
+          "stock": 200,
+          "stockId": "1175jjn0",
+          "style": "蓝色毛衣",
+          "styleId": 2,
+          "xdSkuId": "1175jjn0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1eebef9h633cjif7h64l7730b5ick_640x854.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "XL",
+          "sizeId": 104,
+          "stock": 200,
+          "stockId": "1175jjmu",
+          "style": "蓝色毛衣",
+          "styleId": 2,
+          "xdSkuId": "1175jjmu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_4abb8jii8726a7kj60g6b67h3e7ae_640x854.jpg",
+          "nowprice": 13900,
+          "price": 19858,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 200,
+          "stockId": "1175jjmw",
+          "style": "蓝色马毛衣+裤子",
+          "styleId": 3,
+          "xdSkuId": "1175jjmw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_4abb8jii8726a7kj60g6b67h3e7ae_640x854.jpg",
+          "nowprice": 13900,
+          "price": 19858,
+          "size": "S",
+          "sizeId": 101,
+          "stock": 200,
+          "stockId": "1175jjmy",
+          "style": "蓝色马毛衣+裤子",
+          "styleId": 3,
+          "xdSkuId": "1175jjmy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_4abb8jii8726a7kj60g6b67h3e7ae_640x854.jpg",
+          "nowprice": 13900,
+          "price": 19858,
+          "size": "M",
+          "sizeId": 102,
+          "stock": 200,
+          "stockId": "1175jjn8",
+          "style": "蓝色马毛衣+裤子",
+          "styleId": 3,
+          "xdSkuId": "1175jjn8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_4abb8jii8726a7kj60g6b67h3e7ae_640x854.jpg",
+          "nowprice": 13900,
+          "price": 19858,
+          "size": "L",
+          "sizeId": 103,
+          "stock": 200,
+          "stockId": "1175jjn4",
+          "style": "蓝色马毛衣+裤子",
+          "styleId": 3,
+          "xdSkuId": "1175jjn4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_4abb8jii8726a7kj60g6b67h3e7ae_640x854.jpg",
+          "nowprice": 13900,
+          "price": 19858,
+          "size": "XL",
+          "sizeId": 104,
+          "stock": 200,
+          "stockId": "1175jjn6",
+          "style": "蓝色马毛衣+裤子",
+          "styleId": 3,
+          "xdSkuId": "1175jjn6"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩版中长款拼色套头毛衣女针织衫高腰修身显瘦毛边黑色小脚裤时尚套装两件套女",
+      "totalStock": 3000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

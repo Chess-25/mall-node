@@ -1,0 +1,832 @@
+{
+  "iid": "1m7yitk",
+  "result": {
+    "columns": [
+      "销量 10152",
+      "收藏233人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "新品",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180901_37be848id100dhaeac9b533e1i992_750x584.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_6l72fj9f893feajjch6ijai19726j_750x1250.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180901_11j3d103a2fb052hj1h0fi6a7c0ik_750x1250.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_56ij1b4cfh22290637k9i32c684a1_750x996.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180901_27ae628d716k953c89311097g0egc_750x996.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180901_1j34k32ag3gj0ahhhgjdheag5jj6f_750x975.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_0ejh1kk8bbfc93k6g82id3abgf3e9_750x974.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180901_6bblacj67ghidaj96j7fdke29cf1i_750x777.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180901_79gd6f819402fi3lc230jfk916aji_750x777.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_1lccb03k6acg4hjdb827c33h387d9_750x792.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180901_1k9ff3f2354gcl018ebejidgk0ag2_750x792.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_1f286h216gi0deh16cc96j5ig8k8f_750x813.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180901_1k63lke6h75a01lg6cg1ch8dl91hh_750x813.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_7ilbaa000dgk5073j2ca9kj05bf0d_750x771.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_42b4afdk43hkj53gf27e92j24f4kc_750x770.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180901_45gi7e97bek17802id67iclkifg4l_750x807.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180901_8el52e9c3gkfgb375e56j1lgb01jd_750x807.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_486kf75597d54016f3jjeda21k43i_750x855.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_24g6f63a3cab74899jj61e87kh00d_750x855.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_10i20ebcbg47l13cgebg34ii3ae61_750x813.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180901_2ec54267b149bdefe25467k1jg83h_750x813.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180901_2ih2d3icab1a5j3dbd7j9fkh4i6d0_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180901_41h1i758e35cfbk4kdhf0d9b3i2dd_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180901_2k8d4idikej857caifla6jhdf4f3b_710x760.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180901_7g3h23l6h1373cchedil5b246167d_640x960.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180901_1iib72d02eh1ggbe12i4a7elceha9_750x757.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "新品",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "达人推荐",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "109.00",
+      "highPrice": "155.72",
+      "iid": "1m7yitk",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7yitk&userId=14qfb7e&shopId=1qty58",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "55.00",
+      "lowPrice": "78.58",
+      "oldPrice": "¥78.58",
+      "price": "¥55.00~¥109.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1qty58",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩范清新套装宽松圆领可爱学生条纹上衣配复古高腰直筒裤子破洞牛仔裤时尚两件套",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180901_024lb916jjb699j4dg56048e51jj6_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180901_2ffcg556167jl67hf3chd08fgbbf2_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180901_4366gbg910ak18l7l2k1aekfke9ik_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180901_3c07c19h0cdh5lil2k6igkki14ll1_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180901_0hceb5f576lh2j4kgcg6553c62b05_798x1197.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180901_0ff51b283141cbf3f8g1aagfaj5bc_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180901_0ig9ccgl4dkl359967c4ak5ck2lf6_800x800.jpg",
+        "//s5.mogucdn.com/mlcdn/55cf19/180901_82ke8a7lb49f3eh181k757ihj93bf_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/180901_3jjhjdj4kc73151931589cali73i8_800x800.jpg",
+        "//s5.mogucdn.com/mlcdn/55cf19/180901_8g6gak37cj1jklkig1bgiih8e1fel_800x800.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180901_6blbh0i5a66hll12l29di919f3bj8_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180901_15d534ah2gjk6l5i4ke6ee89k87l6_800x800.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180901_8122i7fb8813iefeka79e17a48g11_710x760.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180901_725gckajaelh2f2efgabb2lgb72bb_640x960.jpg"
+      ],
+      "userId": "14qfb7e",
+      "video": {
+        "cover": "//s3.mogucdn.com/mlcdn/c45406/180912_87h36j664k6bg55abi49bi0aij9i9_640x960.jpg",
+        "videoId": 831090
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "条纹"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州策调贸易有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "红条纹+牛仔裤套装,单红条纹上衣,单牛仔裤,单黑色条纹上衣,黑条纹+牛仔裤套装"
+          },
+          {
+            "key": "袖型",
+            "value": "蝙蝠袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市南沙区丰泽路106自编一号楼X1301-A2717"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "胸围",
+              "106",
+              "110",
+              "114",
+              "118"
+            ],
+            [
+              "腰围",
+              "66",
+              "70",
+              "74",
+              "78"
+            ],
+            [
+              "袖长",
+              "41",
+              "42",
+              "42.5",
+              "43"
+            ],
+            [
+              "裤长",
+              "88",
+              "89",
+              "90",
+              "91"
+            ],
+            [
+              "衣长",
+              "59",
+              "59.5",
+              "60",
+              "60.5"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 19,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣衣收到了，发货很快，衣服质量很好，现在穿正合适，做工精细，穿上美美哒，面料柔软贴身穿很舒服，这个价位能买到这么合适的真的很值，喜欢",
+          "created": 1537330341,
+          "extraInfo": [
+            "体重:55kg",
+            "是否合身:合身",
+            "身高:160cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1169p05a",
+          "style": "颜色:单红条纹上衣 尺码:L ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_0l1ff9kf2hbc32fe4a2g05l77d89d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "weixin_pnzm5q9l3fmf8"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1qty58",
+      "cFans": 12599,
+      "cGoods": 184,
+      "cSells": 948945,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20107218",
+          "name": "❤精美套装 系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20107221",
+          "name": "❤衬衫、衬衣系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20157486",
+          "name": "❤T恤/卫衣打底衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173572",
+          "name": "❤衣裙 套装❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173574",
+          "name": "❤衣裤 套装❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173575",
+          "name": "❤外套/风衣 系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173576",
+          "name": "❤连衣裙/半身裙系"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173577",
+          "name": "❤针织/毛衣系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173578",
+          "name": "❤裤子/短裤 系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173579",
+          "name": "❤蕾丝衫/雪纺衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173580",
+          "name": "❤短  款 衬衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173581",
+          "name": "❤常规款衬衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173583",
+          "name": "❤中长款衬衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173584",
+          "name": "❤T恤❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173585",
+          "name": "❤卫衣❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173586",
+          "name": "❤牛仔外套❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173587",
+          "name": "❤棒球服外套❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173591",
+          "name": "❤风衣中长款外套❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173592",
+          "name": "❤打底衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173593",
+          "name": "❤其他外套系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173594",
+          "name": "❤连衣裙❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173595",
+          "name": "❤半身裙❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173596",
+          "name": "❤针织衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173597",
+          "name": "❤毛衣❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173598",
+          "name": "❤牛仔裤/打底裤❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173599",
+          "name": "❤休闲裤/哈伦裤❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173600",
+          "name": "❤背带裤/连体裤❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173601",
+          "name": "❤短裤/热裤❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173602",
+          "name": "❤蕾丝衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20173603",
+          "name": "❤雪纺衫❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20185504",
+          "name": "❤马甲 系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20185505",
+          "name": "❤短款马甲系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20185506",
+          "name": "❤常规款马甲系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20185507",
+          "name": "❤中长款马甲系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20185508",
+          "name": "❤防晒衣系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20185509",
+          "name": "❤配饰/帽子系❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20189705",
+          "name": "❤背带裙❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20192164",
+          "name": "❤背心/吊带❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20192165",
+          "name": "❤背带裤❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20258380",
+          "name": "❤棉马甲❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20258381",
+          "name": "❤毛呢/呢子大衣❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20258382",
+          "name": "❤棉服/棉袄❤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1qty58/list/index?categoryId=20310116",
+          "name": "【50元两件专区】"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "卓尔千衣",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.5
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.53
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1qty58",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180618_5f6agdjb54k4d7igch606555jk1al_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1qty58",
+      "type": 1,
+      "userId": "14qfb7e"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥55.00~¥109.00",
+      "isAbroad": false,
+      "priceRange": "¥55.00~¥109.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "单红条纹上衣",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "单黑色条纹上衣",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "红条纹+牛仔裤套装",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "黑条纹+牛仔裤套装",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "单牛仔裤",
+              "styleId": 5,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180901_7b93116ile26k0f38affl4508i3dl_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 171,
+          "stockId": "116pj50g",
+          "style": "单红条纹上衣",
+          "styleId": 1,
+          "xdSkuId": "116pj50g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180901_7b93116ile26k0f38affl4508i3dl_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 181,
+          "stockId": "116pj50i",
+          "style": "单红条纹上衣",
+          "styleId": 1,
+          "xdSkuId": "116pj50i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180901_7b93116ile26k0f38affl4508i3dl_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 187,
+          "stockId": "116pj50k",
+          "style": "单红条纹上衣",
+          "styleId": 1,
+          "xdSkuId": "116pj50k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180901_7b93116ile26k0f38affl4508i3dl_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 185,
+          "stockId": "116pj50o",
+          "style": "单红条纹上衣",
+          "styleId": 1,
+          "xdSkuId": "116pj50o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_0l6kf141j2ilfh9e0kd6k42dfc5kc_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 196,
+          "stockId": "116pj50m",
+          "style": "单黑色条纹上衣",
+          "styleId": 2,
+          "xdSkuId": "116pj50m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_0l6kf141j2ilfh9e0kd6k42dfc5kc_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 192,
+          "stockId": "116pj50q",
+          "style": "单黑色条纹上衣",
+          "styleId": 2,
+          "xdSkuId": "116pj50q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_0l6kf141j2ilfh9e0kd6k42dfc5kc_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 192,
+          "stockId": "116pj50s",
+          "style": "单黑色条纹上衣",
+          "styleId": 2,
+          "xdSkuId": "116pj50s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_0l6kf141j2ilfh9e0kd6k42dfc5kc_640x960.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 195,
+          "stockId": "116pj50u",
+          "style": "单黑色条纹上衣",
+          "styleId": 2,
+          "xdSkuId": "116pj50u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_8efhibj1h9jjcglcg8kcfbkjb46ih_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 188,
+          "stockId": "116pj50w",
+          "style": "红条纹+牛仔裤套装",
+          "styleId": 3,
+          "xdSkuId": "116pj50w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_8efhibj1h9jjcglcg8kcfbkjb46ih_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 184,
+          "stockId": "116pj50y",
+          "style": "红条纹+牛仔裤套装",
+          "styleId": 3,
+          "xdSkuId": "116pj50y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_8efhibj1h9jjcglcg8kcfbkjb46ih_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 191,
+          "stockId": "116pj510",
+          "style": "红条纹+牛仔裤套装",
+          "styleId": 3,
+          "xdSkuId": "116pj510"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_8efhibj1h9jjcglcg8kcfbkjb46ih_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 195,
+          "stockId": "116pj512",
+          "style": "红条纹+牛仔裤套装",
+          "styleId": 3,
+          "xdSkuId": "116pj512"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_2e551gej1i7c945fi4b689jjgc802_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 198,
+          "stockId": "116pj514",
+          "style": "黑条纹+牛仔裤套装",
+          "styleId": 4,
+          "xdSkuId": "116pj514"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_2e551gej1i7c945fi4b689jjgc802_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 200,
+          "stockId": "116pj516",
+          "style": "黑条纹+牛仔裤套装",
+          "styleId": 4,
+          "xdSkuId": "116pj516"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_2e551gej1i7c945fi4b689jjgc802_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 199,
+          "stockId": "116pj518",
+          "style": "黑条纹+牛仔裤套装",
+          "styleId": 4,
+          "xdSkuId": "116pj518"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_2e551gej1i7c945fi4b689jjgc802_640x960.jpg",
+          "nowprice": 10900,
+          "price": 15572,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 200,
+          "stockId": "116pj51a",
+          "style": "黑条纹+牛仔裤套装",
+          "styleId": 4,
+          "xdSkuId": "116pj51a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_7cab5k8kakfbffh39lkhdl90aa7g3_640x960.jpg",
+          "nowprice": 6499,
+          "price": 9285,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 198,
+          "stockId": "116pj51c",
+          "style": "单牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "116pj51c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_7cab5k8kakfbffh39lkhdl90aa7g3_640x960.jpg",
+          "nowprice": 6499,
+          "price": 9285,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 196,
+          "stockId": "116pj51e",
+          "style": "单牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "116pj51e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_7cab5k8kakfbffh39lkhdl90aa7g3_640x960.jpg",
+          "nowprice": 6499,
+          "price": 9285,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 199,
+          "stockId": "116pj51g",
+          "style": "单牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "116pj51g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180901_7cab5k8kakfbffh39lkhdl90aa7g3_640x960.jpg",
+          "nowprice": 6499,
+          "price": 9285,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 10001,
+          "stockId": "116pj51i",
+          "style": "单牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "116pj51i"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩范清新套装宽松圆领可爱学生条纹上衣配复古高腰直筒裤子破洞牛仔裤时尚两件套",
+      "totalStock": 13648
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

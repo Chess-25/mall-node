@@ -1,0 +1,429 @@
+{
+  "iid": "1m91vpe",
+  "result": {
+    "columns": [
+      "销量 11",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋冬新款阔腿裤女韩版高腰拖地西装长裤垂感宽松休闲直筒裤子",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180926_4galla62i403i61609d8d09a2h219_790x1023.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_2b9d9a12k30k4lfcfigdj5lbc69b9_790x1014.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180926_57a7gc477j146ici276gd5l1h01lg_790x1178.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_0ee05gjg1jckfigl14j2i49g0ihga_790x856.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_6fg2h39d5b89l21050kdjbeiicgc3_790x1049.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_64ei04f6ajad4ll9d525d323le1i0_790x1130.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180926_1if8kb13738ki1kb7cfl259514af5_790x557.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_2aj94jh2he92083g5jh2j0ie2cija_790x988.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_49971b4f01ede97eja19chbfld27j_790x971.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_2a2d9aidhb3fh66a360702h6l3a42_790x701.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_1j068i6jddlc5eldh6cje4cd17kkd_790x957.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_2gegjk5f8beck6h9f73ahkbig9848_790x884.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_2cggcf7k7174e92l7ghdk2i0g3409_790x937.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_1lkh32k7cj9d95g1ehj77hcb4d03b_790x806.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_147072d86b5h72b9bai167kbl12a6_790x942.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_1eia7hk3d0a8eif37478gk5hjbf3j_790x1013.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_87427lfc23dbf4944jg19e7h43jh8_790x1073.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_06lgedh418023bafghkf2g7a20ehi_790x930.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #710# #10005407#",
+      "desc": "2018秋冬新款阔腿裤女韩版高腰拖地西装长裤垂感宽松休闲直筒裤子",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "福建省莆田市"
+      },
+      "highNowPrice": "89.00",
+      "highPrice": "89.00",
+      "iid": "1m91vpe",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m91vpe&userId=17ftki4&shopId=1172ubqq",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "89.00",
+      "lowPrice": "89.00",
+      "price": "¥89.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172ubqq",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋冬新款阔腿裤女韩版高腰拖地西装长裤垂感宽松休闲直筒裤子",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180926_4i7l9if7ji0918jff7i7l1h1a3lea_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180926_0b9f1ll9di0bbkc0i3ca6487dk9lb_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180926_2g5370k50e6944dleggca6g46bcfg_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180926_33ld13gi1di323c04990gf3eegli9_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180926_4ckggb459k5f223a008g987bhdel1_640x960.jpg"
+      ],
+      "userId": "17ftki4"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "常规"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市嗨西呀贸易有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,灰色"
+          },
+          {
+            "key": "季节",
+            "value": "秋冬"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市南沙区丰泽东路106号A-1280"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "裤型",
+            "value": "阔腿裤"
+          },
+          {
+            "key": "裤长",
+            "value": "长裤"
+          },
+          {
+            "key": "腰型",
+            "value": "高腰"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "闭合方式",
+            "value": "其他"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "档长",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "大腿围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "臀围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "裤长",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "裤口",
+              "-",
+              "-",
+              "-",
+              "-"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172ubqq",
+      "cFans": 150,
+      "cGoods": 500,
+      "cSells": 11275,
+      "isMarked": false,
+      "level": 4,
+      "name": "尚易达",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.59
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.58
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172ubqq",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/170916_37dg599jbb4gka6fe2l6kk1kil13d_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172ubqq",
+      "type": 2,
+      "userId": "17ftki4"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥89.00",
+      "isAbroad": false,
+      "priceRange": "¥89.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "灰色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_5h0h4d6k7lkil727hjeekbcd6201b_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 418,
+          "stockId": "1174yehu",
+          "style": "灰色",
+          "styleId": 1,
+          "xdSkuId": "1174yehu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_5h0h4d6k7lkil727hjeekbcd6201b_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 353,
+          "stockId": "1174yehw",
+          "style": "灰色",
+          "styleId": 1,
+          "xdSkuId": "1174yehw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_5h0h4d6k7lkil727hjeekbcd6201b_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 334,
+          "stockId": "1174yehy",
+          "style": "灰色",
+          "styleId": 1,
+          "xdSkuId": "1174yehy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_5h0h4d6k7lkil727hjeekbcd6201b_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 378,
+          "stockId": "1174yei0",
+          "style": "灰色",
+          "styleId": 1,
+          "xdSkuId": "1174yei0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_52kdceeb7397c5a199dcjdgdl19dc_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 74,
+          "stockId": "1174yehm",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yehm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_52kdceeb7397c5a199dcjdgdl19dc_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 349,
+          "stockId": "1174yeho",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yeho"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_52kdceeb7397c5a199dcjdgdl19dc_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 358,
+          "stockId": "1174yehq",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yehq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_52kdceeb7397c5a199dcjdgdl19dc_800x800.jpg",
+          "nowprice": 8900,
+          "price": 8900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 198,
+          "stockId": "1174yehs",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1174yehs"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋冬新款阔腿裤女韩版高腰拖地西装长裤垂感宽松休闲直筒裤子",
+      "totalStock": 2462
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

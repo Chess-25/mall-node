@@ -1,0 +1,741 @@
+{
+  "iid": "1lxjq0o",
+  "result": {
+    "columns": [
+      "销量 198",
+      "收藏56人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "紫色T恤自留款4色",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180504_58g3je2l07dke2cdli2j4d0b7gcie_750x1883.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180504_7eg60hji59la9cej3kjlge9e4jbbk_750x1824.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180504_2k2lbb94e5i142l33j0bd4kdkd682_750x1329.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180504_49aidcd43a7b6ad0j5c2dd6ki8jk8_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_47014272bkh1532fb05iah8gf6fcg_750x1330.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_72gkl8gd0fb67a07227j1937914i3_750x1330.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_35ek9kjdae243kk4bjle9ahdl6bf0_750x1329.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180416_7da0g4fj92cbbiakf1dfi2k8865kj_750x1329.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_6l59f4h1eg4727hc7bl9ch5335ial_750x1330.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_894f25207038l1i6jkikd5l89blfb_750x1330.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180416_74e0ae47c7i6icige0hgh40e0gac1_750x1330.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_3a808ab58k5bi3h6j80dahd8l5c55_750x1330.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_7d1j4ifdh08a8ij6a550kic99d72g_750x1330.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_8d0k2d342hk3l4gi74je531d5cj72_750x1330.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180416_5l21ja0ihaecg9hje629c9dllfcjh_1500x1498.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_09894deea7h87b2cc2dfl8df09k3f_3024x3024.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180504_4l90b3b9173gg6j4jdkdjjcck4450_750x3335.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180504_7814e8c0b90db10g5023l4664jf2k_749x2315.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180504_83el7cc7l0938f81ck2akffd6g6l4_750x3135.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180504_84blbgl786ljfeg65de3k0i857cl3_750x3276.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180416_245aa978jk167g8d7lj9cki937i67_1080x1080.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_8a25bhjcikfehb51j0lilf45gfk2b_3024x3024.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180504_71b7ac1h74deg957901b8697hk9kl_750x2647.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180504_832e580fe2hi7jj5eejk1739dc4jb_750x1799.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180504_5fg6ge7cblb4ldh0ha0k4e8jdlhkj_749x2529.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180504_12khjk10bdcbhkicf199g6fjddd04_749x2086.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #685#",
+      "desc": "紫色T恤自留款4色",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "49.00",
+      "highPrice": "70.00",
+      "iid": "1lxjq0o",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1lxjq0o&userId=19fgyq&shopId=14ne6",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "49.00",
+      "lowPrice": "70.00",
+      "oldPrice": "¥70.00",
+      "price": "¥49.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14ne6",
+      "state": 0,
+      "tags": "",
+      "title": "2018夏季新款紫色百搭款套头宽松学生T恤女上衣潮4色",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180416_4k2if35l8fbbfaca8cl3e097bkijk_640x960.jpg"
+      ],
+      "userId": "19fgyq"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "字母/文字/数字"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市路逸服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "白色t恤,紫色T恤,黄色t恤,粉色t恤"
+          },
+          {
+            "key": "袖型",
+            "value": "堆堆袖"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "偏厚"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M,XXL"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          },
+          {
+            "key": "下摆",
+            "value": "缩口"
+          },
+          {
+            "key": "季节",
+            "value": "夏季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东广州"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "元素",
+            "value": "翻边"
+          },
+          {
+            "key": "袖长",
+            "value": "短袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "肩宽",
+              "-",
+              "-",
+              "-",
+              ""
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              ""
+            ],
+            [
+              "衣长",
+              "69",
+              "70",
+              "71",
+              "72"
+            ],
+            [
+              "胸围",
+              "98",
+              "102",
+              "106",
+              "112"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL"
+            ],
+            [
+              "肩宽",
+              ""
+            ],
+            [
+              "腰围",
+              ""
+            ],
+            [
+              "衣长",
+              "73"
+            ],
+            [
+              "胸围",
+              "116"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14ne6",
+      "list": [
+        "满2件减8元",
+        "满3件减16元",
+        "满4件减24元",
+        "满5件减30元"
+      ]
+    },
+    "rate": {
+      "cRate": 108,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服美美哒，质量好棒棒呢，物美价廉，超级喜欢，给闺密也推荐了，客服建议的码数很合身，宽松版，就是我想要的款型，很喜欢呀，么么哒，下次一定再来，你们家的衣服太美啦😍😍",
+          "created": 1526700246,
+          "extraInfo": [
+            "体重:42 kg",
+            "是否合身:合身",
+            "身高:160 cm"
+          ],
+          "images": [
+            "//s11.mogucdn.com/mlcdn/c45406/180519_19fh7jlh316elgb56gg2k3de623gg_1080x868.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180519_04a162dldbk1baf8h97d24i91kijd_1056x1410.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "114uh3ou",
+          "style": "颜色:紫色T恤 尺码:S ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_65bf62g5e98f4g9b8dk1j5le13e34_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "phyveessxin"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14ne6",
+      "cFans": 45957,
+      "cGoods": 336,
+      "cSells": 415519,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=13014",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=13015",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=20337",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=20338",
+          "name": "超美连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=28141",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=43302",
+          "name": "针织衫\\毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=86876",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=155586",
+          "name": "韩范外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1358134",
+          "name": "潮流包包"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1428527",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1463010",
+          "name": "68元任选2件"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1531018",
+          "name": "雪纺衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "范范美衣家",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.67
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.66
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14ne6",
+      "shopLogo": "//s5.mogucdn.com/b7/pic/151203/20bo8w_ie3wmytchbrdczjtguzdambqgayde_120x120.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14ne6",
+      "type": 1,
+      "userId": "19fgyq"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥49.00",
+      "isAbroad": false,
+      "priceRange": "¥49.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "紫色T恤",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "粉色t恤",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "白色t恤",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "黄色t恤",
+              "styleId": 4,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180504_7l97hlb0026blllece2e6420hd3hd_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 187,
+          "stockId": "1128fi0m",
+          "style": "紫色T恤",
+          "styleId": 1,
+          "xdSkuId": "1128fi0m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180504_7l97hlb0026blllece2e6420hd3hd_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 166,
+          "stockId": "1128fi0o",
+          "style": "紫色T恤",
+          "styleId": 1,
+          "xdSkuId": "1128fi0o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180504_7l97hlb0026blllece2e6420hd3hd_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 216,
+          "stockId": "1128fi0q",
+          "style": "紫色T恤",
+          "styleId": 1,
+          "xdSkuId": "1128fi0q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180504_7l97hlb0026blllece2e6420hd3hd_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 271,
+          "stockId": "113hqka2",
+          "style": "紫色T恤",
+          "styleId": 1,
+          "xdSkuId": "113hqka2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180504_7l97hlb0026blllece2e6420hd3hd_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 272,
+          "stockId": "113hqka4",
+          "style": "紫色T恤",
+          "styleId": 1,
+          "xdSkuId": "113hqka4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180611_6bj47idgcfcdhccg30illfk20if0d_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 254,
+          "stockId": "1128fi0s",
+          "style": "粉色t恤",
+          "styleId": 2,
+          "xdSkuId": "1128fi0s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180611_6bj47idgcfcdhccg30illfk20if0d_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 251,
+          "stockId": "1128fi0u",
+          "style": "粉色t恤",
+          "styleId": 2,
+          "xdSkuId": "1128fi0u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180611_6bj47idgcfcdhccg30illfk20if0d_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 267,
+          "stockId": "1128fi0w",
+          "style": "粉色t恤",
+          "styleId": 2,
+          "xdSkuId": "1128fi0w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180611_6bj47idgcfcdhccg30illfk20if0d_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 283,
+          "stockId": "113hqka6",
+          "style": "粉色t恤",
+          "styleId": 2,
+          "xdSkuId": "113hqka6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180611_6bj47idgcfcdhccg30illfk20if0d_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 280,
+          "stockId": "113hqka8",
+          "style": "粉色t恤",
+          "styleId": 2,
+          "xdSkuId": "113hqka8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_726a37lae19b64lbljh9k6jch572a_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 270,
+          "stockId": "1128fi0y",
+          "style": "白色t恤",
+          "styleId": 3,
+          "xdSkuId": "1128fi0y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_726a37lae19b64lbljh9k6jch572a_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 257,
+          "stockId": "1128fi10",
+          "style": "白色t恤",
+          "styleId": 3,
+          "xdSkuId": "1128fi10"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_726a37lae19b64lbljh9k6jch572a_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 278,
+          "stockId": "1128fi12",
+          "style": "白色t恤",
+          "styleId": 3,
+          "xdSkuId": "1128fi12"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_726a37lae19b64lbljh9k6jch572a_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 292,
+          "stockId": "113hqkaa",
+          "style": "白色t恤",
+          "styleId": 3,
+          "xdSkuId": "113hqkaa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_726a37lae19b64lbljh9k6jch572a_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 293,
+          "stockId": "113hqkac",
+          "style": "白色t恤",
+          "styleId": 3,
+          "xdSkuId": "113hqkac"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_8ahf5d6jh7gb9bjfll1f5bi33gil1_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 288,
+          "stockId": "1128fi14",
+          "style": "黄色t恤",
+          "styleId": 4,
+          "xdSkuId": "1128fi14"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_8ahf5d6jh7gb9bjfll1f5bi33gil1_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 278,
+          "stockId": "1128fi16",
+          "style": "黄色t恤",
+          "styleId": 4,
+          "xdSkuId": "1128fi16"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_8ahf5d6jh7gb9bjfll1f5bi33gil1_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 290,
+          "stockId": "1128fi18",
+          "style": "黄色t恤",
+          "styleId": 4,
+          "xdSkuId": "1128fi18"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_8ahf5d6jh7gb9bjfll1f5bi33gil1_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 289,
+          "stockId": "113hqkae",
+          "style": "黄色t恤",
+          "styleId": 4,
+          "xdSkuId": "113hqkae"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180611_8ahf5d6jh7gb9bjfll1f5bi33gil1_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 296,
+          "stockId": "113hqkag",
+          "style": "黄色t恤",
+          "styleId": 4,
+          "xdSkuId": "113hqkag"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018夏季新款紫色百搭款套头宽松学生T恤女上衣潮4色",
+      "totalStock": 5278
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

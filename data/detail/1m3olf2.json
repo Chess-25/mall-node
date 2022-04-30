@@ -1,0 +1,556 @@
+{
+  "iid": "1m3olf2",
+  "result": {
+    "columns": [
+      "销量 499",
+      "收藏2人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款韩版松紧腰高腰黑色九分小脚休闲裤哈伦裤宽松显瘦学生西装裤子烟管裤女秋冬裤子",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180608_0j60b23ga2ejcbieaf98dcf2b6gdc_750x793.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180608_16jcc2j43b23k1le8d3ge0ldb7h3j_750x656.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180608_5i0i6l3gl5j6ika171l45ii92j9j1_750x912.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180608_2h6gig16k7b6a2hckeede74275lfe_750x647.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180608_81j5ibiha4kg17aa6da4792a0bibi_750x547.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180608_854fhc4ihl6j3gg9a83i17i0lbd36_750x771.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180608_2j3l31cj35i20l30b3e4jd2kjflkh_750x658.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180608_06b2ia8677cbic8d79gbhil8ga751_750x650.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180608_3333ed3c4bc5la0hcif9adc6cb3c2_750x691.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180608_3fgfb3aa2kd282515dil20k74lhkf_750x818.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180608_3382e9b2cdcl5fgceagagbed5ke75_750x778.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180608_195lh2449b6ge6ekl2ibil2ejab40_750x684.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180608_19968a4ik4098d464a1g78k6ja4f9_750x572.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180608_4aled7d0afa312kfad1gj1b388i0f_750x788.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180608_385a058jikdkc73b75f94c564e2ec_750x843.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180608_67j6bf10gi5b8119jfb1942b34dbj_750x834.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #710# #10005407#",
+      "desc": "2018秋季新款韩版松紧腰高腰黑色九分小脚休闲裤哈伦裤宽松显瘦学生西装裤子烟管裤女秋冬裤子",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "秋季上新",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "59.00",
+      "highPrice": "84.29",
+      "iid": "1m3olf2",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m3olf2&userId=13vu8wy&shopId=1p8z3w",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "59.00",
+      "lowPrice": "84.29",
+      "oldPrice": "¥84.29",
+      "price": "¥59.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1p8z3w",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩版松紧腰高腰黑色九分小脚休闲裤哈伦裤宽松显瘦学生西装裤子烟管裤女秋冬裤子",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180608_4cbi1iec5kb70e27cbh8adk6i0lb0_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180608_35h1b176h3ead3ka40l2d7baa1ih0_640x960.jpg"
+      ],
+      "userId": "13vu8wy",
+      "video": {
+        "cover": "//s11.mogucdn.com/mlcdn/c45406/180728_824g7hjbbl1fh23jk3lah63d76kif_640x960.jpg",
+        "videoId": 744020
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厚薄",
+            "value": "常规"
+          },
+          {
+            "key": "厂名",
+            "value": "广州曼舍贸易有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色"
+          },
+          {
+            "key": "裤长",
+            "value": "九分裤"
+          },
+          {
+            "key": "腰型",
+            "value": "高腰"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M,XXL,XXXL"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市南沙区丰泽东路106号"
+          },
+          {
+            "key": "材质",
+            "value": "锦纶"
+          },
+          {
+            "key": "裤型",
+            "value": "小脚"
+          },
+          {
+            "key": "元素",
+            "value": "松紧"
+          },
+          {
+            "key": "风格",
+            "value": "通勤（OL）"
+          },
+          {
+            "key": "闭合方式",
+            "value": "纽扣+拉链"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "腰围",
+              "62-66",
+              "66-70",
+              "70-74",
+              "74-78"
+            ],
+            [
+              "臀围",
+              "92",
+              "96",
+              "100",
+              "104"
+            ],
+            [
+              "裤长",
+              "88",
+              "89",
+              "90",
+              "91"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL",
+              "XXXL"
+            ],
+            [
+              "腰围",
+              "78-82",
+              "82-86"
+            ],
+            [
+              "臀围",
+              "108",
+              "112"
+            ],
+            [
+              "裤长",
+              "92",
+              "93"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1p8z3w",
+      "list": [
+        "满109元减5元"
+      ]
+    },
+    "rate": {
+      "cRate": 51,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "收到挺惊喜的，质量比想象中要好，颜色没有色差，和描述一样，款式设计好看，效果很好，面料舒服，价格实惠！",
+          "created": 1533258914,
+          "extraInfo": [
+            "是否合身:合身"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115rufzu",
+          "style": "颜色:黑色 尺码:XXL ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_527fecjlbb7f05fihi1aggde73jb8_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "浪漫果味CAngela"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1p8z3w",
+      "cFans": 43399,
+      "cGoods": 269,
+      "cSells": 215335,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=1336573",
+          "name": "每日上新"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=1383316",
+          "name": "下装/bottoms"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=1458684",
+          "name": "上装/tops"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=1464837",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20109215",
+          "name": "裙子【 skirt】"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20157573",
+          "name": "秋冬新品/NEW"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20167629",
+          "name": "牛仔裤/短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20167630",
+          "name": "连衣裙/半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20170514",
+          "name": "T恤/打底衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20170515",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20191692",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20191693",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20194181",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20197299",
+          "name": "蕾丝衫/雪纺衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20217298",
+          "name": "秋季新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20217299",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20229336",
+          "name": "西裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20246720",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20248622",
+          "name": "新品上装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20248629",
+          "name": "新品下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20259434",
+          "name": "马甲"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20287693",
+          "name": "新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1p8z3w/list/index?categoryId=20314599",
+          "name": "50元两件"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "MK摩卡",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.8
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.81
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1p8z3w",
+      "shopLogo": "//s5.mogucdn.com/mlcdn/c45406/170803_13g7l7f6dfjhba67be12e0ckl994l_350x350.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1p8z3w",
+      "type": 1,
+      "userId": "13vu8wy"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥59.00",
+      "isAbroad": false,
+      "priceRange": "¥59.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            },
+            {
+              "index": 105,
+              "isDefault": false,
+              "name": "XXXL",
+              "sizeId": 105,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180608_7gda779bgf69ka7286dkf59cc25cc_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 188,
+          "stockId": "1153oywe",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1153oywe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180608_7gda779bgf69ka7286dkf59cc25cc_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 165,
+          "stockId": "1153oywc",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1153oywc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180608_7gda779bgf69ka7286dkf59cc25cc_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 186,
+          "stockId": "1153oywg",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1153oywg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180608_7gda779bgf69ka7286dkf59cc25cc_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 235,
+          "stockId": "1153oywi",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1153oywi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180608_7gda779bgf69ka7286dkf59cc25cc_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 243,
+          "stockId": "1153oywk",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1153oywk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180608_7gda779bgf69ka7286dkf59cc25cc_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "XXXL",
+          "sizeId": 105,
+          "stock": 275,
+          "stockId": "1153oywm",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1153oywm"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩版松紧腰高腰黑色九分小脚休闲裤哈伦裤宽松显瘦学生西装裤子烟管裤女秋冬裤子",
+      "totalStock": 1292
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "iid": "1m68g76",
+  "result": {
+    "columns": [
+      "销量 352",
+      "收藏6人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "Polo领纯色雪纺衬衫女2018春秋新款韩版宽松显瘦职业装衬衣女百搭休闲打底长袖上衣",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_04i11a4j8eh7h62k01g0blb9a90a7_750x946.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_348cb0l5la07bgb9e4f62kc4i4bf0_750x577.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180721_3a5hfe1bfig33a132l8j2khblkeg8_750x741.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180906_09gfli4h8d3i8i5h179ikl85bk7j7_750x673.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180721_2hdjc3ah305235i4d14hhk16l8ecl_750x741.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_8201663k3c6hh39a91bke4ehge3l7_750x740.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_3a473c4ehjii578bg6e1l7412798b_750x776.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_5g748c1c7h527k267l7bdb142ii27_750x704.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_58g9kj807lhh9c2fhk23jakfl8clc_750x741.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180906_7866ki18ecf73443j3b81d63bd7lf_750x669.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180721_1lhd2k4d6j296il1cf99ff19lkje4_750x741.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_513fdd78c5jhc5229fgdcaclgelfb_750x740.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180721_09e5kigli03c09k2bcef220b61d59_750x776.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_6618bje3h39ki42fhk9gk2da193j4_750x741.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180906_42bd8b590bfl9chkk5fh72de07e6d_750x671.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_6f49gk8c077be0jj8fl0760c13099_750x741.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_148a1a8lh1ck28157gkic3l9kkjed_750x740.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180721_24ijkl7fe91h7adb2ad7jj8c02a87_750x776.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #686#",
+      "desc": "Polo领纯色雪纺衬衫女2018春秋新款韩版宽松显瘦职业装衬衣女百搭休闲打底长袖上衣",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "优惠价",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "57.00",
+      "highPrice": "114.00",
+      "iid": "1m68g76",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m68g76&userId=1367a8w&shopId=1o0omi",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "57.00",
+      "lowPrice": "114.00",
+      "oldPrice": "¥114.00",
+      "price": "¥57.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1o0omi",
+      "state": 0,
+      "tags": "",
+      "title": "Polo领纯色雪纺衬衫女2018春秋新款韩版宽松显瘦职业装衬衣女百搭休闲打底长袖上衣",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/55cf19/180721_03laee1l895fd6f418cachb0ii291_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/180721_2e8jc54c8l2llgh4111k6kiek5e6l_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/180721_25ckf2lhbb86a877bka6f7dh0dk18_640x960.jpg"
+      ],
+      "userId": "1367a8w"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厂名",
+            "value": "广州市佳诚服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,藏青色,白色"
+          },
+          {
+            "key": "袖型",
+            "value": "其他袖型"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "偏薄"
+          },
+          {
+            "key": "衣门襟",
+            "value": "纽扣"
+          },
+          {
+            "key": "穿着方式",
+            "value": "开襟"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M,XXL"
+          },
+          {
+            "key": "衣长",
+            "value": "中长款（66-80cm）"
+          },
+          {
+            "key": "版型",
+            "value": "直筒"
+          },
+          {
+            "key": "下摆",
+            "value": "敞口"
+          },
+          {
+            "key": "季节",
+            "value": "春季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市天河区天河北路侨林街47号"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "号型",
+              "155/76A",
+              "160/80A",
+              "165/84A",
+              "170/88A"
+            ],
+            [
+              "肩宽",
+              "37",
+              "38",
+              "39",
+              "40"
+            ],
+            [
+              "胸围",
+              "90",
+              "94",
+              "98",
+              "102"
+            ],
+            [
+              "袖长",
+              "57",
+              "58",
+              "59",
+              "60"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL"
+            ],
+            [
+              "号型",
+              "175/92A"
+            ],
+            [
+              "肩宽",
+              "41"
+            ],
+            [
+              "胸围",
+              "106"
+            ],
+            [
+              "袖长",
+              "61"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1o0omi",
+      "list": [
+        "满2件减2元",
+        "满3件减4元",
+        "满4件减6元",
+        "满5件减8元"
+      ]
+    },
+    "rate": {
+      "cRate": 5,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "挺好的",
+          "created": 1537067607,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1168i3ns",
+          "style": "颜色:藏青色 尺码:L ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "wx_kj2y86lhprwpv"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1o0omi",
+      "cFans": 10713,
+      "cGoods": 349,
+      "cSells": 105794,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1o0omi/list/index?categoryId=20128155",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o0omi/list/index?categoryId=20181032",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o0omi/list/index?categoryId=20181033",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o0omi/list/index?categoryId=20181034",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o0omi/list/index?categoryId=20181035",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o0omi/list/index?categoryId=20181863",
+          "name": "春装  长袖"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o0omi/list/index?categoryId=20181864",
+          "name": "衬衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "阿依娜",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.59
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.59
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1o0omi",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180228_2k7f4e4dk2505a7db6ecf07j5dfhf_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1o0omi",
+      "type": 1,
+      "userId": "1367a8w"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥57.00",
+      "isAbroad": false,
+      "priceRange": "¥57.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "白色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "藏青色",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180721_68g09d74ej37f14309ile6egb23ia_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 595,
+          "stockId": "11641u2c",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "11641u2c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180721_68g09d74ej37f14309ile6egb23ia_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 580,
+          "stockId": "11641u2e",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "11641u2e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180721_68g09d74ej37f14309ile6egb23ia_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 587,
+          "stockId": "11641u2g",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "11641u2g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180721_68g09d74ej37f14309ile6egb23ia_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 593,
+          "stockId": "11641u2i",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "11641u2i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180721_68g09d74ej37f14309ile6egb23ia_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 597,
+          "stockId": "11641u2k",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "11641u2k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_66cbf6bjcbcll38h027f145l22kb5_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 589,
+          "stockId": "11641u2m",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "11641u2m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_66cbf6bjcbcll38h027f145l22kb5_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 582,
+          "stockId": "11641u2o",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "11641u2o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_66cbf6bjcbcll38h027f145l22kb5_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 584,
+          "stockId": "11641u2q",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "11641u2q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_66cbf6bjcbcll38h027f145l22kb5_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 592,
+          "stockId": "11641u2s",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "11641u2s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_66cbf6bjcbcll38h027f145l22kb5_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 592,
+          "stockId": "11641u2u",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "11641u2u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_461g2d2ha36dh5bcki319c13cih3l_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 570,
+          "stockId": "11641u2w",
+          "style": "藏青色",
+          "styleId": 3,
+          "xdSkuId": "11641u2w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_461g2d2ha36dh5bcki319c13cih3l_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 524,
+          "stockId": "11641u2y",
+          "style": "藏青色",
+          "styleId": 3,
+          "xdSkuId": "11641u2y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_461g2d2ha36dh5bcki319c13cih3l_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 535,
+          "stockId": "11641u30",
+          "style": "藏青色",
+          "styleId": 3,
+          "xdSkuId": "11641u30"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_461g2d2ha36dh5bcki319c13cih3l_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 565,
+          "stockId": "11641u32",
+          "style": "藏青色",
+          "styleId": 3,
+          "xdSkuId": "11641u32"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180721_461g2d2ha36dh5bcki319c13cih3l_640x960.jpg",
+          "nowprice": 5700,
+          "price": 11400,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 579,
+          "stockId": "11641u34",
+          "style": "藏青色",
+          "styleId": 3,
+          "xdSkuId": "11641u34"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "Polo领纯色雪纺衬衫女2018春秋新款韩版宽松显瘦职业装衬衣女百搭休闲打底长袖上衣",
+      "totalStock": 8664
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

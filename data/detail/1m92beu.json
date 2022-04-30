@@ -1,0 +1,364 @@
+{
+  "iid": "1m92beu",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏1人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "宽松显瘦，百搭时尚~",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180926_3lc92kkd72l1faedh98dii81l7ij5_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_23419ahhkafgl1e71g93l6753bk8l_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_6le22l4l35k4k7d8je18f0gg7bj05_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_38l5793dk18a7jh5kij852abb4d0a_750x1000.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_7kfa1k1gb8f144462ch2cheih7a3g_750x1000.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "宽松显瘦，百搭时尚~",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "69.30",
+      "highPrice": "99.00",
+      "iid": "1m92beu",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92beu&userId=13h1xvg&shopId=1o9uhm",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "59.50",
+      "lowPrice": "85.00",
+      "oldPrice": "¥85.00",
+      "price": "¥59.50~¥69.30",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1o9uhm",
+      "state": 0,
+      "tags": "",
+      "title": "秋冬女新款套装2018韩版时尚小香风chic港味成熟女神网红俏皮毛衣裙子两件套装省心搭配",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180926_72fag321b7h30diik71f9780hj3aa_640x960.jpg"
+      ],
+      "userId": "13h1xvg",
+      "video": {
+        "cover": "//s11.mogucdn.com/mlcdn/c45406/180926_1045d46fhhfd1bfb83309hehh2a33_640x960.jpg",
+        "videoId": 858087
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市木缘子夕服饰"
+          },
+          {
+            "key": "颜色",
+            "value": "咖啡色连衣裙,套装,花沙色外套"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "衣长",
+            "value": "中长款（66-80cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋冬"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市天河区龙洞北三街28号"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "V领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "胸围",
+              "88"
+            ],
+            [
+              "袖长",
+              "48"
+            ],
+            [
+              "肩宽",
+              "38"
+            ],
+            [
+              "衣长",
+              "105"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1o9uhm",
+      "list": [
+        "满2件减5元",
+        "满3件减10元",
+        "满139元减10元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1o9uhm",
+      "cFans": 62770,
+      "cGoods": 572,
+      "cSells": 265469,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477698",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477700",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477701",
+          "name": "上衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477703",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1503551",
+          "name": "99选2"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1521871",
+          "name": "显瘦裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1521872",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1521906",
+          "name": "短裤"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "胖家小妹",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.6
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.6
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1o9uhm",
+      "shopLogo": "//s11.mogucdn.com/p1/150901/1qiywy_iezdqzdfhe3ggzrvgmzdambqmmyde_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1o9uhm",
+      "type": 1,
+      "userId": "13h1xvg"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥59.50~¥69.30",
+      "isAbroad": false,
+      "priceRange": "¥59.50~¥69.30",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "花沙色外套",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "咖啡色连衣裙",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "套装",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_08391e13h6cglg9jh9997ef659jjl_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "11753lxi",
+          "style": "花沙色外套",
+          "styleId": 1,
+          "xdSkuId": "11753lxi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_6662c2569gbjhg2l59akegl170gee_640x960.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "11753lxk",
+          "style": "咖啡色连衣裙",
+          "styleId": 2,
+          "xdSkuId": "11753lxk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180926_5fh84529iigl9d4a4f18bek4f66ee_640x960.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "11753lxm",
+          "style": "套装",
+          "styleId": 3,
+          "xdSkuId": "11753lxm"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "秋冬女新款套装2018韩版时尚小香风chic港味成熟女神网红俏皮毛衣裙子两件套装省心搭配",
+      "totalStock": 300
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

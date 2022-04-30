@@ -1,0 +1,610 @@
+{
+  "iid": "1kinjoa",
+  "result": {
+    "columns": [
+      "销量 347",
+      "收藏364人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋装新款韩版学院风减龄蝴蝶结打底衫长袖衬衫+单排扣高腰半身裙两件套裙子套装女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180820_59kjigki8kgdgfjl203k5k9kbaaib_750x433.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_6bfa272b3l5kcj5dgkd4di7a4431k_750x944.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_4hlfkl992h9fe2c2kfl814f0ea231_750x1014.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_6eicilj9iad2ejde7a7h47cil4g62_719x706.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_2f5344j65c2e96a00i5ehad63d61b_715x702.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/170825_5995a9j6ccek0ih31l0gig13bch32_725x740.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_00iglid53k6ei3hh30e6d0hf1al5a_750x730.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_539gh7899j9j2ejd9f1g384lfkc48_722x725.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_6hhf69k6e8ela8h1lf89i95429471_719x694.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/170825_1341248b91fh8i67dh9hldhic4d93_719x718.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/170825_7ffk2l4b254a82225c15gji1gk28b_712x706.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_566cciak23k872jhdcfda031j8eb7_720x708.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/170825_0djk9i3i61k1e5f6ec54l9clcghhg_718x722.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/170825_2d239d7eaej97kb9l3e98fe5fk6bj_722x694.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_4e8fl030ed0gleb34c9lgkc5kck00_717x728.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/170825_6785bah5i35agc3ef2kd714jj57le_750x709.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_1k3k2fak176fjg3de9b20dc5b63b8_750x751.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_7dfadhbe9gcc6h8lla378d104d47c_750x742.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_640lgdl94ckkkc4b4j6f6k711ald1_750x723.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170825_5cdalk332c9g7gaaflbfcce4e4bgd_750x748.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋装新款韩版学院风减龄蝴蝶结打底衫长袖衬衫+单排扣高腰半身裙两件套裙子套装女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "79.80",
+      "highPrice": "114.00",
+      "iid": "1kinjoa",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1kinjoa&userId=12777r2&shopId=14iz4",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "39.90",
+      "lowPrice": "57.00",
+      "oldPrice": "¥57.00",
+      "price": "¥39.90~¥79.80",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14iz4",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋装新款韩版学院风减龄蝴蝶结打底衫长袖衬衫+单排扣高腰半身裙两件套裙子套装女",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/170825_73dd53ld6h01k2463f7686i8ih8fb_640x960.jpg"
+      ],
+      "userId": "12777r2"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州素悠曼贸易有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色半身裙-单,衬衫+半身裙,白色衬衫-单"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市白云区太和镇大源村七队田心心南路6号三号"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "元素",
+            "value": "蝴蝶结"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "学院"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "胸围",
+              "90",
+              "94",
+              "98",
+              "102"
+            ],
+            [
+              "腰围",
+              "64",
+              "68",
+              "72",
+              "76"
+            ],
+            [
+              "裙长",
+              "37",
+              "38",
+              "39",
+              "40"
+            ],
+            [
+              "肩宽",
+              "37",
+              "38",
+              "39",
+              "40"
+            ],
+            [
+              "衣长",
+              "63",
+              "64",
+              "65",
+              "66"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14iz4",
+      "list": [
+        "满50元减3元",
+        "满150元减10元",
+        "满248元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 362,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "相当不错，第一眼就喜欢了。质量不错，值得购买，老板态度不错，详细解答。物流速度很快",
+          "created": 1534814060,
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115xufky",
+          "style": "颜色:黑色半身裙-单 尺码:S ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_65bf62g5e98f4g9b8dk1j5le13e34_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "王春华2005"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14iz4",
+      "cFans": 120764,
+      "cGoods": 593,
+      "cSells": 669910,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=7912",
+          "name": "TOP、连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=7915",
+          "name": "TOP、牛仔裤/短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=14234",
+          "name": "TOP、半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=30341",
+          "name": "TOP、两件套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=41938",
+          "name": "TOP、长袖衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=76010",
+          "name": "TOP、T恤衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=78986",
+          "name": "TOP、棒球衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=85577",
+          "name": "TOP、雪纺蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=141464",
+          "name": "TOP、连体裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=150194",
+          "name": "TOP、针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=153840",
+          "name": "TOP、牛仔外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=178316",
+          "name": "TOP、卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=198159",
+          "name": "TOP、防晒衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=222423",
+          "name": "TOP、背心/吊带"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=264135",
+          "name": "TOP、家居服/睡衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=269259",
+          "name": "TOP、打底裤←←"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=20091595",
+          "name": "TOP、风衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=20106622",
+          "name": "TOP、棉衣棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/14iz4/list/index?categoryId=20255009",
+          "name": "TOP、毛呢大衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "小茉莉fashion之家",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.72
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.71
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14iz4",
+      "shopLogo": "//s11.mogucdn.com/p1/150916/13llur_ie2demtdhe4dizdbgmzdambqgiyde_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14iz4",
+      "type": 1,
+      "userId": "12777r2"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥39.90~¥79.80",
+      "isAbroad": false,
+      "priceRange": "¥39.90~¥79.80",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "白色衬衫-单",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色半身裙-单",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "衬衫+半身裙",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170825_75k9j4g4e7i5kkc7c8l5jkb3eh7e8_750x944.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 4868,
+          "stockId": "1trptua",
+          "style": "白色衬衫-单",
+          "styleId": 1,
+          "xdSkuId": "1trptua"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170825_75k9j4g4e7i5kkc7c8l5jkb3eh7e8_750x944.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 4850,
+          "stockId": "1trptu6",
+          "style": "白色衬衫-单",
+          "styleId": 1,
+          "xdSkuId": "1trptu6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170825_75k9j4g4e7i5kkc7c8l5jkb3eh7e8_750x944.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 4936,
+          "stockId": "1trptu8",
+          "style": "白色衬衫-单",
+          "styleId": 1,
+          "xdSkuId": "1trptu8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170825_75k9j4g4e7i5kkc7c8l5jkb3eh7e8_750x944.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 4957,
+          "stockId": "1trptuc",
+          "style": "白色衬衫-单",
+          "styleId": 1,
+          "xdSkuId": "1trptuc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/170825_3ie1dl90l6i52fje7ald0c38bfjh2_750x748.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 4893,
+          "stockId": "1trptue",
+          "style": "黑色半身裙-单",
+          "styleId": 2,
+          "xdSkuId": "1trptue"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/170825_3ie1dl90l6i52fje7ald0c38bfjh2_750x748.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 4875,
+          "stockId": "1trptug",
+          "style": "黑色半身裙-单",
+          "styleId": 2,
+          "xdSkuId": "1trptug"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/170825_3ie1dl90l6i52fje7ald0c38bfjh2_750x748.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 4900,
+          "stockId": "1trptui",
+          "style": "黑色半身裙-单",
+          "styleId": 2,
+          "xdSkuId": "1trptui"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/170825_3ie1dl90l6i52fje7ald0c38bfjh2_750x748.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 4934,
+          "stockId": "1trptuk",
+          "style": "黑色半身裙-单",
+          "styleId": 2,
+          "xdSkuId": "1trptuk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170825_0h6dlh4k18gg75eb8b6di7jk1b976_719x706.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 4605,
+          "stockId": "1trptum",
+          "style": "衬衫+半身裙",
+          "styleId": 3,
+          "xdSkuId": "1trptum"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170825_0h6dlh4k18gg75eb8b6di7jk1b976_719x706.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 4680,
+          "stockId": "1trptuo",
+          "style": "衬衫+半身裙",
+          "styleId": 3,
+          "xdSkuId": "1trptuo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170825_0h6dlh4k18gg75eb8b6di7jk1b976_719x706.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 4808,
+          "stockId": "1trptuq",
+          "style": "衬衫+半身裙",
+          "styleId": 3,
+          "xdSkuId": "1trptuq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170825_0h6dlh4k18gg75eb8b6di7jk1b976_719x706.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 4902,
+          "stockId": "1trptus",
+          "style": "衬衫+半身裙",
+          "styleId": 3,
+          "xdSkuId": "1trptus"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋装新款韩版学院风减龄蝴蝶结打底衫长袖衬衫+单排扣高腰半身裙两件套裙子套装女",
+      "totalStock": 58208
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

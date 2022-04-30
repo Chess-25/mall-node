@@ -1,0 +1,482 @@
+{
+  "iid": "1m928wo",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋冬装新款套装裙约会港味初秋网红两件套装裙小香风打底时尚套装",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180926_2kk028b580iif247e3add7lg7ge03_960x740.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_1376l0fa44dihk6k9c06ii185ci30_800x1200.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_5ec8lhc4d4kdd83kglcgfja5kele1_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_6f0k1dijf40ibd8eba52ba2ik443f_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180926_4l4j87bilaech82kiciag7cklh08l_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180926_85252gdfa76i9k5ef1g69hbdkfadl_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_2c9k7add90k6a2a6f0d21lk263ki6_800x800.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋冬装新款套装裙约会港味初秋网红两件套装裙小香风打底时尚套装",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "119.00",
+      "highPrice": "170.00",
+      "iid": "1m928wo",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m928wo&userId=131l3ls&shopId=1ojmpe",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "69.30",
+      "lowPrice": "99.00",
+      "oldPrice": "¥99.00",
+      "price": "¥69.30~¥119.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1ojmpe",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋冬装新款套装裙约会港味初秋网红两件套装裙小香风打底时尚套装",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180926_36k0521221haci19a202hggd7l5d1_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180926_0jc4ke9d4e0baa4g93dkl619630e3_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180926_45gei99fj5ffh07448c9iaea9eb80_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180926_37g1d69fb7hc8fhd2ic3h3gf9ik8j_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180926_52jdl1jg2eegj2452ik36jfl25i25_640x960.jpg"
+      ],
+      "userId": "131l3ls"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "正青春服饰"
+          },
+          {
+            "key": "季节",
+            "value": "秋冬"
+          },
+          {
+            "key": "颜色",
+            "value": "单格子背带裙,针织打底衫+格子背带裙两件套,单打底衫"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市白云区京溪街道犀牛角村"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "领型",
+            "value": "高领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "肩宽",
+              "65",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1ojmpe",
+      "list": [
+        "满109元减3元",
+        "满219元减5元",
+        "满310元减10元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1ojmpe",
+      "cFans": 8496,
+      "cGoods": 360,
+      "cSells": 55102,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1ojmpe/list/index?categoryId=206855",
+          "name": "连衣裙 半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ojmpe/list/index?categoryId=206857",
+          "name": "T恤 衬衫 卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ojmpe/list/index?categoryId=228210",
+          "name": "牛仔裤 休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ojmpe/list/index?categoryId=228213",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1ojmpe/list/index?categoryId=1469381",
+          "name": "外套 棉衣 毛衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "COCK屋",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.55
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.51
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1ojmpe",
+      "shopLogo": "//s11.mogucdn.com/p1/150829/1isjs4_ie2denzuhfrwgzrugmzdambqgiyde_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1ojmpe",
+      "type": 1,
+      "userId": "131l3ls"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥69.30~¥119.00",
+      "isAbroad": false,
+      "priceRange": "¥69.30~¥119.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "单打底衫",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "单格子背带裙",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "针织打底衫+格子背带裙两件套",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3h3770dlfek21043jcb1a89d3b85c_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "11752xii",
+          "style": "单打底衫",
+          "styleId": 1,
+          "xdSkuId": "11752xii"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3h3770dlfek21043jcb1a89d3b85c_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "11752xik",
+          "style": "单打底衫",
+          "styleId": 1,
+          "xdSkuId": "11752xik"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3h3770dlfek21043jcb1a89d3b85c_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "11752xim",
+          "style": "单打底衫",
+          "styleId": 1,
+          "xdSkuId": "11752xim"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_3h3770dlfek21043jcb1a89d3b85c_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1000,
+          "stockId": "11752xio",
+          "style": "单打底衫",
+          "styleId": 1,
+          "xdSkuId": "11752xio"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_45j72f0bj608elkll5j10fihj6i09_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "11752xiq",
+          "style": "单格子背带裙",
+          "styleId": 2,
+          "xdSkuId": "11752xiq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_45j72f0bj608elkll5j10fihj6i09_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "11752xis",
+          "style": "单格子背带裙",
+          "styleId": 2,
+          "xdSkuId": "11752xis"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_45j72f0bj608elkll5j10fihj6i09_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "11752xiu",
+          "style": "单格子背带裙",
+          "styleId": 2,
+          "xdSkuId": "11752xiu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180926_45j72f0bj608elkll5j10fihj6i09_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1000,
+          "stockId": "11752xiw",
+          "style": "单格子背带裙",
+          "styleId": 2,
+          "xdSkuId": "11752xiw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_094a5g660i0ii83349l24j626ceb6_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "11752xiy",
+          "style": "针织打底衫+格子背带裙两件套",
+          "styleId": 3,
+          "xdSkuId": "11752xiy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_094a5g660i0ii83349l24j626ceb6_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "11752xj0",
+          "style": "针织打底衫+格子背带裙两件套",
+          "styleId": 3,
+          "xdSkuId": "11752xj0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_094a5g660i0ii83349l24j626ceb6_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "11752xj2",
+          "style": "针织打底衫+格子背带裙两件套",
+          "styleId": 3,
+          "xdSkuId": "11752xj2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180926_094a5g660i0ii83349l24j626ceb6_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1000,
+          "stockId": "11752xj4",
+          "style": "针织打底衫+格子背带裙两件套",
+          "styleId": 3,
+          "xdSkuId": "11752xj4"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋冬装新款套装裙约会港味初秋网红两件套装裙小香风打底时尚套装",
+      "totalStock": 12000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

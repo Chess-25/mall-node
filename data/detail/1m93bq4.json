@@ -1,0 +1,429 @@
+{
+  "iid": "1m93bq4",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "款式新颖，优质面料，以品质为根，美感为本，结合潮流为一体，时尚的造型，凸显女性优雅高贵魅力",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "为保障各位亲们的利益，建议签收快递时先行验货，没有问题再签收哦！ \n亲因拍摄场地和灯光等问题，实物与图片有些许色差的哦！介意慎拍哦\n注意注意：衣服配饰仅供模特拍摄使用，是不配送的哦！介意慎拍哦！",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180927_2k2hh4fg1l24kbj6hfi33ff5257b4_640x545.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_1fb7dh91e997954ehl014fc6e5165_750x400.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6jd8730a24bli7kcf6chg9hgg0fe9_750x1098.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_47hd48g7753k2dha59c4lflh85jcf_750x885.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_2e00ehi7ag3jk7l985c52af2h9fjj_750x783.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7h82hhhk87ldgl85gedhahfahlae0_750x1078.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3416f12l85hile0b5a46gdajhfhd4_750x794.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_81649g6c35l82gh2e3iickjga52ff_750x1074.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_59hf1cbkh39lk01g8cik8i157ibb3_750x790.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7559b04eccileai3i7l055dbf0hcl_750x858.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_861ekcj269g960f14c0a03e04bhhh_750x980.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4ef5gi3j4i4l5i7l9gj4d1gi4bhj1_750x932.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "款式新颖，优质面料，以品质为根，美感为本，结合潮流为一体，时尚的造型，凸显女性优雅高贵魅力",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "199.00",
+      "highPrice": "199.00",
+      "iid": "1m93bq4",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m93bq4&userId=1ad7khq&shopId=1172uxli",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "199.00",
+      "lowPrice": "199.00",
+      "price": "¥199.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172uxli",
+      "state": 0,
+      "tags": "",
+      "title": "尔沫秋装女2018新款初秋两件套连衣裙chic早秋裙子针织气质a字裙套裙",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_2d5937hfffh239gk74ij4kec78akd_640x960.jpg"
+      ],
+      "userId": "1ad7khq"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州布喆服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "红色"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市白云区沙太路新百佳服装市场"
+          },
+          {
+            "key": "材质",
+            "value": "聚酯纤维"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "袖长",
+            "value": "七分袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M,XXL"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "裙长",
+              "90",
+              "91",
+              "92",
+              "93"
+            ],
+            [
+              "衣长",
+              "48",
+              "49",
+              "50",
+              "51"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL"
+            ],
+            [
+              "裙长",
+              "94"
+            ],
+            [
+              "衣长",
+              "52"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172uxli",
+      "list": [
+        "满70元减3元",
+        "满150元减10元",
+        "满250元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172uxli",
+      "cFans": 10290,
+      "cGoods": 255,
+      "cSells": 198743,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20318158",
+          "name": "上衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20318159",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20318160",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20318161",
+          "name": "卫衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20318162",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20335799",
+          "name": "全部宝贝"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20340264",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20340265",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20340266",
+          "name": "雪纺衫/蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20340392",
+          "name": "针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20340550",
+          "name": "夏末清仓"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20340551",
+          "name": "秋上新"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uxli/list/index?categoryId=20344737",
+          "name": "毛呢大衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "尔沫旗舰店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.67
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.68
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172uxli",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180625_2hb2k5iegda12hba58ke0b7ik3d1g_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172uxli",
+      "type": 2,
+      "userId": "1ad7khq"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥199.00",
+      "isAbroad": false,
+      "priceRange": "¥199.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "红色",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3d213l88gje4l04bbbbbbb7kl39ad_640x960.jpg",
+          "nowprice": 19900,
+          "price": 19900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 10000,
+          "stockId": "1175ht74",
+          "style": "红色",
+          "styleId": 1,
+          "xdSkuId": "1175ht74"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3d213l88gje4l04bbbbbbb7kl39ad_640x960.jpg",
+          "nowprice": 19900,
+          "price": 19900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 10000,
+          "stockId": "1175ht76",
+          "style": "红色",
+          "styleId": 1,
+          "xdSkuId": "1175ht76"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3d213l88gje4l04bbbbbbb7kl39ad_640x960.jpg",
+          "nowprice": 19900,
+          "price": 19900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 10000,
+          "stockId": "1175ht78",
+          "style": "红色",
+          "styleId": 1,
+          "xdSkuId": "1175ht78"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3d213l88gje4l04bbbbbbb7kl39ad_640x960.jpg",
+          "nowprice": 19900,
+          "price": 19900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 10000,
+          "stockId": "1175ht7a",
+          "style": "红色",
+          "styleId": 1,
+          "xdSkuId": "1175ht7a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_3d213l88gje4l04bbbbbbb7kl39ad_640x960.jpg",
+          "nowprice": 19900,
+          "price": 19900,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 10000,
+          "stockId": "1175ht7c",
+          "style": "红色",
+          "styleId": 1,
+          "xdSkuId": "1175ht7c"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "款式新颖，优质面料，以品质为根，美感为本，结合潮流为一体，时尚的造型，凸显女性优雅高贵魅力",
+      "totalStock": 50000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "iid": "1m93efs",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "这是一款好看又有范的针织连衣裙！",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_7j7b04g672fbj8ac97a91k55li1jj_750x922.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_352938k8ifa5ak2j60j8kj0725e22_750x863.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180927_1cg86530k07k53l5a97ad8g19c210_750x933.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180927_89chi129lhab4lc3lf25h9ii52il2_750x997.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_4f0i74gg17b914j945lk4i7ja9j81_750x719.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_7gc6h2jgk1c6k2b7kj5fb1ja3b33g_750x923.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_3ebl7ddgclhifh0j8g6heblk5fb5a_750x682.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_316a98f2767b766h6j89lfh55eg4a_750x1103.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_7k5ehh9e5bf308ga1clae16839a5l_750x929.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_324jf7l9a19f6fbf2f7k76lc82c8l_750x1067.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_4jl6g8c8023966li5g4lgli2dk0ff_750x873.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180927_77454dl2j98505357fkjfh25f59lg_750x865.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_47aaed85l79i94ld17h268d9f2565_750x769.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_02762ebh0218blfijl79l72kc1ah1_750x1013.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_41h9e9e2abg84cifh7k66cl30bki8_750x841.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_77j852ce30716j9agi8alj60da6jj_750x1084.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_19je94dj1hjf2gddk03b5c8lie040_750x924.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_1d68543a6bh3d49i39ddejcflc3cj_750x1100.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_1fg59jdc3bbg5f81behdk6fh2af69_750x846.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_509id8jdeid8dccfdhlj81lh5ki9d_750x864.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180927_3d4ha23h5dk96ail6c6bc0c07hc5k_750x769.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_2ihfb962e7kjk03c3a4gfk3b5cal4_750x995.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_70ia52dbg3k6jccjg14jkfaj4ekdi_750x854.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_0c3f2b4bhdgg5d0i1hg7b14fj3f9f_750x732.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_3l9a1b76djd8ee71la0dfb80db4g2_750x890.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_1f756f072912a8i5gffcd689g25g1_750x839.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_6i0d8hj2hikfh57hj66blgkkg76kf_750x700.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_4ak08dahh8fkle2il2cdckh81f0ed_750x779.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_634d30jijebf3ejc87b27c3ac31da_750x732.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #704# #705#",
+      "desc": "这是一款好看又有范的针织连衣裙！",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "170.00",
+      "highPrice": "170.00",
+      "iid": "1m93efs",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m93efs&userId=17ftibo&shopId=1172ubtg",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "170.00",
+      "lowPrice": "170.00",
+      "price": "¥170.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172ubtg",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩版百搭甜美V领高腰显瘦系带不规则针织裙立体纽扣荷叶边连衣裙女",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/55cf19/180927_6c86ff27ejj9b3bjll6ddadd24973_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180927_7l7c330g4hhef9867hh8ah73h5b1i_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180927_5geb83ch89kb6a752d932228f8h4b_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180927_83f1a9j4l5ci87k39dfi1c0gl8ga0_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/180927_1a5h685gk187h8gk5ai66i99fg40a_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/55cf19/180927_4g7dg4aka6jj5785bfgj64b6fdak5_640x960.jpg"
+      ],
+      "userId": "17ftibo"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市古其焕贸易有限公司"
+          },
+          {
+            "key": "裙型",
+            "value": "A字裙"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,砖红,湖蓝色"
+          },
+          {
+            "key": "开衩",
+            "value": "无开衩"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "衣门襟",
+            "value": "套头"
+          },
+          {
+            "key": "摆型",
+            "value": "常规"
+          },
+          {
+            "key": "腰型",
+            "value": "高腰"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "版型",
+            "value": "A型"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市天河区"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "组合形式",
+            "value": "单件"
+          },
+          {
+            "key": "领型",
+            "value": "V领"
+          },
+          {
+            "key": "元素",
+            "value": "荷叶边"
+          },
+          {
+            "key": "裙长",
+            "value": "中裙（91-105cm）"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "裙长",
+              "103",
+              "104",
+              "105",
+              "106"
+            ],
+            [
+              "肩宽",
+              "35",
+              "36",
+              "37",
+              "38"
+            ],
+            [
+              "腰围",
+              "60",
+              "64",
+              "68",
+              "72"
+            ],
+            [
+              "胸围",
+              "84",
+              "88",
+              "92",
+              "96"
+            ],
+            [
+              "袖长",
+              "58",
+              "59",
+              "60",
+              "61"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172ubtg",
+      "list": [
+        "满159元减5元",
+        "满259元减10元",
+        "满359元减15元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172ubtg",
+      "cFans": 10140,
+      "cGoods": 392,
+      "cSells": 11317,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20273950",
+          "name": "裤装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20273951",
+          "name": "裙装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20273954",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20273960",
+          "name": "棉服/外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20299362",
+          "name": "上装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343254",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343255",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343256",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343257",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343258",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343259",
+          "name": "衣裙套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343260",
+          "name": "衣裤套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343261",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343262",
+          "name": "毛衣针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343263",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343264",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343265",
+          "name": "蕾丝衫雪纺衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343266",
+          "name": "打底衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343267",
+          "name": "棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343268",
+          "name": "风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343269",
+          "name": "牛仔外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343270",
+          "name": "棒球服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343271",
+          "name": "毛呢大衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172ubtg/list/index?categoryId=20343272",
+          "name": "其他外套"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "小乔米米",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.9
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.89
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172ubtg",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/171110_1kd4e358f7e35ibh303f36ah74d74_600x600.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172ubtg",
+      "type": 1,
+      "userId": "17ftibo"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥170.00",
+      "isAbroad": false,
+      "priceRange": "¥170.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "砖红",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "湖蓝色",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180927_13064b1f4j14ak2ifk9bla31kg8k7_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 600,
+          "stockId": "1175il8u",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175il8u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180927_13064b1f4j14ak2ifk9bla31kg8k7_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 600,
+          "stockId": "1175il8w",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175il8w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180927_13064b1f4j14ak2ifk9bla31kg8k7_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 600,
+          "stockId": "1175il8y",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175il8y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/180927_13064b1f4j14ak2ifk9bla31kg8k7_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 600,
+          "stockId": "1175il90",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175il90"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_5h6ij64kee0ij693522cahd9dd4bh_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 600,
+          "stockId": "1175il92",
+          "style": "砖红",
+          "styleId": 2,
+          "xdSkuId": "1175il92"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_5h6ij64kee0ij693522cahd9dd4bh_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 600,
+          "stockId": "1175il94",
+          "style": "砖红",
+          "styleId": 2,
+          "xdSkuId": "1175il94"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_5h6ij64kee0ij693522cahd9dd4bh_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 600,
+          "stockId": "1175il96",
+          "style": "砖红",
+          "styleId": 2,
+          "xdSkuId": "1175il96"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_5h6ij64kee0ij693522cahd9dd4bh_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 600,
+          "stockId": "1175il98",
+          "style": "砖红",
+          "styleId": 2,
+          "xdSkuId": "1175il98"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_18696l2j6kcaakfgi841c804kakhe_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 600,
+          "stockId": "1175il9a",
+          "style": "湖蓝色",
+          "styleId": 3,
+          "xdSkuId": "1175il9a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_18696l2j6kcaakfgi841c804kakhe_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 600,
+          "stockId": "1175il9c",
+          "style": "湖蓝色",
+          "styleId": 3,
+          "xdSkuId": "1175il9c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_18696l2j6kcaakfgi841c804kakhe_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 600,
+          "stockId": "1175il9e",
+          "style": "湖蓝色",
+          "styleId": 3,
+          "xdSkuId": "1175il9e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_18696l2j6kcaakfgi841c804kakhe_640x960.jpg",
+          "nowprice": 17000,
+          "price": 17000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 600,
+          "stockId": "1175il9g",
+          "style": "湖蓝色",
+          "styleId": 3,
+          "xdSkuId": "1175il9g"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩版百搭甜美V领高腰显瘦系带不规则针织裙立体纽扣荷叶边连衣裙女",
+      "totalStock": 7200
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

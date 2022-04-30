@@ -1,0 +1,431 @@
+{
+  "iid": "1m7kyhy",
+  "result": {
+    "columns": [
+      "销量 438",
+      "收藏14人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季女装韩版新款网红衬衫套装小心机简约灯笼袖衬衣＋马甲两件套通勤时尚套装秋装女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180823_11gkg8g63c6aikb921j9jcghf0h07_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180823_58ihj2b1354ejadfh4kbacedk2fc2_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180823_03dihh30ji9dj5kkblf8cfji9ekd3_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180823_5b0fb3g4dd8da2gc1k3a6ei8283l1_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180823_45j5f3ah73ddfeaa9de6dk5bk3f64_640x960.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季女装韩版新款网红衬衫套装小心机简约灯笼袖衬衣＋马甲两件套通勤时尚套装秋装女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "69.80",
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "198.00",
+      "highPrice": "198.00",
+      "iid": "1m7kyhy",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7kyhy&userId=1884qmy&shopId=1172utl4",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "198.00",
+      "lowPrice": "198.00",
+      "price": "¥198.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172utl4",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季女装韩版新款网红衬衫套装小心机简约灯笼袖衬衣＋马甲两件套通勤时尚套装秋装女",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180823_0fi6g2b1g1i3cikifc29d6khe8a49_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180823_6iblf2kk72g55ege6c0h3bel4c8k4_640x960.jpg"
+      ],
+      "userId": "1884qmy"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州爱莱电子商务有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "蓝色衬衣+蓝色马甲"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市海珠区龙潭村中约官窖南五巷3号"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "元素",
+            "value": "柔软洗"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "胸围",
+              "124",
+              "128",
+              "132",
+              "136"
+            ],
+            [
+              "腰围",
+              "64",
+              "68",
+              "72",
+              "76"
+            ],
+            [
+              "袖长",
+              "60",
+              "61",
+              "62",
+              "63"
+            ],
+            [
+              "肩宽",
+              "41",
+              "42",
+              "43",
+              "44"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172utl4",
+      "list": [
+        "满99元减10元",
+        "满198元减20元",
+        "满298元减30元"
+      ]
+    },
+    "rate": {
+      "cRate": 33,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服款式简单时尚小清新，穿上舒服随意好搭配衣服，价格实惠质量也很好，非常喜欢。",
+          "created": 1537241764,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "11699rbu",
+          "style": "颜色:蓝色衬衣+蓝色马甲 尺码:XL ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_65bf62g5e98f4g9b8dk1j5le13e34_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "wx_708flxttzlbxe"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172utl4",
+      "cFans": 10306,
+      "cGoods": 578,
+      "cSells": 180835,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297103",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297104",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297105",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297106",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297107",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297109",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20304290",
+          "name": "卫衣/T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20338137",
+          "name": "爆款特卖专区"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20338981",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20339283",
+          "name": "秋装上新"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "爱莱原创女装店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.69
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.69
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172utl4",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180506_5bgh9053j5djgc4bch0eaa5cjh2h9_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172utl4",
+      "type": 2,
+      "userId": "1884qmy"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥198.00",
+      "isAbroad": false,
+      "priceRange": "¥198.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "蓝色衬衣+蓝色马甲",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180823_3b387f275b0b6fhf43fk322e1a0kf_640x960.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 673,
+          "stockId": "116kvgpy",
+          "style": "蓝色衬衣+蓝色马甲",
+          "styleId": 1,
+          "xdSkuId": "116kvgpy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180823_3b387f275b0b6fhf43fk322e1a0kf_640x960.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 812,
+          "stockId": "116kvgpw",
+          "style": "蓝色衬衣+蓝色马甲",
+          "styleId": 1,
+          "xdSkuId": "116kvgpw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180823_3b387f275b0b6fhf43fk322e1a0kf_640x960.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 837,
+          "stockId": "116kvgpu",
+          "style": "蓝色衬衣+蓝色马甲",
+          "styleId": 1,
+          "xdSkuId": "116kvgpu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180823_3b387f275b0b6fhf43fk322e1a0kf_640x960.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 836,
+          "stockId": "116kvgq0",
+          "style": "蓝色衬衣+蓝色马甲",
+          "styleId": 1,
+          "xdSkuId": "116kvgq0"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季女装韩版新款网红衬衫套装小心机简约灯笼袖衬衣＋马甲两件套通勤时尚套装秋装女",
+      "totalStock": 3158
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

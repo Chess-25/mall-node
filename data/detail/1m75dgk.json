@@ -1,0 +1,534 @@
+{
+  "iid": "1m75dgk",
+  "result": {
+    "columns": [
+      "销量 1230",
+      "收藏36人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "精神女社会港味俏皮网红两件套装卫衣休闲运动套装",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_09fbhc462hdkhdf5ib33ja8b82882_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_2hc5df04h59d9lc2jh46i10c8kkej_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_12baf9cb1251b65blje59kjhbfb12_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_25df4467h981f5d8i62c1h46e171h_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_7d02c1f2jic1h6dgl752d9a2aghe6_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180812_08gb826i5lj6a5k32597gbhh1d0da_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_58h6cie0g8f1de9igh13998jbldeb_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_5a6h9klee57614l0h22di37c84k0g_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180812_0814d48ij6c1fh4l46fd74fhglbh5_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180812_2k49817k7h9b82ci96h2ki1641di1_750x750.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180812_2l93k133c1b918989dfabh4b3hch4_750x1000.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180812_11814e3aa1e78g7c3gfb9lglf3h9a_750x750.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180812_1287fi8g0d1369h7i9fek608jfgkb_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180812_56belb2ag96fh16429bk5di2lbk69_750x750.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "精神女社会港味俏皮网红两件套装卫衣休闲运动套装",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "88.00",
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "198.00",
+      "highPrice": "198.00",
+      "iid": "1m75dgk",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m75dgk&userId=1884qmy&shopId=1172utl4",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "198.00",
+      "lowPrice": "198.00",
+      "price": "¥198.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172utl4",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季女装韩版新款社会港味俏皮网红两件套装棒球短款外套+显瘦休闲长裤运动时尚套装",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/55cf19/180812_1e81iidk5ba57jh24k0k21da6389j_640x940.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180812_6a083ik2g3938764i7215l3kkk6dl_640x940.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/180812_5a325246i8fjahc115306hcaf6db8_640x940.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180812_1deald63kak5fidfj3i2iaab2h5f6_640x940.jpg"
+      ],
+      "userId": "1884qmy"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州爱莱电子商务有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "图片色"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M,XXL"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市海珠区龙潭村中约官窖南五巷3号"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "棒球领"
+          },
+          {
+            "key": "元素",
+            "value": "柔软洗"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "大腿围",
+              "52",
+              "53",
+              "54",
+              "55"
+            ],
+            [
+              "胸围",
+              "88",
+              "92",
+              "96",
+              "100"
+            ],
+            [
+              "腰围",
+              "56-82",
+              "60-86",
+              "64-90",
+              "68-94"
+            ],
+            [
+              "臀围",
+              "96",
+              "99",
+              "102",
+              "105"
+            ],
+            [
+              "袖长",
+              "66",
+              "67",
+              "68",
+              "69"
+            ],
+            [
+              "裤长",
+              "89",
+              "90",
+              "91",
+              "92"
+            ],
+            [
+              "肩宽",
+              "50",
+              "51",
+              "52",
+              "53"
+            ],
+            [
+              "衣长",
+              "49",
+              "50",
+              "51",
+              "52"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL"
+            ],
+            [
+              "大腿围",
+              "56"
+            ],
+            [
+              "胸围",
+              "104"
+            ],
+            [
+              "腰围",
+              "72-98"
+            ],
+            [
+              "臀围",
+              "108"
+            ],
+            [
+              "袖长",
+              "70"
+            ],
+            [
+              "裤长",
+              "93"
+            ],
+            [
+              "肩宽",
+              "54"
+            ],
+            [
+              "衣长",
+              "53"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172utl4",
+      "list": [
+        "满99元减10元",
+        "满198元减20元",
+        "满298元减30元"
+      ]
+    },
+    "rate": {
+      "cRate": 30,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服已收到，包装很好，款式很好看，面料很舒服，穿上大小合适，很喜欢。好评",
+          "created": 1536724196,
+          "extraInfo": [
+            "体重:56 kg",
+            "是否合身:合身",
+            "身高:165 cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1166xkue",
+          "style": "颜色:图片色 尺码:L ",
+          "user": {
+            "avatar": "//s5.mogucdn.com/p2/161214/103488673_8da6lhkf9a5h32ei6bd297523c35d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "紫寒201703"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172utl4",
+      "cFans": 10306,
+      "cGoods": 578,
+      "cSells": 180835,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297103",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297104",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297105",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297106",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297107",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20297109",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20304290",
+          "name": "卫衣/T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20338137",
+          "name": "爆款特卖专区"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20338981",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utl4/list/index?categoryId=20339283",
+          "name": "秋装上新"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "爱莱原创女装店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.69
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.69
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172utl4",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180506_5bgh9053j5djgc4bch0eaa5cjh2h9_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172utl4",
+      "type": 2,
+      "userId": "1884qmy"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥198.00",
+      "isAbroad": false,
+      "priceRange": "¥198.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "图片色",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/55cf19/180812_28f50afe94d7j212ha588g038i35i_640x940.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 549,
+          "stockId": "116fh76q",
+          "style": "图片色",
+          "styleId": 1,
+          "xdSkuId": "116fh76q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/55cf19/180812_28f50afe94d7j212ha588g038i35i_640x940.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 599,
+          "stockId": "116fh76s",
+          "style": "图片色",
+          "styleId": 1,
+          "xdSkuId": "116fh76s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/55cf19/180812_28f50afe94d7j212ha588g038i35i_640x940.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 619,
+          "stockId": "116fh76u",
+          "style": "图片色",
+          "styleId": 1,
+          "xdSkuId": "116fh76u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/55cf19/180812_28f50afe94d7j212ha588g038i35i_640x940.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 690,
+          "stockId": "116fh76w",
+          "style": "图片色",
+          "styleId": 1,
+          "xdSkuId": "116fh76w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/55cf19/180812_28f50afe94d7j212ha588g038i35i_640x940.jpg",
+          "nowprice": 19800,
+          "price": 19800,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 757,
+          "stockId": "116fh76y",
+          "style": "图片色",
+          "styleId": 1,
+          "xdSkuId": "116fh76y"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "精神女社会港味俏皮网红两件套装卫衣休闲运动套装",
+      "totalStock": 3214
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

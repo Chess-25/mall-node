@@ -1,0 +1,311 @@
+{
+  "iid": "1m92lke",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "七天无理由退货  赠送运险费",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_793lh29ihc7acd1e2dagfi29jcfld_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_118g4ha4l8718ki39g9cc9h1a9677_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_87c7e5444052gkj5cki3i0468b743_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_4fd2aejgchb5l7b7j2b47d7797a54_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_877j734jjk2iaaf01k6agjl2hef2i_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_1bj2k90b71e76leh97eiggd725f41_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_8al2363g6dgaacjck429c0k83e0el_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_0030ak0215lae8fd86agf3i9b0h9b_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_37bfafc1849dc9ihkldgjlcb0hlic_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_5f36i5cd6hjh0dc99d5cj23k68f2c_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_4bib86ja5i41fd2dgi2ggch1ck67j_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_56fb3ci0alc2c18cb8h406b4kibf1_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_326e33jkdg7fc3g9hikb4f0jel7cd_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_42bi8hf22ggeh5hjbg911jk7j5a80_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4dbei570dee39lbk9dbi4486k2j0c_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_4hek2hfklhj95976i159f2d14k13h_800x800.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_47i7b27hj4l865c5d5aiickfdhked_800x799.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_85jiaile7b205l202067lkhhejak9_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_84j8fg5804a0k75agdh51i36620d4_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_83763gaj343clf8e729dji1e8h060_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_04jgi70a85df849bbc1c1gil8c3a4_800x800.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "七天无理由退货  赠送运险费",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "福建省莆田市"
+      },
+      "highNowPrice": "48.98",
+      "highPrice": "48.98",
+      "iid": "1m92lke",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92lke&userId=165bx94&shopId=1172jjo2",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "41.98",
+      "lowPrice": "41.98",
+      "price": "¥41.98~¥48.98",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172jjo2",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩版宽松百搭中长款百搭V领衬衣裙+卫衣马甲两件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_88ld2je951f6i9489b34d29k40l14_640x930.jpg"
+      ],
+      "userId": "165bx94"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广东cc服饰"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "颜色",
+            "value": "深灰色马甲,蓝色衬衣"
+          },
+          {
+            "key": "厂址",
+            "value": "广东广州"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "肩宽",
+              "40.5"
+            ],
+            [
+              "衣长",
+              "62"
+            ],
+            [
+              "胸围",
+              "61"
+            ],
+            [
+              "袖长",
+              "47"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172jjo2",
+      "cFans": 8695,
+      "cGoods": 365,
+      "cSells": 31761,
+      "isMarked": false,
+      "level": 3,
+      "name": "a大调cc小调",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.94
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.93
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        }
+      ],
+      "shopId": "1172jjo2",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/170515_4a1d5e43c8jbi14il33g0fbbhd594_385x589.png",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172jjo2",
+      "type": 1,
+      "userId": "165bx94"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥41.98~¥48.98",
+      "isAbroad": false,
+      "priceRange": "¥41.98~¥48.98",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "深灰色马甲",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "蓝色衬衣",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_878e5dclcg6j0ehle410ffc5dbi64_800x800.jpg",
+          "nowprice": 4198,
+          "price": 4198,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 11280,
+          "stockId": "117579hc",
+          "style": "深灰色马甲",
+          "styleId": 1,
+          "xdSkuId": "117579hc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_8148le95jahggkc84dj6653272e31_800x800.jpg",
+          "nowprice": 4898,
+          "price": 4898,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 11280,
+          "stockId": "117579he",
+          "style": "蓝色衬衣",
+          "styleId": 2,
+          "xdSkuId": "117579he"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩版宽松百搭中长款百搭V领衬衣裙+卫衣马甲两件套",
+      "totalStock": 22560
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

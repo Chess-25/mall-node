@@ -1,0 +1,404 @@
+{
+  "iid": "1m92du0",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款时尚韩版气质清新甜美小谷粒中长款减龄呢料格子连帽卫衣裙",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6lgi9ejejl80l96b6j15b4acc76ig_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_1glbba72jc9bf0819i70kjbh8c30h_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_816kjd9e1g51hlg0d0ihhcl8j9559_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4hh18l8fk2k5ah6g3le8f7jekgd26_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_5i25383j854eble2i3f93efi8adgd_640x960.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #704# #705#",
+      "desc": "2018秋季新款时尚韩版气质清新甜美小谷粒中长款减龄呢料格子连帽卫衣裙",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "98.00",
+      "highPrice": "140.00",
+      "iid": "1m92du0",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92du0&userId=12455iq&shopId=14rvo",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "98.00",
+      "lowPrice": "140.00",
+      "oldPrice": "¥140.00",
+      "price": "¥98.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14rvo",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款时尚韩版气质清新甜美小谷粒中长款减龄呢料格子连帽卫衣裙",
+      "topImages": [
+        "//s3.mogucdn.com/mlcdn/c45406/180927_7cgagh997d15i4kk57jkjda393g9k_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_37fi27j7c6a49h02d2e3c17de8jek_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_3cfeidi700g54d805a028i5083843_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_6l67853fb8k9jg9djg3dij11614fb_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_45h50kbgh0h5jl0jl30f9cg7hbkl9_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_7ekch4je8lj3kliigig4ekj54144g_640x960.jpg"
+      ],
+      "userId": "12455iq"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "格子"
+          },
+          {
+            "key": "厂名",
+            "value": "永红服饰"
+          },
+          {
+            "key": "裙型",
+            "value": "其他"
+          },
+          {
+            "key": "颜色",
+            "value": "驼色格子"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "衣门襟",
+            "value": "其他"
+          },
+          {
+            "key": "腰型",
+            "value": "宽松腰"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "季节",
+            "value": "春季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州海珠区"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "组合形式",
+            "value": "单件"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "裙长",
+            "value": "短裙（76-90cm）"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "号型",
+              "无号型",
+              "无号型",
+              "无号型"
+            ],
+            [
+              "胸围",
+              "100",
+              "105",
+              "110"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14rvo",
+      "list": [
+        "满99元减3元",
+        "满159元减5元",
+        "满259元减10元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14rvo",
+      "cFans": 30036,
+      "cGoods": 400,
+      "cSells": 76077,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=31327",
+          "name": "<⁠连衣裙⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=31328",
+          "name": "<⁠T恤⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=31329",
+          "name": "<⁠裤子⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=31330",
+          "name": "<⁠雪纺衫⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=31331",
+          "name": "<⁠小外套⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=31332",
+          "name": "<⁠休闲套装⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=44684",
+          "name": "<⁠毛衣⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=44685",
+          "name": "<⁠秋冬外套⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=78254",
+          "name": "<⁠套装裙子⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=78255",
+          "name": "<⁠衬衫⁠>"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=1360755",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=1408577",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=1522152",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=20001486",
+          "name": "防晒衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rvo/list/index?categoryId=20114227",
+          "name": "卫衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "0春色撩人0",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.82
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.85
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14rvo",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180604_7dajb47hdejf99le4h6e2l6b06il8_294x294.png",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14rvo",
+      "type": 1,
+      "userId": "12455iq"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥98.00",
+      "isAbroad": false,
+      "priceRange": "¥98.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "驼色格子",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_6lg76ch180d2fl28f7fk19342jf6k_800x800.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 600,
+          "stockId": "117541qe",
+          "style": "驼色格子",
+          "styleId": 1,
+          "xdSkuId": "117541qe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_6lg76ch180d2fl28f7fk19342jf6k_800x800.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 600,
+          "stockId": "117541qg",
+          "style": "驼色格子",
+          "styleId": 1,
+          "xdSkuId": "117541qg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_6lg76ch180d2fl28f7fk19342jf6k_800x800.jpg",
+          "nowprice": 9800,
+          "price": 14000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 600,
+          "stockId": "117541qc",
+          "style": "驼色格子",
+          "styleId": 1,
+          "xdSkuId": "117541qc"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款时尚韩版气质清新甜美小谷粒中长款减龄呢料格子连帽卫衣裙",
+      "totalStock": 1800
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

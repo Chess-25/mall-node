@@ -1,0 +1,554 @@
+{
+  "iid": "1lxjr56",
+  "result": {
+    "columns": [
+      "销量 341",
+      "收藏66人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "基础款的短袖T恤，这样的百搭款，即使多备上几件都穿得上宽松直筒的衣身设计，藏肉又显瘦，慵懒又随意不论是内搭还是单穿都很好穿，整个人看上去格外小巧微微落肩的设计，巧妙地模糊了肩线，不显肩宽又能显得手臂纤细柔滑细滑的棉质面料，细密紧实的织面，上身亲肤又舒适基础的小圆领也是好穿不挑人，很显年轻",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180416_6l1297ckj52bak2a1245cdli8c1b6_750x850.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_8bbcd0h81e3jlg6g0jk9bf4lk80f3_750x1017.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_1j9f4hbja6l636gb3dh6hg2d2a806_750x1039.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_6cl3e77caefk9ec90f7d16e2ck027_750x1037.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_2jgji494gdidhd1428kk2i70a46l8_750x990.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_5836j6bldicflk3gba3g260l49jb1_750x1078.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_6aa63d0gil79i7c2akgbgb4hlkj72_750x979.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_4g6f6a3i8ff43cf91g487eb24abjl_750x740.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_414315ll02ecl7h76jlgb5il3db4g_750x841.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_2cd328ljdaifjac405910jh4327g7_750x1028.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_18l49474i2g24g2ki4d0156c628f4_750x1329.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180416_488b5e8bc473528ij99ac3l5dge28_750x1036.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_819hjeg49737423952ka1l77c13f7_750x1012.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_0a7eg5a2j950ai5dd28f06h632g5i_750x1091.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180416_7ld841j4b1cbc069id27djg2k511i_750x988.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_00lc049jbee900h720591d5b8i6e7_750x1077.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_232ff26hcaacb11a8b5lghhg4k59f_750x999.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_723cb89al4ldd537li3hc41hilk2e_750x1061.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_4ge5jf3h8lkfgg0dll26dk0el493f_750x1016.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_595276kfllbidk620bakd41ji6415_750x1036.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_2b7jf7fb239l0bj7k0j15l9gii665_750x962.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_3hd700b3fh05aie98e5b378l0gjgl_750x1107.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_19578egaeci98b5bl13b3edhf96bg_750x1039.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_7k549cf81dh0g6aeka5781ah0afi0_750x1038.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_58k895ld9lh35i33ijfl9i6b9bc09_750x1014.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_1h85fjjblk13j6j65j28h0hcdh0g4_750x1120.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180416_7l77ke577dbj2j0346058060cd00d_750x1048.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_2d41lj7kddf38b3k892bj5ig3gk6g_750x1029.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_8g9h988lij9i01c30l93geca9b21i_750x1015.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_2bfc069e169e4ij3bk85adgfe1d95_750x1048.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_3c5c8fg552l365kj3f2l0g734106j_750x1042.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_6ig0a28c568hcc4b4002b22hfl5lh_750x1089.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_10a12a9ifk30k9kbcbe52jiaff9ka_750x978.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_41d95e53akkh0la3aed6ik2l3bka8_750x993.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_2kg0e4f349l8afeib45i74abk93c4_750x759.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_00gab2cc5lgkfgc4b2j541bha0853_750x824.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_157a2alldh229dhebb8djki0jh7fc_750x1026.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_5gf17ccj7cg71k4j0c6414beai04d_750x1024.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180416_69h1ahg8geglee56j0bh81d3h466a_750x1059.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_7id280jkgf0hh8fkk3b7fl7765k01_750x1108.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_27l8j44fce0c0756alee26liblf8e_750x973.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180416_4j84d4flc82h70i4lh6475974c551_750x500.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_8bbdi2bag81443lihjijjkg48egd6_750x500.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_7j45459i2f0hac420i61eljde68k8_750x500.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_7e6d6j48ci698h52bjbk0kbffgf4j_750x499.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180416_45khe3beagei192ge034i6bgbdd2g_750x500.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180416_5h003f4blc3jb7hc38if454473ib3_750x499.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_4621f4hhghj8h69i96l2ca2k58f2h_750x500.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180416_722i7clhgi2elkeki948l9e5a4aia_640x362.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #685#",
+      "desc": "基础款的短袖T恤，这样的百搭款，即使多备上几件都穿得上宽松直筒的衣身设计，藏肉又显瘦，慵懒又随意不论是内搭还是单穿都很好穿，整个人看上去格外小巧微微落肩的设计，巧妙地模糊了肩线，不显肩宽又能显得手臂纤细柔滑细滑的棉质面料，细密紧实的织面，上身亲肤又舒适基础的小圆领也是好穿不挑人，很显年轻",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "39.90",
+      "highPrice": "57.00",
+      "iid": "1lxjr56",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1lxjr56&userId=19fgyq&shopId=14ne6",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "39.90",
+      "lowPrice": "57.00",
+      "oldPrice": "¥57.00",
+      "price": "¥39.90",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14ne6",
+      "state": 0,
+      "tags": "",
+      "title": "2018新款早春款韩版百搭宽松体恤刺绣字母圆领短袖T恤女学生上衣服洋气小衫",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180506_203fc31e9d6ekikc8i922i7kbgdbk_640x960.jpg"
+      ],
+      "userId": "19fgyq"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "字母/文字/数字"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,白色"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "适中"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          },
+          {
+            "key": "下摆",
+            "value": "敞口"
+          },
+          {
+            "key": "季节",
+            "value": "春夏"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "元素",
+            "value": "落肩"
+          },
+          {
+            "key": "袖长",
+            "value": "短袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "衣长",
+              "60",
+              "61",
+              "62",
+              "63"
+            ],
+            [
+              "肩宽",
+              "41",
+              "42",
+              "43",
+              "44"
+            ],
+            [
+              "胸围",
+              "96",
+              "100",
+              "104",
+              "108"
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14ne6",
+      "list": [
+        "满2件减8元",
+        "满3件减16元",
+        "满4件减24元",
+        "满5件减30元"
+      ]
+    },
+    "rate": {
+      "cRate": 27,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "嘿嘿，收到就穿出去逛街啦，款式简单时尚又百搭。挺满意的，价格也便宜啊。有图有真相，洗过也没有掉色，质量挺好的",
+          "created": 1537093209,
+          "extraInfo": [
+            "是否合身:合身"
+          ],
+          "images": [
+            "//s3.mogucdn.com/mlcdn/c45406/180916_0j13950hf8jhlcei1jigf1ibiaidk_400x225.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1168n17a",
+          "style": "颜色:黑色 尺码:S ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_825c06kdj394515kkkjhhi0el8j86_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "m_40ci1ds80r5nz"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14ne6",
+      "cFans": 45957,
+      "cGoods": 336,
+      "cSells": 415519,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=13014",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=13015",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=20337",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=20338",
+          "name": "超美连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=28141",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=43302",
+          "name": "针织衫\\毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=86876",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=155586",
+          "name": "韩范外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1358134",
+          "name": "潮流包包"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1428527",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1463010",
+          "name": "68元任选2件"
+        },
+        {
+          "link": "http://s.meilishuo.com/14ne6/list/index?categoryId=1531018",
+          "name": "雪纺衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "范范美衣家",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.67
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.66
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14ne6",
+      "shopLogo": "//s5.mogucdn.com/b7/pic/151203/20bo8w_ie3wmytchbrdczjtguzdambqgayde_120x120.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14ne6",
+      "type": 1,
+      "userId": "19fgyq"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥39.90",
+      "isAbroad": false,
+      "priceRange": "¥39.90",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "白色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_044446clkdg7l9gb31biaihe26fb5_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 153,
+          "stockId": "1128g25o",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1128g25o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_044446clkdg7l9gb31biaihe26fb5_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 115,
+          "stockId": "1128g25m",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1128g25m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_044446clkdg7l9gb31biaihe26fb5_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 156,
+          "stockId": "1128g25q",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1128g25q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_044446clkdg7l9gb31biaihe26fb5_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 179,
+          "stockId": "1128g25s",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1128g25s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_4f73g9612ge2jja058g0gkhia406f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 148,
+          "stockId": "1128g25u",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1128g25u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_4f73g9612ge2jja058g0gkhia406f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 138,
+          "stockId": "1128g25w",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1128g25w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_4f73g9612ge2jja058g0gkhia406f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 160,
+          "stockId": "1128g25y",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1128g25y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180416_4f73g9612ge2jja058g0gkhia406f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 180,
+          "stockId": "1128g260",
+          "style": "黑色",
+          "styleId": 2,
+          "xdSkuId": "1128g260"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018新款早春款韩版百搭宽松体恤刺绣字母圆领短袖T恤女学生上衣服洋气小衫",
+      "totalStock": 1229
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

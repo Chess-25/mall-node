@@ -1,0 +1,495 @@
+{
+  "iid": "1m93b30",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "秋季套装裙女2018新款韩版港味chic小爱心印花衬衫打底衬衣上衣时尚减龄牛仔背带裙两件套",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4cf25jf647e3ba6a34d0bhee79bi8_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_7adi1lh7caa15efiebj94feaa531j_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_0fde4d6g390li1il1begc2j2hb63l_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_5lf5c81578l3910h2h1di9c1fgaeh_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_0c8cb5k4b0f05d0b4kaed36iccahk_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_5kge5h6e7bf2c1b1k492e2d03gfb3_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_692977hic0988j36ii46ljdi9ejjb_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_069a8l3hbkg39d0e5l48402h51i63_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_7kjlf2f0aic9k34ilglg1l5d3fa1e_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_82l2b320ci6gkgbd63gii098hhl03_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_8ac1db5i3ea2flc04114bb5c90dbk_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3bdc5lj0k3hcig11g1ci3d60e8k95_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7l1236i6i849b2i48ca18ah26dlh8_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_121gl2kd6d3ca3bjg53aba2hbg7jb_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3b2l7g84249lga8g43e7d1l08901a_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_548jka375ggdg02f13a43gjie4133_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7d4ha1hgale07ijiha1abcej616f7_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_68410i6dee33cijfij3j1he66g7dg_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_690b8k477c055je5ceeb20h79553f_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_8801e1fgghejfh9hbci5c605ekfbg_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7lh8f48di11201e7e6e76b5f5klc6_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_61388hf63afk32528f9kce29h100a_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6015961afe874046gb46i0a249keb_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_4hkbdb980e2lcg13dik01cee64b3e_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_8f69b1i1el9hl6ad2a17762jjcdlc_800x800.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_63bef5bkkg0d409gjih9kbhaihdge_800x800.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "秋季套装裙女2018新款韩版港味chic小爱心印花衬衫打底衬衣上衣时尚减龄牛仔背带裙两件套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "119.00",
+      "highPrice": "170.00",
+      "iid": "1m93b30",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m93b30&userId=13y2emc&shopId=1pdmd8",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "119.00",
+      "lowPrice": "170.00",
+      "oldPrice": "¥170.00",
+      "price": "¥119.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1pdmd8",
+      "state": 0,
+      "tags": "",
+      "title": "秋季套装裙女2018新款韩版港味chic小爱心印花衬衫打底衬衣上衣时尚减龄牛仔背带裙两件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_004j0kkcek0b17fl758be4325600b_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_0kd95891i7ifh7kgk531ia199705g_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_4hg5l6al600hdb3f4ffl3cei30578_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_1g9k85g473ed57a9lkf5326f505b0_800x800.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_63lecccjlke73ah9hhc9fkbkgf9l6_800x800.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_19i86g6685k6gf6c95g05cd2k864e_800x800.jpg"
+      ],
+      "userId": "13y2emc"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "哈妮公司"
+          },
+          {
+            "key": "颜色",
+            "value": "爱心衬衫+米杏裙,爱心衬衫+卡其色裙,爱心衬衫+黑色裙"
+          },
+          {
+            "key": "袖型",
+            "value": "衬衫袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市天河区龙洞街道渔沙坦欧岗村菠萝山新街10-2号三楼"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "裙长",
+              "80",
+              "81",
+              "82"
+            ],
+            [
+              "衣长",
+              "65",
+              "66",
+              "67"
+            ],
+            [
+              "胸围",
+              "86",
+              "90",
+              "94"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1pdmd8",
+      "cFans": 24782,
+      "cGoods": 403,
+      "cSells": 191272,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20138569",
+          "name": "衣装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20138571",
+          "name": "裤装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20138572",
+          "name": "裙装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20138573",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20138574",
+          "name": "新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20269809",
+          "name": "半身裙/连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20269811",
+          "name": "棉服/外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20269812",
+          "name": "毛衣/针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20269964",
+          "name": "牛仔裤/休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pdmd8/list/index?categoryId=20271515",
+          "name": "卫衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "甜欣家",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.56
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.58
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1pdmd8",
+      "shopLogo": "//s11.mogucdn.com/p1/151114/1z17ae_ifqtantfmjsgmytegqzdambqgyyde_250x250.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1pdmd8",
+      "type": 1,
+      "userId": "13y2emc"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥119.00",
+      "isAbroad": false,
+      "priceRange": "¥119.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "爱心衬衫+卡其色裙",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "爱心衬衫+黑色裙",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "爱心衬衫+米杏裙",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_367ablggk5ed02ff6g02d0hdjl849_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "1175hcvs",
+          "style": "爱心衬衫+卡其色裙",
+          "styleId": 1,
+          "xdSkuId": "1175hcvs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_367ablggk5ed02ff6g02d0hdjl849_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "1175hcvu",
+          "style": "爱心衬衫+卡其色裙",
+          "styleId": 1,
+          "xdSkuId": "1175hcvu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_367ablggk5ed02ff6g02d0hdjl849_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "1175hcvw",
+          "style": "爱心衬衫+卡其色裙",
+          "styleId": 1,
+          "xdSkuId": "1175hcvw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_771ee5j4f8id0icf82fl9e6251d00_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "1175hcvy",
+          "style": "爱心衬衫+黑色裙",
+          "styleId": 2,
+          "xdSkuId": "1175hcvy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_771ee5j4f8id0icf82fl9e6251d00_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "1175hcw0",
+          "style": "爱心衬衫+黑色裙",
+          "styleId": 2,
+          "xdSkuId": "1175hcw0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_771ee5j4f8id0icf82fl9e6251d00_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "1175hcw2",
+          "style": "爱心衬衫+黑色裙",
+          "styleId": 2,
+          "xdSkuId": "1175hcw2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_1bhk45hcba1ai2bea8ggg1ef958a7_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "1175hcw4",
+          "style": "爱心衬衫+米杏裙",
+          "styleId": 3,
+          "xdSkuId": "1175hcw4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_1bhk45hcba1ai2bea8ggg1ef958a7_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "1175hcw6",
+          "style": "爱心衬衫+米杏裙",
+          "styleId": 3,
+          "xdSkuId": "1175hcw6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_1bhk45hcba1ai2bea8ggg1ef958a7_640x960.jpg",
+          "nowprice": 11900,
+          "price": 17000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "1175hcw8",
+          "style": "爱心衬衫+米杏裙",
+          "styleId": 3,
+          "xdSkuId": "1175hcw8"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "秋季套装裙女2018新款韩版港味chic小爱心印花衬衫打底衬衣上衣时尚减龄牛仔背带裙两件套",
+      "totalStock": 9000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

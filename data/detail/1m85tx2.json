@@ -1,0 +1,733 @@
+{
+  "iid": "1m85tx2",
+  "result": {
+    "columns": [
+      "销量 91",
+      "收藏30人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "0904秋装新款女装甜美百搭时尚吊带针织连衣裙韩版女学生闺蜜装大码显瘦帅气高腰牛仔外套套装",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_6j1517cgggj5hbdc3cegg5adiggcg_800x799.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180904_5000cei132d43dd7ec4dfghi14ad6_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_6iehgid8756308b1kfhl5da5g1g16_800x799.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180904_37k13cjh2336h1jj5e4k37ci0ba16_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_0bkk71ei3d1d9d83cgl517le2a77k_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_2b8jc6dfggic2kfj6933be0cde390_800x799.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180904_7d75de8djbb39j4kbilgib17h5dfc_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_20igc9b43e2760hbaci47hb2d129j_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_068i0ljl3kh7iad623iek7ekchihc_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_6d26g35e91871k66jah5c9bdhbgj3_800x799.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180904_3bdeh1fhi90afhibe3h9b3f208241_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_0598jj6a9h1dfb156cfbi3l9a9be7_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180904_8cj33fef2a158478i252h5e992346_800x799.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "0904秋装新款女装甜美百搭时尚吊带针织连衣裙韩版女学生闺蜜装大码显瘦帅气高腰牛仔外套套装",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "热卖促销",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "54.22",
+        "sendAddress": ""
+      },
+      "highNowPrice": "115.00",
+      "highPrice": "164.29",
+      "iid": "1m85tx2",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m85tx2&userId=1oh49u&shopId=1o3e9q",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "55.00",
+      "lowPrice": "78.58",
+      "oldPrice": "¥78.58",
+      "price": "¥55.00~¥115.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1o3e9q",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋装新款女装甜美百搭时尚吊带针织连衣裙韩版女学生闺蜜装大码显瘦帅气高腰牛仔外套套装",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/55cf19/180904_28jjbe2k4e5kd5jca3467b31bi13f_640x960.jpg"
+      ],
+      "userId": "1oh49u"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广东服装厂"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色吊带单件,蓝色外套单件,蓝色外套+黑色吊带裙（两件套）"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "均码,S（休闲无袖上衣服毛衣打底裙复古牛仔衣针织裙学院风a字裙）,S,L,M,M（港风气质早秋初秋天胖妹妹微胖mm套装裙个性小个子毛衣裙）"
+          },
+          {
+            "key": "衣长",
+            "value": "短款（41-50cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东广州"
+          },
+          {
+            "key": "材质",
+            "value": "牛仔布"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "元素",
+            "value": "开叉,不规则下摆,露肩,露脐,露腰,落肩"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "腰围",
+              "69-90",
+              "",
+              "",
+              ""
+            ],
+            [
+              "裙长",
+              "103",
+              "",
+              "",
+              ""
+            ],
+            [
+              "胸围",
+              "",
+              "116",
+              "120",
+              "124"
+            ],
+            [
+              "袖长",
+              "",
+              "44",
+              "45",
+              "46"
+            ],
+            [
+              "肩宽",
+              "",
+              "65",
+              "66",
+              "67"
+            ],
+            [
+              "衣长",
+              "",
+              "41",
+              "42",
+              "43"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "S（休闲无袖上衣服毛衣打底裙复古牛仔衣针织裙学院风a字裙）",
+              "M（港风气质早秋初秋天胖妹妹微胖mm套装裙个性小个子毛衣裙）"
+            ],
+            [
+              "腰围",
+              "",
+              ""
+            ],
+            [
+              "裙长",
+              "",
+              ""
+            ],
+            [
+              "胸围",
+              "",
+              ""
+            ],
+            [
+              "袖长",
+              "",
+              ""
+            ],
+            [
+              "肩宽",
+              "",
+              ""
+            ],
+            [
+              "衣长",
+              "",
+              ""
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1o3e9q",
+      "list": [
+        "满98元减3元",
+        "满158元减5元",
+        "满2件减5元",
+        "满3件减8元"
+      ]
+    },
+    "rate": {
+      "cRate": 8,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "宝贝质量很好，实际比卖家描述的还要好一点，价格也很实惠，很满意的一次购物.",
+          "created": 1537602441,
+          "extraInfo": [
+            "是否合身:合身"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116b1q9i",
+          "style": "颜色:黑色吊带单件 尺码:均码 ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_825c06kdj394515kkkjhhi0el8j86_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "清河园林"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1o3e9q",
+      "cFans": 80537,
+      "cGoods": 468,
+      "cSells": 161837,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=121757",
+          "name": "夏装新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=121758",
+          "name": "T恤专区"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=131205",
+          "name": "衬衫/雪纺衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=131210",
+          "name": "长袖T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=136367",
+          "name": "秋装新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=136368",
+          "name": "针织衫/卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=140177",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=149363",
+          "name": "新品发布"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=149368",
+          "name": "热卖爆款"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=282357",
+          "name": "冬装新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=292385",
+          "name": "毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=1300672",
+          "name": "棉衣/棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=1386549",
+          "name": "两件套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=1420179",
+          "name": "春季新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=1454963",
+          "name": "裤子专区"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=1454965",
+          "name": "短袖t恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=20039459",
+          "name": "特价款"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=20063310",
+          "name": "连衣裙/半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o3e9q/list/index?categoryId=20063311",
+          "name": "马甲/吊带/背心"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "酷妖衣舍",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.63
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.64
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        }
+      ],
+      "shopId": "1o3e9q",
+      "shopLogo": "//s5.mogucdn.com/p1/160615/c8k45_ifrtentcgq3wmojshezdambqhayde_400x400.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1o3e9q",
+      "type": 1,
+      "userId": "1oh49u"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥55.00~¥115.00",
+      "isAbroad": false,
+      "priceRange": "¥55.00~¥115.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "蓝色外套单件",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色吊带单件",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "蓝色外套+黑色吊带裙（两件套）",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "S（休闲无袖上衣服毛衣打底裙复古牛仔衣针织裙学院风a字裙）",
+              "sizeId": 104,
+              "type": "size"
+            },
+            {
+              "index": 105,
+              "isDefault": false,
+              "name": "M（港风气质早秋初秋天胖妹妹微胖mm套装裙个性小个子毛衣裙）",
+              "sizeId": 105,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_63l3kg4g0eh61955fh65djgbahh38_800x800.jpg",
+          "nowprice": 7500,
+          "price": 10715,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "116semua",
+          "style": "蓝色外套单件",
+          "styleId": 1,
+          "xdSkuId": "116semua"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_63l3kg4g0eh61955fh65djgbahh38_800x800.jpg",
+          "nowprice": 7500,
+          "price": 10715,
+          "size": "S",
+          "sizeId": 101,
+          "stock": 994,
+          "stockId": "116semu6",
+          "style": "蓝色外套单件",
+          "styleId": 1,
+          "xdSkuId": "116semu6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_63l3kg4g0eh61955fh65djgbahh38_800x800.jpg",
+          "nowprice": 7500,
+          "price": 10715,
+          "size": "M",
+          "sizeId": 102,
+          "stock": 984,
+          "stockId": "116semu4",
+          "style": "蓝色外套单件",
+          "styleId": 1,
+          "xdSkuId": "116semu4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_63l3kg4g0eh61955fh65djgbahh38_800x800.jpg",
+          "nowprice": 7500,
+          "price": 10715,
+          "size": "L",
+          "sizeId": 103,
+          "stock": 997,
+          "stockId": "116semu8",
+          "style": "蓝色外套单件",
+          "styleId": 1,
+          "xdSkuId": "116semu8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_63l3kg4g0eh61955fh65djgbahh38_800x800.jpg",
+          "nowprice": 7500,
+          "price": 10715,
+          "size": "S（休闲无袖上衣服毛衣打底裙复古牛仔衣针织裙学院风a字裙）",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "116swhkm",
+          "style": "蓝色外套单件",
+          "styleId": 1,
+          "xdSkuId": "116swhkm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_63l3kg4g0eh61955fh65djgbahh38_800x800.jpg",
+          "nowprice": 7500,
+          "price": 10715,
+          "size": "M（港风气质早秋初秋天胖妹妹微胖mm套装裙个性小个子毛衣裙）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "116swhko",
+          "style": "蓝色外套单件",
+          "styleId": 1,
+          "xdSkuId": "116swhko"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180905_39l5hh8c8jlg0baec0i0k4k2g028i_800x800.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 993,
+          "stockId": "116semui",
+          "style": "黑色吊带单件",
+          "styleId": 2,
+          "xdSkuId": "116semui"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180905_39l5hh8c8jlg0baec0i0k4k2g028i_800x800.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "S",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "116semuc",
+          "style": "黑色吊带单件",
+          "styleId": 2,
+          "xdSkuId": "116semuc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180905_39l5hh8c8jlg0baec0i0k4k2g028i_800x800.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "M",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "116semue",
+          "style": "黑色吊带单件",
+          "styleId": 2,
+          "xdSkuId": "116semue"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180905_39l5hh8c8jlg0baec0i0k4k2g028i_800x800.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "L",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "116semug",
+          "style": "黑色吊带单件",
+          "styleId": 2,
+          "xdSkuId": "116semug"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180905_39l5hh8c8jlg0baec0i0k4k2g028i_800x800.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "S（休闲无袖上衣服毛衣打底裙复古牛仔衣针织裙学院风a字裙）",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "116swhkq",
+          "style": "黑色吊带单件",
+          "styleId": 2,
+          "xdSkuId": "116swhkq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180905_39l5hh8c8jlg0baec0i0k4k2g028i_800x800.jpg",
+          "nowprice": 5500,
+          "price": 7858,
+          "size": "M（港风气质早秋初秋天胖妹妹微胖mm套装裙个性小个子毛衣裙）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "116swhks",
+          "style": "黑色吊带单件",
+          "styleId": 2,
+          "xdSkuId": "116swhks"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_3cki0hlcec25e3fbhjb5c75l82i6f_800x800.jpg",
+          "nowprice": 11500,
+          "price": 16429,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "116svxv0",
+          "style": "蓝色外套+黑色吊带裙（两件套）",
+          "styleId": 3,
+          "xdSkuId": "116svxv0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_3cki0hlcec25e3fbhjb5c75l82i6f_800x800.jpg",
+          "nowprice": 11500,
+          "price": 16429,
+          "size": "S",
+          "sizeId": 101,
+          "stock": 980,
+          "stockId": "116svxv2",
+          "style": "蓝色外套+黑色吊带裙（两件套）",
+          "styleId": 3,
+          "xdSkuId": "116svxv2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_3cki0hlcec25e3fbhjb5c75l82i6f_800x800.jpg",
+          "nowprice": 11500,
+          "price": 16429,
+          "size": "M",
+          "sizeId": 102,
+          "stock": 977,
+          "stockId": "116svxv4",
+          "style": "蓝色外套+黑色吊带裙（两件套）",
+          "styleId": 3,
+          "xdSkuId": "116svxv4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_3cki0hlcec25e3fbhjb5c75l82i6f_800x800.jpg",
+          "nowprice": 11500,
+          "price": 16429,
+          "size": "L",
+          "sizeId": 103,
+          "stock": 985,
+          "stockId": "116svxv6",
+          "style": "蓝色外套+黑色吊带裙（两件套）",
+          "styleId": 3,
+          "xdSkuId": "116svxv6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_3cki0hlcec25e3fbhjb5c75l82i6f_800x800.jpg",
+          "nowprice": 11500,
+          "price": 16429,
+          "size": "S（休闲无袖上衣服毛衣打底裙复古牛仔衣针织裙学院风a字裙）",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "116swhku",
+          "style": "蓝色外套+黑色吊带裙（两件套）",
+          "styleId": 3,
+          "xdSkuId": "116swhku"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180905_3cki0hlcec25e3fbhjb5c75l82i6f_800x800.jpg",
+          "nowprice": 11500,
+          "price": 16429,
+          "size": "M（港风气质早秋初秋天胖妹妹微胖mm套装裙个性小个子毛衣裙）",
+          "sizeId": 105,
+          "stock": 0,
+          "stockId": "116swhkw",
+          "style": "蓝色外套+黑色吊带裙（两件套）",
+          "styleId": 3,
+          "xdSkuId": "116swhkw"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋装新款女装甜美百搭时尚吊带针织连衣裙韩版女学生闺蜜装大码显瘦帅气高腰牛仔外套套装",
+      "totalStock": 6910
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

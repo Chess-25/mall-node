@@ -1,0 +1,436 @@
+{
+  "iid": "1ls41o6",
+  "result": {
+    "columns": [
+      "销量 917",
+      "收藏84人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋装新款韩版时尚女装学院风长袖不规则个性露背衬衣宽松百搭后背交叉镂空休闲条纹衬衫",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180302_4f3ia9hdlfc0h3cid272g2091l5lk_750x750.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180302_7hl1jfl26lh5c6585d9jb3h5k6bb3_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_2fc5i016cclai2jkdh3c00i0ck3d8_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_3elda757i5a3efb4ghde2068gh365_750x900.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_09j5dil36ajce02ckg5k2dfegg84b_750x750.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180302_62i987hg3h41h9aig1ekc2d4cdaic_687x660.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_6hj1b5cb555cajihacde9e735c3jj_673x617.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_0k7b6dlccldk640774ifil9d16g3e_704x642.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180302_6h59d8fbag27bj2elf0i234kk2i69_750x971.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180302_5gejf28ea7b2g0g1j90lk3f4ld973_694x657.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_1hk6208jdf3a8dk07ife9k9f76flb_723x695.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_51b4ikl4j480jaij89218b6glb7gb_750x735.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_789ble121cldic90g9f19lld4fkca_697x644.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_86eeb033b5h02490g9aij16l7fgae_750x685.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_8ald617f2gf7j62cg4h8k936il410_750x844.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180302_6i01lhie6j4ga01bh5047l6a8i4kj_750x887.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_72kb8kkgach52b71b2a22i6d5k90b_750x750.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #686#",
+      "desc": "2018秋装新款韩版时尚女装学院风长袖不规则个性露背衬衣宽松百搭后背交叉镂空休闲条纹衬衫",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "56.00",
+      "highPrice": "80.00",
+      "iid": "1ls41o6",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1ls41o6&userId=13hs6gm&shopId=1obtl0",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "56.00",
+      "lowPrice": "80.00",
+      "oldPrice": "¥80.00",
+      "price": "¥56.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1obtl0",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋装新款韩版时尚女装学院风长袖不规则个性露背衬衣宽松百搭后背交叉镂空休闲条纹衬衫",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180302_3k6ac4la5g06163j1k3h4565f5e07_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180302_820aai433llhgh4b62h2944413d1i_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180302_22e41b4b8ka46khbih27eckgl149g_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180302_794e3k8ec7h771jj72ke4kb52a07e_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180302_78729klje10e3h451jh7kfkjg2c7c_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180302_0kea1ebcbb19j8fc8ikh785i54bjj_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180302_031a6b8348iiecg1a063il8h6kcb4_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180302_74el326ic5efb3214531kah6le411_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180302_4j8k269e1491c5ic83eeg8g03c61i_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180302_4egb9jjbcad2ij9hlidg7c1gkc03j_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180302_7bgkjcghicd277bblejjb2c0cc390_640x960.jpg"
+      ],
+      "userId": "13hs6gm"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "条纹"
+          },
+          {
+            "key": "厂名",
+            "value": "绮叶服饰"
+          },
+          {
+            "key": "颜色",
+            "value": "红条,蓝条"
+          },
+          {
+            "key": "袖型",
+            "value": "蝙蝠袖"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "适中"
+          },
+          {
+            "key": "衣门襟",
+            "value": "单排扣"
+          },
+          {
+            "key": "穿着方式",
+            "value": "开襟"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "衣长",
+            "value": "中长款（66-80cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          },
+          {
+            "key": "下摆",
+            "value": "开叉"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东广州番禺石碁海傍村  女人街 1楼C区 C107-B  6152# 23"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "元素",
+            "value": "露背"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "性感"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "温馨提示：适合80-120斤以内的MM穿哦！！！",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "衣长（前）",
+              "65"
+            ],
+            [
+              "胸围",
+              "114"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1obtl0",
+      "list": [
+        "满3件减10元",
+        "满99元减5元",
+        "满199元减10元",
+        "满299元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 63,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服大小合适，穿着舒适，版型好看，颜色正没有色差，很满意的一次网购。",
+          "created": 1522413459,
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1144son2",
+          "style": "颜色:蓝条 尺码:均码 ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_0l1ff9kf2hbc32fe4a2g05l77d89d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "冰心weixin"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1obtl0",
+      "cFans": 50207,
+      "cGoods": 470,
+      "cSells": 427658,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20232246",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20232247",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20232248",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20232249",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20311544",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20311545",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20311546",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20335230",
+          "name": "新款目录（德）"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20336027",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20339265",
+          "name": "针织&毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20339266",
+          "name": "针织"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20339267",
+          "name": "毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20341070",
+          "name": "风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20341071",
+          "name": "开衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20341262",
+          "name": "秋上新"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20341265",
+          "name": "夏季清仓"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20342746",
+          "name": "秋裤的好朋友"
+        },
+        {
+          "link": "http://s.meilishuo.com/1obtl0/list/index?categoryId=20342858",
+          "name": "人气榜单"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "麦旋风MAX的小店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.6
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.61
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1obtl0",
+      "shopLogo": "//s5.mogucdn.com/mlcdn/c45406/180314_79c6e4g99l483fk3k6i07kjjl48e3_640x640.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1obtl0",
+      "type": 1,
+      "userId": "13hs6gm"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥56.00",
+      "isAbroad": false,
+      "priceRange": "¥56.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "蓝条",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "红条",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180302_6lgfe397hbf35466c9d94089082bd_640x960.jpg",
+          "nowprice": 5600,
+          "price": 8000,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 742,
+          "stockId": "1zxt900",
+          "style": "蓝条",
+          "styleId": 1,
+          "xdSkuId": "1zxt900"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180302_8a6gah2b005glb6k8hd7i85c42dhd_640x960.jpg",
+          "nowprice": 5600,
+          "price": 8000,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 385,
+          "stockId": "1zxt902",
+          "style": "红条",
+          "styleId": 2,
+          "xdSkuId": "1zxt902"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋装新款韩版时尚女装学院风长袖不规则个性露背衬衣宽松百搭后背交叉镂空休闲条纹衬衫",
+      "totalStock": 1127
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

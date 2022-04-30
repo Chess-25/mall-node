@@ -1,0 +1,342 @@
+{
+  "iid": "1m92rva",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋新款韩版显瘦条纹中长款针织衫半高领下摆蕾丝花边毛衣",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_80ia9e8a9kh8f2h9a062d8kh7e558_750x750.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_8h166hh0g99ed977d552c6h07gjd9_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180927_4ee30h827k0dl7b2aaillak5b90l7_750x750.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180927_7j3kk7k6a9bikk8efl5f58070541d_750x1000.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180927_13fe12lgb1i5188fb8ji85fjhfa2d_750x750.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180927_1b0aldc37kgek3jh4c96kjkjd6lbd_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_6f6ca7e7bejh61ad0e1ek74hd3ki3_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_881656i4729g57e22jcf00j8ekdj1_750x750.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180927_22gai971agdf74k7f4947b9d39kel_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_271kef0hh04jjhb8641k0ehkjihg6_750x242.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #704# #705#",
+      "desc": "2018秋新款韩版显瘦条纹中长款针织衫半高领下摆蕾丝花边毛衣",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "88.00",
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "286.00",
+      "highPrice": "286.00",
+      "iid": "1m92rva",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92rva&userId=1b4liyg&shopId=1172vujy",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "286.00",
+      "lowPrice": "286.00",
+      "price": "¥286.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172vujy",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋新款韩版显瘦条纹中长款针织衫半高领下摆蕾丝花边毛衣",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_3ca3j0kk57b9b6jlg3gdkf6bdhlk1_750x1000.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/180927_8f9d6elb97k1cce6heb9a8ehjha9d_850x1275.png",
+        "//s3.mogucdn.com/mlcdn/55cf19/180927_771le6hfg98k05j987616j5kbdlab_750x1125.png",
+        "//s3.mogucdn.com/mlcdn/55cf19/180927_3l7kckh4kj071ll2d628al0chk4c6_750x1125.png",
+        "//s11.mogucdn.com/mlcdn/55cf19/180927_4b02jh21al038416ahb96i733cl9g_750x1125.png"
+      ],
+      "userId": "1b4liyg"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "条纹"
+          },
+          {
+            "key": "厂名",
+            "value": "深圳市戴高乐贸易有限公司"
+          },
+          {
+            "key": "裙型",
+            "value": "其他"
+          },
+          {
+            "key": "颜色",
+            "value": "黑白条纹"
+          },
+          {
+            "key": "衣门襟",
+            "value": "套头"
+          },
+          {
+            "key": "腰型",
+            "value": "宽松腰"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市白云区江夏村红风创意园"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "组合形式",
+            "value": "单件"
+          },
+          {
+            "key": "领型",
+            "value": "半高领"
+          },
+          {
+            "key": "元素",
+            "value": "面料拼接"
+          },
+          {
+            "key": "裙长",
+            "value": "长裙（大于126cm）"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "号型",
+              "无号型"
+            ],
+            [
+              "裙长",
+              "0"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172vujy",
+      "list": [
+        "满99元减10元",
+        "满188元减30元",
+        "满288元减60元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172vujy",
+      "cFans": 127,
+      "cGoods": 176,
+      "cSells": 296,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342499",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342500",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342501",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342507",
+          "name": "热销爆款"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342515",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342516",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342694",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342695",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342696",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342697",
+          "name": "短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20342698",
+          "name": "卫衣."
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vujy/list/index?categoryId=20343213",
+          "name": "针织衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "杨大大studio",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.94
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.91
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172vujy",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180829_20af6f0a2fh6l63k2iae3bb6c1135_200x200.png",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172vujy",
+      "type": 2,
+      "userId": "1b4liyg"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥286.00",
+      "isAbroad": false,
+      "priceRange": "¥286.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑白条纹",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180927_8ge2ed7dcll3c5i4jig2600a47gic_750x1125.png",
+          "nowprice": 28600,
+          "price": 28600,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 9999,
+          "stockId": "11759qrw",
+          "style": "黑白条纹",
+          "styleId": 1,
+          "xdSkuId": "11759qrw"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋新款韩版显瘦条纹中长款针织衫半高领下摆蕾丝花边毛衣",
+      "totalStock": 9999
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

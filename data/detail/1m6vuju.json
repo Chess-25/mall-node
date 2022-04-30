@@ -1,0 +1,620 @@
+{
+  "iid": "1m6vuju",
+  "result": {
+    "columns": [
+      "销量 238",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "本店默认中通快递!韵达快递如需要其他快递可以联系客服!!",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180805_85bc4222d66l722g4gl3c9a99dhda_750x936.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_1h7if3400a3fjejbd542hh0hb2884_750x965.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_785kekhhc05j7575adi7abchlih03_750x938.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180805_5kb3ggh688617h81ddbb1a28j3l84_750x779.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180805_895cii57gae6cd51401092k9ke5dl_750x912.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_2h1cld4l0jbiki30i34b8beidl3a4_750x801.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_5i2gad4j5k90bhldk70g1f7c54igf_750x840.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180805_8d02l26h7c61e68j6bc4kjl64jga5_750x898.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_5jc5gj85b2jg2gi60fdjl0ed26496_750x1202.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180805_5004ig2kae63h824b72i5li7k78bb_750x825.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180805_28d59b54be8efde55fg4i1f67ibk9_750x1043.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_8b4cl9cb6ld7ig12jcg2e05c0cb63_750x966.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_24h1ib2b5id1jc536e54jkd496lk9_750x936.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_07gb9aej4gdih4820bjfkl1c6644j_750x1021.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180805_2604ha1bc1d09gje02k8ef0a920gi_750x964.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_0lk6i4a1g8dbcb3ig44kigj9ac240_750x944.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_6gf3gkfi3dd0djkh30d768e865j67_750x1049.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_0h32l04hka65f43e92d047k8hkk3b_750x1025.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_730ecagh8ej1gbf051ib3g986cah7_750x610.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180805_7fdg7513fa3h2gi414gjkj43hdibe_750x1011.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #690#",
+      "desc": "本店默认中通快递!韵达快递如需要其他快递可以联系客服!!",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "58.80",
+        "sendAddress": ""
+      },
+      "highNowPrice": "84.00",
+      "highPrice": "84.00",
+      "iid": "1m6vuju",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m6vuju&userId=17amszy&shopId=1172u2cc",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "84.00",
+      "lowPrice": "84.00",
+      "price": "¥84.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172u2cc",
+      "state": 0,
+      "tags": "",
+      "title": "蕾丝打底衫女长袖2018秋冬新款韩版百搭大码宽松显瘦蕾丝上衣小衫",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180805_5eag6cl8le23ijb971g1dl5ch2e4g_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180805_5lebg1322ff1346kl44014fh73681_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180805_4gjdged9k8c87b74ke81hce8261g9_640x960.jpg"
+      ],
+      "userId": "17amszy"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "渐变"
+          },
+          {
+            "key": "厂名",
+            "value": "福建省莆田市德罗赞有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "郁金黄,孔雀绿,白色"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "穿着方式",
+            "value": "套头"
+          },
+          {
+            "key": "尺码",
+            "value": "XL（建议120-130斤）,XXXL（140-150斤）,M(建议90-105斤),L（建议105-120斤）,XXL（建议130-140斤）"
+          },
+          {
+            "key": "衣长",
+            "value": "加长款（大于100cm）"
+          },
+          {
+            "key": "版型",
+            "value": "不规则"
+          },
+          {
+            "key": "下摆",
+            "value": "开叉"
+          },
+          {
+            "key": "样式款型",
+            "value": "裹胸"
+          },
+          {
+            "key": "季节",
+            "value": "春秋"
+          },
+          {
+            "key": "厂址",
+            "value": "福建省莆田市荔城区胜利北街东桥头202"
+          },
+          {
+            "key": "材质",
+            "value": "雪纺"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "元素",
+            "value": "钉珠"
+          },
+          {
+            "key": "袖长",
+            "value": "七分袖"
+          },
+          {
+            "key": "风格",
+            "value": "海军风"
+          },
+          {
+            "key": "潮流",
+            "value": "英伦"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "M(建议90-105斤)",
+              "L（建议105-120斤）",
+              "XL（建议120-130斤）",
+              "XXL（建议130-140斤）"
+            ],
+            [
+              "肩宽",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "胸围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "袖长",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "号型",
+              "160/80A",
+              "155/76B",
+              "155/76B",
+              "155/76B"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXXL（140-150斤）"
+            ],
+            [
+              "肩宽",
+              "-"
+            ],
+            [
+              "胸围",
+              "-"
+            ],
+            [
+              "袖长",
+              "-"
+            ],
+            [
+              "腰围",
+              "-"
+            ],
+            [
+              "号型",
+              "155/76C"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 4,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服质量很好，非常满意。",
+          "created": 1536508910,
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1165ywiq",
+          "style": "颜色:郁金黄 尺码:XL（建议120-130斤） ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_527fecjlbb7f05fihi1aggde73jb8_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "zmjy感恩"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172u2cc",
+      "cFans": 324,
+      "cGoods": 598,
+      "cSells": 64695,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172u2cc/list/index?categoryId=20336746",
+          "name": "雪纺衫蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172u2cc/list/index?categoryId=20336747",
+          "name": "短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172u2cc/list/index?categoryId=20336748",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172u2cc/list/index?categoryId=20336749",
+          "name": "20以下宝贝~"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "妞妞时尚坊2017",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.7
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.71
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172u2cc",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180613_7b49fe2jbigi4i5i2e73e168c2cie_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172u2cc",
+      "type": 2,
+      "userId": "17amszy"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥84.00",
+      "isAbroad": false,
+      "priceRange": "¥84.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "郁金黄",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "孔雀绿",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "白色",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "M(建议90-105斤)",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "L（建议105-120斤）",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "XL（建议120-130斤）",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XXL（建议130-140斤）",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXXL（140-150斤）",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_8e4li54caja972b363e962ig18i3l_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "M(建议90-105斤)",
+          "sizeId": 100,
+          "stock": 53,
+          "stockId": "116c7zrm",
+          "style": "郁金黄",
+          "styleId": 1,
+          "xdSkuId": "116c7zrm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_8e4li54caja972b363e962ig18i3l_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "L（建议105-120斤）",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "116c7zro",
+          "style": "郁金黄",
+          "styleId": 1,
+          "xdSkuId": "116c7zro"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_8e4li54caja972b363e962ig18i3l_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XL（建议120-130斤）",
+          "sizeId": 102,
+          "stock": 67,
+          "stockId": "116c7zrq",
+          "style": "郁金黄",
+          "styleId": 1,
+          "xdSkuId": "116c7zrq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_8e4li54caja972b363e962ig18i3l_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XXL（建议130-140斤）",
+          "sizeId": 103,
+          "stock": 66,
+          "stockId": "116c7zrs",
+          "style": "郁金黄",
+          "styleId": 1,
+          "xdSkuId": "116c7zrs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_8e4li54caja972b363e962ig18i3l_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XXXL（140-150斤）",
+          "sizeId": 104,
+          "stock": 87,
+          "stockId": "116c7zru",
+          "style": "郁金黄",
+          "styleId": 1,
+          "xdSkuId": "116c7zru"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180805_3a0jlh3j6ha85k2e1bk8ibcijc473_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "M(建议90-105斤)",
+          "sizeId": 100,
+          "stock": 78,
+          "stockId": "116c7zrw",
+          "style": "孔雀绿",
+          "styleId": 2,
+          "xdSkuId": "116c7zrw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180805_3a0jlh3j6ha85k2e1bk8ibcijc473_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "L（建议105-120斤）",
+          "sizeId": 101,
+          "stock": 89,
+          "stockId": "116c7zry",
+          "style": "孔雀绿",
+          "styleId": 2,
+          "xdSkuId": "116c7zry"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180805_3a0jlh3j6ha85k2e1bk8ibcijc473_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XL（建议120-130斤）",
+          "sizeId": 102,
+          "stock": 95,
+          "stockId": "116c7zs0",
+          "style": "孔雀绿",
+          "styleId": 2,
+          "xdSkuId": "116c7zs0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180805_3a0jlh3j6ha85k2e1bk8ibcijc473_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XXL（建议130-140斤）",
+          "sizeId": 103,
+          "stock": 95,
+          "stockId": "116c7zs2",
+          "style": "孔雀绿",
+          "styleId": 2,
+          "xdSkuId": "116c7zs2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180805_3a0jlh3j6ha85k2e1bk8ibcijc473_640x640.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XXXL（140-150斤）",
+          "sizeId": 104,
+          "stock": 91,
+          "stockId": "116c7zs4",
+          "style": "孔雀绿",
+          "styleId": 2,
+          "xdSkuId": "116c7zs4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_10k722k4ijb00058cd643e8cg8fbj_750x750.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "M(建议90-105斤)",
+          "sizeId": 100,
+          "stock": 94,
+          "stockId": "116c7zs6",
+          "style": "白色",
+          "styleId": 3,
+          "xdSkuId": "116c7zs6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_10k722k4ijb00058cd643e8cg8fbj_750x750.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "L（建议105-120斤）",
+          "sizeId": 101,
+          "stock": 93,
+          "stockId": "116c7zs8",
+          "style": "白色",
+          "styleId": 3,
+          "xdSkuId": "116c7zs8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_10k722k4ijb00058cd643e8cg8fbj_750x750.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XL（建议120-130斤）",
+          "sizeId": 102,
+          "stock": 97,
+          "stockId": "116c7zsa",
+          "style": "白色",
+          "styleId": 3,
+          "xdSkuId": "116c7zsa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_10k722k4ijb00058cd643e8cg8fbj_750x750.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XXL（建议130-140斤）",
+          "sizeId": 103,
+          "stock": 95,
+          "stockId": "116c7zsc",
+          "style": "白色",
+          "styleId": 3,
+          "xdSkuId": "116c7zsc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180805_10k722k4ijb00058cd643e8cg8fbj_750x750.jpg",
+          "nowprice": 8400,
+          "price": 8400,
+          "size": "XXXL（140-150斤）",
+          "sizeId": 104,
+          "stock": 94,
+          "stockId": "116c7zse",
+          "style": "白色",
+          "styleId": 3,
+          "xdSkuId": "116c7zse"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "本店默认中通快递!韵达快递如需要其他快递可以联系客服!!",
+      "totalStock": 1194
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

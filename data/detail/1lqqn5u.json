@@ -1,0 +1,396 @@
+{
+  "iid": "1lqqn5u",
+  "result": {
+    "columns": [
+      "销量 989",
+      "收藏88人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018春秋冬新款中长款针织裙百搭A字型长裙高腰毛线裙子黑色半身裙女",
+      "detailImage": [
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180123_300i9iib1ijk4b90e629807442fgl_2945x2949.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180123_1bl6f6al15e38cl012gde3ah0h8be_2281x3426.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180123_1bl6fg09bfc9ejffjij54d60i1ijj_2330x3498.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180123_5713i535623hc6aa8egaihh2fj9dj_2281x3426.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180123_1e1295l818dfa2dhj6bkgll6e0j53_2444x3670.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180123_2b487679bjbdb80077hfc4i78iagf_3024x2423.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180123_1g6jg438ffa6bag0hdhk074k213dl_4032x3024.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180123_15d7292gbej23f69eb6f07jkafle0_3024x4032.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180123_5jf3b423k4iilh2g15ibaafli30h2_3494x2791.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #704# #706#",
+      "desc": "2018春秋冬新款中长款针织裙百搭A字型长裙高腰毛线裙子黑色半身裙女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "浙江省嘉兴市"
+      },
+      "highNowPrice": "45.00",
+      "highPrice": "45.00",
+      "iid": "1lqqn5u",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1lqqn5u&userId=123y7vi&shopId=14hze",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "45.00",
+      "lowPrice": "45.00",
+      "price": "¥45.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14hze",
+      "state": 0,
+      "tags": "",
+      "title": "2018春秋冬新款中长款针织裙百搭A字型长裙高腰毛线裙子黑色半身裙女",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180123_03dh6e3c126139h2ikde944a3i9i5_2281x3426.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180123_7i157h98ihf653jd36glblk0h53e0_2281x3426.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180123_07gha83a60h9chg4lhed48ccc1b4d_3024x2423.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180123_16i8kcejfdf4hd5kggfkg2ecd56ci_4032x3024.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180123_7ik92h5789eb2f7635h9g6d8klcfb_3024x4032.jpg"
+      ],
+      "userId": "123y7vi"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "裙型",
+            "value": "A字裙"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,咖色"
+          },
+          {
+            "key": "季节",
+            "value": "春秋"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "裙子厚度",
+            "value": "适中"
+          },
+          {
+            "key": "裙长",
+            "value": "长裙（大于65cm）"
+          },
+          {
+            "key": "腰线高度",
+            "value": "高腰"
+          },
+          {
+            "key": "风格",
+            "value": "复古"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "裙长",
+              "72"
+            ],
+            [
+              "腰围",
+              "58"
+            ],
+            [
+              "臀围",
+              "86"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 87,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "质量很好，蘑菇街的良心卖家，关注一个多月的时间，买了巧儿家几十件衣服，不管是便宜的还是贵的，质量都很好，物超所值",
+          "created": 1534937623,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115yksp0",
+          "style": "颜色:咖色 尺码:均码 ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "A西西18692074455"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14hze",
+      "cFans": 73275,
+      "cGoods": 378,
+      "cSells": 313581,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=7088",
+          "name": "针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=11667",
+          "name": "衬衫、雪纺衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=11668",
+          "name": "下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=11670",
+          "name": "羽绒服、棉衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=16017",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=19613",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=37543",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=38365",
+          "name": "夏季新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=43142",
+          "name": "卫衣，外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20162121",
+          "name": "秋装上新"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20170447",
+          "name": "套头"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20170448",
+          "name": "开衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20170461",
+          "name": "60元2件"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20212306",
+          "name": "7月秋装新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20225326",
+          "name": "8月秋装新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20238738",
+          "name": "9月秋装新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20254944",
+          "name": "10月冬季新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20272935",
+          "name": "11月冬季新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20284927",
+          "name": "12月冬季新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20288147",
+          "name": "1月早春新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14hze/list/index?categoryId=20323121",
+          "name": "4月上新"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "小米可",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.83
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.85
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14hze",
+      "shopLogo": "//s11.mogucdn.com/b7/pic/160809/11z3wz_ifqtkm3gmm3ggnbumezdambqgyyde_320x320.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14hze",
+      "type": 1,
+      "userId": "123y7vi"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥45.00",
+      "isAbroad": false,
+      "priceRange": "¥45.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "咖色",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180123_82ca1kf9hc2ek7g7561jehi2e3ed4_2330x3498.jpg",
+          "nowprice": 4500,
+          "price": 4500,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 740,
+          "stockId": "1zfkjni",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1zfkjni"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180123_3gg7g36e692cflhidbkgfgl48a396_2281x3426.jpg",
+          "nowprice": 4500,
+          "price": 4500,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 155,
+          "stockId": "1zfkjnk",
+          "style": "咖色",
+          "styleId": 2,
+          "xdSkuId": "1zfkjnk"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018春秋冬新款中长款针织裙百搭A字型长裙高腰毛线裙子黑色半身裙女",
+      "totalStock": 895
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

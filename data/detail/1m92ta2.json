@@ -1,0 +1,416 @@
+{
+  "iid": "1m92ta2",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "款式新颖，优质面料，以品质为根，美感为本，结合潮流为一体，时尚的造型，凸显女性优雅高贵魅力",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180927_3efg6bh5253464ca91h7lah7297ed_750x400.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_3g24bbd847461bhl1ecf47ca8kg48_640x545.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_4h0379hic68057d5b1jhhgc7654gk_750x638.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_379l1i7926hg71fbj3523i23gdf10_750x561.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_78d5gk4abc45af9i21lfi8ch93664_750x1143.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_719ka9618jhfea60j650idjba383d_750x826.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_0404136824el691cdia76ga2ag7ef_750x945.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3i6l4h1c386id3fhedjl7c301c2lk_750x817.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_75ac3ee4jlfld6hi4ai08eabig26e_750x928.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_06lei8494fiehdji42h5l27842494_750x871.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_72lb47770ka6kj3d3168bajh0ikjg_750x781.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_4jig0l0j852kgc697j4lhlaaegaab_750x865.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_1ifahe29l95a9cekd4ffd7515bak2_750x826.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_53dcbld728fi3932eakk4leld1g65_750x966.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_1l3i4ai18bd42lhe5hdljib9ebi0h_750x830.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_7813l2dj9k4b707h050bjffi8fjca_750x956.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_23hj9dl1bl82hll6h69bj9b02jaci_750x753.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_7e1c19b2199g0ajk0k7cflcbilili_750x783.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_19h80jbeflk2kjbbi621jg0jd9k2i_750x834.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_79dkiehab7g2a5h1bb4jk47ckl3k6_750x862.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_6efl643hdi5if2433k199ib7abjbd_750x971.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_8c918l6jfb03565bjj5ab75154f02_750x1119.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #686#",
+      "desc": "款式新颖，优质面料，以品质为根，美感为本，结合潮流为一体，时尚的造型，凸显女性优雅高贵魅力",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "399.00",
+      "highPrice": "399.00",
+      "iid": "1m92ta2",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92ta2&userId=1b40gbk&shopId=1172vur2",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "399.00",
+      "lowPrice": "399.00",
+      "price": "¥399.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172vur2",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋装新款不对称拼接上衣V领白色波点领口系带衬衫女韩范",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_6g3e28ja0ef4kf8c5fejhgkdl5887_640x960.jpg"
+      ],
+      "userId": "1b40gbk"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厂名",
+            "value": "广州布喆服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "白色,杏色"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市白云区沙太路新百佳服装市场"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "穿着方式",
+            "value": "套头"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "温馨提示：由于尺码是纯手工测量，难免会存在1CM-3CM的微差，敬请买家知晓并谅解！谢谢！",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "衣长（前）",
+              "55",
+              "56",
+              "57",
+              "58"
+            ],
+            [
+              "肩宽",
+              "48",
+              "49",
+              "50",
+              "51"
+            ],
+            [
+              "胸围",
+              "100",
+              "104",
+              "108",
+              "112"
+            ],
+            [
+              "袖长",
+              "55",
+              "56",
+              "57",
+              "58"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172vur2",
+      "cFans": 1,
+      "cGoods": 68,
+      "cSells": 0,
+      "isMarked": false,
+      "level": 5,
+      "name": "微沫原创女装",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 5.0
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172vur2",
+      "shopLogo": "//s5.mogucdn.com/pic/141211/1agxqe_ieygmodbmiztmzrqmuytambqmmyde_120x120.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172vur2",
+      "type": 2,
+      "userId": "1b40gbk"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥399.00",
+      "isAbroad": false,
+      "priceRange": "¥399.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "白色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "杏色",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_64eh8cjld22d82ifb2855ldg01e9a_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 5000,
+          "stockId": "1175a5i8",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1175a5i8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_64eh8cjld22d82ifb2855ldg01e9a_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 5000,
+          "stockId": "1175a5ia",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1175a5ia"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_64eh8cjld22d82ifb2855ldg01e9a_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 5000,
+          "stockId": "1175a5ic",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1175a5ic"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_64eh8cjld22d82ifb2855ldg01e9a_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 5000,
+          "stockId": "1175a5ie",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1175a5ie"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_69406ig2llb7d10k677h7a03bah8f_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 5000,
+          "stockId": "1175a5i2",
+          "style": "杏色",
+          "styleId": 2,
+          "xdSkuId": "1175a5i2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_69406ig2llb7d10k677h7a03bah8f_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 5000,
+          "stockId": "1175a5i0",
+          "style": "杏色",
+          "styleId": 2,
+          "xdSkuId": "1175a5i0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_69406ig2llb7d10k677h7a03bah8f_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 5000,
+          "stockId": "1175a5i4",
+          "style": "杏色",
+          "styleId": 2,
+          "xdSkuId": "1175a5i4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_69406ig2llb7d10k677h7a03bah8f_640x960.jpg",
+          "nowprice": 39900,
+          "price": 39900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 5000,
+          "stockId": "1175a5i6",
+          "style": "杏色",
+          "styleId": 2,
+          "xdSkuId": "1175a5i6"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "款式新颖，优质面料，以品质为根，美感为本，结合潮流为一体，时尚的造型，凸显女性优雅高贵魅力",
+      "totalStock": 40000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

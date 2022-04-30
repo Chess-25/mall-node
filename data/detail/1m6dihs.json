@@ -1,0 +1,659 @@
+{
+  "iid": "1m6dihs",
+  "result": {
+    "columns": [
+      "销量 10015",
+      "收藏99人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款韩范清新套装宽松圆领可爱学生条纹上衣配复古高腰直筒裤子破洞牛仔裤时尚两件套",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180725_0287fbadgbcbh7cc1dl3b7a47a035_640x960.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180725_1a79ib7c296248h4haidh9ahk06b2_640x960.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180725_4ee8i300869296abd111609biae8j_640x960.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180725_1195827igh29630bc5cbh38aicla1_640x960.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180725_09f4cke43gkd7fih036c33h7a6c2g_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_6730k46dbjch918j0k03g4l4fac93_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_2all70h9g8gcbc0jhklbjj0jafc6k_647x836.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180725_09h9e30k5kh7j2k6id16c0612290i_750x843.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_8el2g66lgjb2l259j6fc02ge441h7_742x758.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_74clc5g2i8ka0g634c66eh72dl14b_734x697.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_126b7l591ccjh32k6he7ia09b9l61_673x785.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_06b0a8eiflfcg73cld52e4b6ge1b3_754x722.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180725_448die16jie5a9210ikg2f75dk0hc_722x790.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_3bf01aie69ll0fjfc73kje3ajikai_757x869.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_4bla3c29d55k6d534cd26fe10ab7i_710x689.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180725_11j34cb9i3bik96befb6e9fhabc0g_710x760.png",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季新款韩范清新套装宽松圆领可爱学生条纹上衣配复古高腰直筒裤子破洞牛仔裤时尚两件套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "99.00",
+      "highPrice": "141.43",
+      "iid": "1m6dihs",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m6dihs&userId=12h1mru&shopId=14rgq",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "59.00",
+      "lowPrice": "84.29",
+      "oldPrice": "¥84.29",
+      "price": "¥59.00~¥99.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14rgq",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩范清新套装宽松圆领可爱学生条纹上衣配复古高腰直筒裤子破洞牛仔裤时尚两件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180725_1h224e27l805diked2lcj2j63d7h2_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180725_5lc97gicll7ac561fckcibfg4eefc_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180725_77c33eg9fdg96h49d07gea808i6e4_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180725_77917g1d1i11e7k7f1l3ekhjjj4l6_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180725_2lif4lh532k17fbl026ilfkec53if_640x960.jpg"
+      ],
+      "userId": "12h1mru"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州允衡服装厂"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "颜色",
+            "value": "单件牛仔裤,黑白条上衣,红白条上衣,红白条上衣+牛仔裤,黑白条上衣+牛仔裤"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市白云区大源村南坑163-164号"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "胸围",
+              "106",
+              "110",
+              "114",
+              "118"
+            ],
+            [
+              "腰围",
+              "66",
+              "70",
+              "74",
+              "78"
+            ],
+            [
+              "袖长",
+              "41",
+              "42",
+              "42.5",
+              "43"
+            ],
+            [
+              "衣长",
+              "59",
+              "59.5",
+              "60",
+              "60.5"
+            ],
+            [
+              "裤长",
+              "88",
+              "89",
+              "90",
+              "91"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 92,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "发货及时，物流快，衣服做工细致，面料柔软，穿上很宽松舒适，价格物超所值，满意。",
+          "created": 1537232564,
+          "extraInfo": [
+            "体重:50kg",
+            "是否合身:合身",
+            "身高:161cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "11698pag",
+          "style": "颜色:黑白条上衣 尺码:S ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_65bf62g5e98f4g9b8dk1j5le13e34_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "七彩199505"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14rgq",
+      "cFans": 58535,
+      "cGoods": 551,
+      "cSells": 386736,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=28093",
+          "name": "新品上市"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=28095",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=28143",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=28144",
+          "name": "t恤、衬衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=28145",
+          "name": "短裙、半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=43674",
+          "name": "毛衣、外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=50374",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=87877",
+          "name": "短裤、长裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14rgq/list/index?categoryId=170428",
+          "name": "针织衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "小衣贩卖馆",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.7
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.7
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14rgq",
+      "shopLogo": "//s5.mogucdn.com/mlcdn/c45406/180608_882d43302k5179kidl6ld5j5k4eab_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14rgq",
+      "type": 1,
+      "userId": "12h1mru"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥59.00~¥99.00",
+      "isAbroad": false,
+      "priceRange": "¥59.00~¥99.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "红白条上衣",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑白条上衣",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "红白条上衣+牛仔裤",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "黑白条上衣+牛仔裤",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "单件牛仔裤",
+              "styleId": 5,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_85cf87f6iafceih0bk013j0i16a7k_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1926,
+          "stockId": "1165qxxc",
+          "style": "红白条上衣",
+          "styleId": 1,
+          "xdSkuId": "1165qxxc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_85cf87f6iafceih0bk013j0i16a7k_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1776,
+          "stockId": "1165qxxa",
+          "style": "红白条上衣",
+          "styleId": 1,
+          "xdSkuId": "1165qxxa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_85cf87f6iafceih0bk013j0i16a7k_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1941,
+          "stockId": "1165qxxg",
+          "style": "红白条上衣",
+          "styleId": 1,
+          "xdSkuId": "1165qxxg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_85cf87f6iafceih0bk013j0i16a7k_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1972,
+          "stockId": "1165qxxe",
+          "style": "红白条上衣",
+          "styleId": 1,
+          "xdSkuId": "1165qxxe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_73cld278k4j09ljf91df57ab15cah_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1993,
+          "stockId": "1165qxxi",
+          "style": "黑白条上衣",
+          "styleId": 2,
+          "xdSkuId": "1165qxxi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_73cld278k4j09ljf91df57ab15cah_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1921,
+          "stockId": "1165qxxk",
+          "style": "黑白条上衣",
+          "styleId": 2,
+          "xdSkuId": "1165qxxk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_73cld278k4j09ljf91df57ab15cah_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1984,
+          "stockId": "1165qxxm",
+          "style": "黑白条上衣",
+          "styleId": 2,
+          "xdSkuId": "1165qxxm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_73cld278k4j09ljf91df57ab15cah_640x960.jpg",
+          "nowprice": 5900,
+          "price": 8429,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1985,
+          "stockId": "1165qxxq",
+          "style": "黑白条上衣",
+          "styleId": 2,
+          "xdSkuId": "1165qxxq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_253ffigl6j56f138j8ija9423ae7a_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1931,
+          "stockId": "1165qxxo",
+          "style": "红白条上衣+牛仔裤",
+          "styleId": 3,
+          "xdSkuId": "1165qxxo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_253ffigl6j56f138j8ija9423ae7a_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1854,
+          "stockId": "1165qxxs",
+          "style": "红白条上衣+牛仔裤",
+          "styleId": 3,
+          "xdSkuId": "1165qxxs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_253ffigl6j56f138j8ija9423ae7a_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1909,
+          "stockId": "1165qxxu",
+          "style": "红白条上衣+牛仔裤",
+          "styleId": 3,
+          "xdSkuId": "1165qxxu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180725_253ffigl6j56f138j8ija9423ae7a_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1952,
+          "stockId": "1165qxxw",
+          "style": "红白条上衣+牛仔裤",
+          "styleId": 3,
+          "xdSkuId": "1165qxxw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180725_5d6c66f87ga3e9bli5hc503i26i4h_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1994,
+          "stockId": "1165qxxy",
+          "style": "黑白条上衣+牛仔裤",
+          "styleId": 4,
+          "xdSkuId": "1165qxxy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180725_5d6c66f87ga3e9bli5hc503i26i4h_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1980,
+          "stockId": "1165qxy0",
+          "style": "黑白条上衣+牛仔裤",
+          "styleId": 4,
+          "xdSkuId": "1165qxy0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180725_5d6c66f87ga3e9bli5hc503i26i4h_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1984,
+          "stockId": "1165qxy2",
+          "style": "黑白条上衣+牛仔裤",
+          "styleId": 4,
+          "xdSkuId": "1165qxy2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180725_5d6c66f87ga3e9bli5hc503i26i4h_640x960.jpg",
+          "nowprice": 9900,
+          "price": 14143,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1989,
+          "stockId": "1165qxy4",
+          "style": "黑白条上衣+牛仔裤",
+          "styleId": 4,
+          "xdSkuId": "1165qxy4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180725_70lfh856166kj167i6gf23le00a0i_640x960.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1993,
+          "stockId": "1165qxy6",
+          "style": "单件牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "1165qxy6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180725_70lfh856166kj167i6gf23le00a0i_640x960.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1982,
+          "stockId": "1165qxy8",
+          "style": "单件牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "1165qxy8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180725_70lfh856166kj167i6gf23le00a0i_640x960.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1992,
+          "stockId": "1165qxya",
+          "style": "单件牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "1165qxya"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180725_70lfh856166kj167i6gf23le00a0i_640x960.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 1995,
+          "stockId": "1165qxyc",
+          "style": "单件牛仔裤",
+          "styleId": 5,
+          "xdSkuId": "1165qxyc"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩范清新套装宽松圆领可爱学生条纹上衣配复古高腰直筒裤子破洞牛仔裤时尚两件套",
+      "totalStock": 39053
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

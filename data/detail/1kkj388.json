@@ -1,0 +1,402 @@
+{
+  "iid": "1kkj388",
+  "result": {
+    "columns": [
+      "销量 269",
+      "收藏667人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "格子长袖衬衫裙+拉链半身裙两件套",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "上衣   肩宽：55   胸围：120   衣长：85   袖长：56   \n半身裙   裙长：40   裙围：34",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/55cf19/170916_76ab7dl7jdalfh0hkb36d4bfe92ba_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_0j7d368fge02j8e546j03hl673jb8_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_6526d8flj7ae4g816ga8le0c6kd50_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_4kkf6411hicb4g766ie873dj7h1hl_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/170916_30jefejc0334lck0hhg41bf5j596h_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/170916_338ba7c3h0f5bg38h2abc5jf4felh_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_2dhcgedf94chajc516j18l7b0g6ci_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_278833dc3gf67gb6j99f487eblk86_800x821.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_20laf3f88dkd7022k4fa5lg8ad741_800x822.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_2hb26kh6lib01k05j5a9485flbc00_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_178l747ej4b8h287b0k5493gb2jik_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/170916_78d2i0j2296ildljje898j5253lh6_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/170916_2h41ka6f749d0i5lc1iad5gd731h4_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/170916_8a4lchj350673bj87k3i4aj8713a8_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_8gd5gh2h20ji1767h93j30ej569db_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_3i0l2j6kgbddhbfk80ael48lhkfjh_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/170916_16l9i2a2dg7eid97e716k430gb6ef_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "格子长袖衬衫裙+拉链半身裙两件套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "117.60",
+      "highPrice": "168.00",
+      "iid": "1kkj388",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1kkj388&userId=144jtdg&shopId=1psfii",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "69.30",
+      "lowPrice": "99.00",
+      "oldPrice": "¥99.00",
+      "price": "¥69.30~¥117.60",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1psfii",
+      "state": 0,
+      "tags": "",
+      "title": "实拍2018春秋新款韩风气质衣裙套装格子衬衫长袖衬衫裙拉链皮裙半身裙休闲套装两件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/55cf19/170916_12jiib5hf8420j8gkdfh8f3lh7244_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/170916_82hcc127lkc5g4a1f959g9dk83beg_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/55cf19/170916_87a0b9431ce920a59fj7bja2ik66c_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/170916_153061b87eif4h127a0eb0029blb9_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/170916_4368je3l8g0jfhh61i3h8k9eadfb1_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/170916_0c4ee15fb3acgd1ch58f32475kk3d_640x960.jpg"
+      ],
+      "userId": "144jtdg"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "格子"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州可人服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "半身裙,绿色衬衫+半身裙,卡其色衬衫,绿色衬衫,卡其色衬衫+半身裙"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "衣长",
+            "value": "长款（81-100cm）"
+          },
+          {
+            "key": "季节",
+            "value": "春秋"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市天河区龙口西路221号441房自编A4房子"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "裙长",
+              "40"
+            ],
+            [
+              "肩宽",
+              "55"
+            ],
+            [
+              "腰围",
+              "68"
+            ],
+            [
+              "衣长",
+              "85"
+            ],
+            [
+              "胸围",
+              "120"
+            ],
+            [
+              "袖长",
+              "56"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 51,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服质量不错，颜色也挺好，刚收到就试了一下，很合身，不错，大赞！！！！",
+          "created": 1517399870,
+          "extraInfo": [
+            "体重:50 kg",
+            "是否合身:合身",
+            "身高:169 cm"
+          ],
+          "images": [
+            "//s11.mogucdn.com/mlcdn/c45406/180131_475agakl5349l0aee5lhb6b72hdi7_720x960.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "113gwbog",
+          "style": "颜色:绿色衬衫+半身裙 尺码:均码 ",
+          "user": {
+            "avatar": "//s5.mogucdn.com/p2/161214/103488673_8da6lhkf9a5h32ei6bd297523c35d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "毒菇蝴蝶"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1psfii",
+      "cFans": 6849,
+      "cGoods": 359,
+      "cSells": 31378,
+      "isMarked": false,
+      "level": 3,
+      "name": "小毅家",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.91
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.9
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1psfii",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/170704_226kakiah1c89a867lf9igad9j2ha_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1psfii",
+      "type": 1,
+      "userId": "144jtdg"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥69.30~¥117.60",
+      "isAbroad": false,
+      "priceRange": "¥69.30~¥117.60",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "半身裙",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "卡其色衬衫",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "绿色衬衫",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "卡其色衬衫+半身裙",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "绿色衬衫+半身裙",
+              "styleId": 5,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/170916_23adcg8lgk6dl9gcg54ki496ehgcd_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 560,
+          "stockId": "1uh15s6",
+          "style": "半身裙",
+          "styleId": 1,
+          "xdSkuId": "1uh15s6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/55cf19/170916_689a72k958h894745licikg5i5jhh_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 570,
+          "stockId": "1uh15s8",
+          "style": "卡其色衬衫",
+          "styleId": 2,
+          "xdSkuId": "1uh15s8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/170916_1hee9a8b6al9jj76765l2hfi900h4_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 528,
+          "stockId": "1uh15sa",
+          "style": "绿色衬衫",
+          "styleId": 3,
+          "xdSkuId": "1uh15sa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/170916_453l3ld637heej48fjedeahcf0ia0_640x960.jpg",
+          "nowprice": 11760,
+          "price": 16800,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 373,
+          "stockId": "1uh15sc",
+          "style": "卡其色衬衫+半身裙",
+          "styleId": 4,
+          "xdSkuId": "1uh15sc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/170916_38205fh883fj759180bic721f76l9_640x960.jpg",
+          "nowprice": 11760,
+          "price": 16800,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 16,
+          "stockId": "1uh15se",
+          "style": "绿色衬衫+半身裙",
+          "styleId": 5,
+          "xdSkuId": "1uh15se"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "实拍2018春秋新款韩风气质衣裙套装格子衬衫长袖衬衫裙拉链皮裙半身裙休闲套装两件套",
+      "totalStock": 2047
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

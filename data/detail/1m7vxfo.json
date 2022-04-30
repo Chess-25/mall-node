@@ -1,0 +1,426 @@
+{
+  "iid": "1m7vxfo",
+  "result": {
+    "columns": [
+      "销量 202",
+      "收藏2人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "时尚套装连衣裙2018新款秋装露肩气质毛衣上衣大摆蓬蓬裙半身裙",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180830_3iljhll5313j8b9kg1l6a1j5ac876_736x120.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_178ihcel0f0i7c925dae3h2c16dfj_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180830_88bhcgd436dfj9ecffka59jb7cj2f_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_755f6d12eha991i63i1ccf6950jl6_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_24dk1fj4l9ded3i4fjek5f81cihge_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180830_2jkj8icbi0gif7a4k025ai2560ke4_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_5b925k4gglba1jgj8d9j57jf9eh5j_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_5984kkg4k2dek65d587j4egi70dbd_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180830_8ak6bccb7lg6g5de88129adal4cdb_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180830_098b10lh6jj7fdc5ag6476b76jf10_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180830_719i1gikl6g6c8lh8cca9fkg039fg_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180830_1bl9l09kj22e5c56304e9440gk9j9_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180830_6h7dd59719gklcgafg2b5d0594h9d_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_0564j6i4ca9b2lbfi8d1323b6g390_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_360ch2dc0j948efdfd14l5e8ged6a_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_4cd8ega921i4i792i9jai27bbb36j_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_451kck26dc58ehl872i9hdb6893fk_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_426dake3h9hde79a71kk0kij6aidf_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180830_1blki3dl2flfc42990l09i2ie52bg_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180830_6hbf8709hc4bi65h2e3gjfaj6426g_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_24b414b011aaeia03f2jhicfk69ae_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_4d3lagk325lg4f741a1g79la82d6e_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_28lffb1f2g9i922di4j9g8hgiaha0_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_7bh50600celhg59d214118hk04792_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_5ede1bighg9bd66c26ggf7kb7a7dd_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180830_626b85cje92a8d09g77jgl95fiebh_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "时尚套装连衣裙2018新款秋装露肩气质毛衣上衣大摆蓬蓬裙半身裙",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "138.00",
+      "highPrice": "197.15",
+      "iid": "1m7vxfo",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7vxfo&userId=13pgahc&shopId=1owrsk",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "69.93",
+      "lowPrice": "99.90",
+      "oldPrice": "¥99.90",
+      "price": "¥69.93~¥138.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1owrsk",
+      "state": 0,
+      "tags": "",
+      "title": "2018新款秋季韩版宽松时尚套装连衣裙露肩气质针织毛衣上衣大摆网纱蓬蓬半身裙两件套小香风",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180830_562551g5be70a8870b0c43gabfib0_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180830_46548kedk219c89c4g0bg73hc53i8_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180830_1aifc863i4ag5491aahk5j7lf5102_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180830_7lk3424ce9k2f84dk705lf1kj7i4f_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180830_1ia9i2lf35l10je7dd5bg58k6ij5b_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180830_2k29e33568egic96121e915h99g1i_640x960.jpg"
+      ],
+      "userId": "13pgahc"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州伟平服饰加工厂"
+          },
+          {
+            "key": "颜色",
+            "value": "粉色套装,卡其色套装,单件黑色网纱裙,红色套装"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "中国广东广州番禺区洛浦街厦滘村沙滘中路39巷2号"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "元素",
+            "value": "镂空"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "档长",
+              "-"
+            ],
+            [
+              "大腿围",
+              "-"
+            ],
+            [
+              "胸围",
+              "-"
+            ],
+            [
+              "腰围",
+              "-"
+            ],
+            [
+              "臀围",
+              "-"
+            ],
+            [
+              "裙长",
+              "-"
+            ],
+            [
+              "袖长",
+              "-"
+            ],
+            [
+              "裤长",
+              "-"
+            ],
+            [
+              "肩宽",
+              "-"
+            ],
+            [
+              "领围",
+              "-"
+            ],
+            [
+              "衣长",
+              "-"
+            ],
+            [
+              "裤口",
+              "-"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1owrsk",
+      "list": [
+        "满130元减3元",
+        "满160元减5元"
+      ]
+    },
+    "rate": {
+      "cRate": 2,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "穿上很漂亮，很合适，质量也很好。",
+          "created": 1537932418,
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116cl6nm",
+          "style": "颜色:红色套装 尺码:均码 ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_527fecjlbb7f05fihi1aggde73jb8_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "下个路口Ingrid"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1owrsk",
+      "cFans": 20869,
+      "cGoods": 574,
+      "cSells": 106550,
+      "isMarked": false,
+      "level": 5,
+      "name": "小丽服饰",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.61
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.6
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1owrsk",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180911_77d0b0ceialb2aj6f8jghkhdelbl9_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1owrsk",
+      "type": 1,
+      "userId": "13pgahc"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥69.93~¥138.00",
+      "isAbroad": false,
+      "priceRange": "¥69.93~¥138.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "粉色套装",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "红色套装",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "卡其色套装",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "单件黑色网纱裙",
+              "styleId": 4,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180830_7g07j6dh1j5l80c13b62af64f3cj0_800x800.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 9986,
+          "stockId": "116ojd46",
+          "style": "粉色套装",
+          "styleId": 1,
+          "xdSkuId": "116ojd46"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180830_21437d34cgid6354cgjkd2c0dbgia_800x800.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 9991,
+          "stockId": "116ojd48",
+          "style": "红色套装",
+          "styleId": 2,
+          "xdSkuId": "116ojd48"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180830_6da67b3i845f1hhka41jia2aiahke_800x800.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "116ojd4a",
+          "style": "卡其色套装",
+          "styleId": 3,
+          "xdSkuId": "116ojd4a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180830_5gae9ci3315dffa09d6k39eekh4gk_715x520.png",
+          "nowprice": 6993,
+          "price": 9990,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 9822,
+          "stockId": "116oke46",
+          "style": "单件黑色网纱裙",
+          "styleId": 4,
+          "xdSkuId": "116oke46"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018新款秋季韩版宽松时尚套装连衣裙露肩气质针织毛衣上衣大摆网纱蓬蓬半身裙两件套小香风",
+      "totalStock": 29799
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

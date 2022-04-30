@@ -1,0 +1,492 @@
+{
+  "iid": "1m7uj9o",
+  "result": {
+    "columns": [
+      "销量 76",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "感谢仙女们大驾光临！小店为工厂直销店，批发价放心购。购物前请先收藏店铺和宝贝，小店将赠送运费险，让您购物无忧，七天无理由退换，不用担心运费问题哦。",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180829_73j026ce3jl79l80e2748fahhk3jc_645x153.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_7k69hih0b8gf25l164hk28ahk7he4_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_70igj8b5ea9ik8103l08553di57ll_750x935.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_0ddj0l1jga31ak171ij3bffkbfbh2_750x906.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_54e3d0fjh2d0gkh69988i1e4be9dh_750x908.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_6eb7b1ia780hcih134gbc5djkhlee_750x957.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_6gi1h0e1c60bcal8l3ahb0cakj4l1_750x987.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_6ddd41jff77f76h7300k8gd91h7ie_750x892.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_6bfhh46j0ki3ecl0e4gkb812e02h0_750x933.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_501cek722b20129k7246b269iakdk_750x935.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_85l41g70i13g2g3854e10l995di03_750x903.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180829_1c5lfe529e847j66360ae27b9jgik_750x930.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180829_1i40ick8aicd4ea7hchl949253fc5_750x955.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_61g7j5lfibih1bcfbb279f1kje95j_748x890.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_1d8f3a9chk2j78g45ldgkd409i65f_750x954.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_38d65e9j786f3iidg8idj39h9986l_750x919.jpg",
+            "//s3.mogucdn.com/mlcdn/55cf19/180829_3ggf9e3af609i8e8652047cafd0kg_750x963.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_69icafack5igieeeb8e3f099fg79l_748x900.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_3l1bj8e85jc9hi3j5ac95fc0fk352_750x948.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_73ckk73g5c332i3bjk614h7e74i2i_750x921.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_349ekb0e619e33h0562b5fdk11ca9_750x920.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_2871ig7fa52c7bd3l6k9l87ce98j0_750x954.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_6el1cffj7176797312i0jfg3hbihf_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_7k69hih0b8gf25l164hk28ahk7he4_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180829_1f42i6lfj93j2l02ccg1h1alj7ebl_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "感谢仙女们大驾光临！小店为工厂直销店，批发价放心购。购物前请先收藏店铺和宝贝，小店将赠送运费险，让您购物无忧，七天无理由退换，不用担心运费问题哦。",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "火热促销",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "陕西省西安市"
+      },
+      "highNowPrice": "128.00",
+      "highPrice": "183.00",
+      "iid": "1m7uj9o",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7uj9o&userId=19sevne&shopId=1172uu7o",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "128.00",
+      "lowPrice": "183.00",
+      "oldPrice": "¥183.00",
+      "price": "¥128.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172uu7o",
+      "state": 0,
+      "tags": "",
+      "title": "时尚套装裙2018秋季新款小香风时髦两件套宽松针织开衫毛衣套装裙子潮",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/55cf19/180829_1f52fhi6i59ghf5fj8gllf773fk10_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180829_16f3780442k61b30ad5kbg4e9g570_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180829_0bg789a1gl80ea1f2ig7a0g1bkli9_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180829_2i3763k229i68ge01d6eg12jg507d_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/55cf19/180829_560e84kde65jl8ah5d7573ai85lch_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/55cf19/180829_4aa9achlgdkl934eb6c2j040jl08a_640x960.jpg"
+      ],
+      "userId": "19sevne"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厚薄",
+            "value": "薄款"
+          },
+          {
+            "key": "厂名",
+            "value": "日升月恒商贸有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "灰色加绿色套装,驼色加粉色套装"
+          },
+          {
+            "key": "袖型",
+            "value": "插肩袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市海珠区大塘东胜新街西16巷11号"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "九分袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "裙长",
+              "110",
+              "111",
+              "112",
+              "113"
+            ],
+            [
+              "衣长",
+              "65",
+              "66",
+              "67",
+              "68"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172uu7o",
+      "list": [
+        "满99元减5元",
+        "满189元减10元",
+        "满369元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 3,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "穿着很合身，面料也很好的，最主要的是物美价廉，卖家服务好，好评。值得购买!!!",
+          "created": 1535897686,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "11633u60",
+          "style": "颜色:驼色加粉色套装 尺码:S ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_0l1ff9kf2hbc32fe4a2g05l77d89d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "笑颜幢温"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172uu7o",
+      "cFans": 25899,
+      "cGoods": 281,
+      "cSells": 173611,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20273264",
+          "name": "西装/风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20273266",
+          "name": "衬衫/雪纺衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20273267",
+          "name": "连衣裙/半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20273268",
+          "name": "裤装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20275998",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20298640",
+          "name": "牛仔外套/棒球服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20299042",
+          "name": "T恤/卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20323090",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uu7o/list/index?categoryId=20340540",
+          "name": "毛呢大衣/外套"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "blueeecc独立时装店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.92
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.88
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172uu7o",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/171130_6l2d20c97ck4dgbi5lhgdha039683_2448x2448.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172uu7o",
+      "type": 2,
+      "userId": "19sevne"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥128.00",
+      "isAbroad": false,
+      "priceRange": "¥128.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "灰色加绿色套装",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "驼色加粉色套装",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_6628he2cfhi2g3fkide4b6bjka2ik_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 564,
+          "stockId": "116o2rpo",
+          "style": "灰色加绿色套装",
+          "styleId": 1,
+          "xdSkuId": "116o2rpo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_6628he2cfhi2g3fkide4b6bjka2ik_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 562,
+          "stockId": "116o2rpq",
+          "style": "灰色加绿色套装",
+          "styleId": 1,
+          "xdSkuId": "116o2rpq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_6628he2cfhi2g3fkide4b6bjka2ik_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 563,
+          "stockId": "116o2rps",
+          "style": "灰色加绿色套装",
+          "styleId": 1,
+          "xdSkuId": "116o2rps"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_6628he2cfhi2g3fkide4b6bjka2ik_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 563,
+          "stockId": "116o2rpu",
+          "style": "灰色加绿色套装",
+          "styleId": 1,
+          "xdSkuId": "116o2rpu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_835b788e117i86j02a02g81d22jcj_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 562,
+          "stockId": "116o2rpw",
+          "style": "驼色加粉色套装",
+          "styleId": 2,
+          "xdSkuId": "116o2rpw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_835b788e117i86j02a02g81d22jcj_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 564,
+          "stockId": "116o2rpy",
+          "style": "驼色加粉色套装",
+          "styleId": 2,
+          "xdSkuId": "116o2rpy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_835b788e117i86j02a02g81d22jcj_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 562,
+          "stockId": "116o2rq0",
+          "style": "驼色加粉色套装",
+          "styleId": 2,
+          "xdSkuId": "116o2rq0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180829_835b788e117i86j02a02g81d22jcj_640x960.jpg",
+          "nowprice": 12800,
+          "price": 18300,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 563,
+          "stockId": "116o2rq2",
+          "style": "驼色加粉色套装",
+          "styleId": 2,
+          "xdSkuId": "116o2rq2"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "感谢仙女们大驾光临！小店为工厂直销店，批发价放心购。购物前请先收藏店铺和宝贝，小店将赠送运费险，让您购物无忧，七天无理由退换，不用担心运费问题哦。",
+      "totalStock": 4503
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

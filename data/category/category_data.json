@@ -1,0 +1,117 @@
+{
+  "data": {
+    "cateList": {
+      "context": {
+        "currentTime": 1538014774
+      },
+      "isEnd": true,
+      "list": [
+        {
+          "title": "上衣",
+          "cate": "coat"
+        },
+        {
+          "title": "短袖",
+          "cate": "short"
+        },
+        {
+          "title": "裙子",
+          "cate": "skirt"
+        },
+        {
+          "title": "裤子",
+          "cate": "trouser"
+        }
+      ],
+      "nextPage": 1
+    },
+    "keywords": {
+      "context": {
+        "currentTime": 1538014774
+      },
+      "isEnd": true,
+      "list": [
+        {
+          "acm": "3.mce.2_10_185r2.5868.0.ccy5br4OlfK1Y.pos_0-m_190323-sd_119",
+          "is_red": "1",
+          "words": "连衣裙"
+        },
+        {
+          "acm": "3.mce.2_10_185r4.5868.0.ccy5br4OlfK1Z.pos_1-m_190324-sd_119",
+          "is_red": "0",
+          "words": "小白鞋"
+        },
+        {
+          "acm": "3.mce.2_10_185r6.5868.0.ccy5br4OlfK10.pos_2-m_190325-sd_119",
+          "is_red": "1",
+          "words": "省心套装"
+        },
+        {
+          "acm": "3.mce.2_10_185r8.5868.0.ccy5br4OlfK11.pos_3-m_190326-sd_119",
+          "is_red": "0",
+          "words": "碎花连衣裙"
+        },
+        {
+          "acm": "3.mce.2_10_185ra.5868.0.ccy5br4OlfK12.pos_4-m_190327-sd_119",
+          "is_red": "1",
+          "words": "明星同款"
+        },
+        {
+          "acm": "3.mce.2_10_185rc.5868.0.ccy5br4OlfK13.pos_5-m_190328-sd_119",
+          "is_red": "1",
+          "words": "高跟鞋"
+        },
+        {
+          "acm": "3.mce.2_10_185re.5868.0.ccy5br4OlfK14.pos_6-m_190329-sd_119",
+          "is_red": "0",
+          "words": "美妆"
+        },
+        {
+          "acm": "3.mce.2_10_185rg.5868.0.ccy5br4OlfK15.pos_7-m_190330-sd_119",
+          "is_red": "1",
+          "words": "墨镜"
+        }
+      ],
+      "nextPage": 1
+    },
+    "recommend": {
+      "context": {
+        "currentTime": 1538014774
+      },
+      "isEnd": true,
+      "list": [
+        {
+          "acm": "3.mce.2_10_1dggc.13730.0.ccy5br4OlfK0U.pos_0-m_313898-sd_119",
+          "image": "https://s10.mogucdn.com/mlcdn/c45406/180913_036dli57aah85cb82l1jj722g887g_225x225.png",
+          "link": "http://act.meilishuo.com/10dianlingquan?acm=3.mce.2_10_1dggc.13730.0.ccy5br4OlfK0U.pos_0-m_313898-sd_119",
+          "sort": 1,
+          "title": "十点抢券"
+        },
+        {
+          "acm": "3.mce.2_10_1dgge.13730.0.ccy5br4OlfK0V.pos_1-m_313899-sd_119",
+          "image": "https://s10.mogucdn.com/mlcdn/c45406/180913_25e804lk773hdk695c60cai492111_225x225.png",
+          "link": "https://act.mogujie.com/tejiazhuanmai09?acm=3.mce.2_10_1dgge.13730.0.ccy5br4OlfK0V.pos_1-m_313899-sd_119",
+          "sort": 2,
+          "title": "好物特卖"
+        },
+        {
+          "acm": "3.mce.2_10_1b610.13730.0.ccy5br4OlfK0W.pos_2-m_260486-sd_119",
+          "image": "https://s10.mogucdn.com/mlcdn/c45406/180913_387kgl3j21ff29lh04181iek48a6h_225x225.png",
+          "link": "http://act.meilishuo.com/neigouful001?acm=3.mce.2_10_1b610.13730.0.ccy5br4OlfK0W.pos_2-m_260486-sd_119",
+          "sort": 3,
+          "title": "内购福利"
+        },
+        {
+          "acm": "3.mce.2_10_1dggg.13730.0.ccy5br4OlfK0X.pos_3-m_313900-sd_119",
+          "image": "https://s10.mogucdn.com/mlcdn/c45406/180913_8d4e5adi8llg7c47lgh2291akiec7_225x225.png",
+          "link": "http://act.meilishuo.com/wap/yxzc1?acm=3.mce.2_10_1dggg.13730.0.ccy5br4OlfK0X.pos_3-m_313900-sd_119",
+          "sort": 4,
+          "title": "初秋上新"
+        }
+      ],
+      "nextPage": 1
+    }
+  },
+  "returnCode": "SUCCESS",
+  "success": true
+}

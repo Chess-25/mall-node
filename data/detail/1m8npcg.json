@@ -1,0 +1,460 @@
+{
+  "iid": "1m8npcg",
+  "result": {
+    "columns": [
+      "销量 130",
+      "收藏7人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "秋装女2018新款韩版套装复古文艺气质早秋季长袖网纱两件套连衣裙",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180917_449dla10k9c477d5k6hiad83hgi92_790x712.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180917_4jea019883gdlig4hbiie49fifh6l_790x1085.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180917_3iei40b2efigh3al5efa3hidia066_790x921.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180917_3lgbbga7c71cbcb9ajij5k1djlicg_790x1112.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180917_6ed472ce1ck67lh8b6aejce0lhbl8_790x823.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180917_2hbaeca5h8cc2ld55afb7b9ie5bjf_790x969.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180917_5d8e274aaij6j21h70h1k5f6i4a04_790x914.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180917_1b285h00i2hh0ba7lebh9l8147g55_790x948.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180917_2175e8207dej9igidb62b8jd9d2fc_790x928.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180917_2fka453c02c438d56g3bi71bgg2f1_790x927.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180917_02gec23ihihkcedk6753ld8389fl6_790x703.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180917_23a8959j64kjh8cchd9deh2e8hdg0_790x1036.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180917_5eeii350k7jbfk5kj3afdd5b3kl0k_790x1133.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180917_5242gfcbek0074763360eh583k29j_790x1023.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "秋装女2018新款韩版套装复古文艺气质早秋季长袖网纱两件套连衣裙",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "94.99",
+        "sendAddress": ""
+      },
+      "highNowPrice": "135.71",
+      "highPrice": "135.71",
+      "iid": "1m8npcg",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m8npcg&userId=17amov8&shopId=1172u2c8",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "135.71",
+      "lowPrice": "135.71",
+      "price": "¥135.71",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172u2c8",
+      "state": 0,
+      "tags": "",
+      "title": "秋装女2018新款韩版套装复古文艺气质早秋季长袖网纱两件套连衣裙",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180917_63e9efdjf1k1h4l2a7039fe1fj631_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180917_1ab5572cah25hd1klgh81d6gaa4jh_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180917_0kfh8l9726ff87ikie9i894jgl7ld_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180917_57lg0e2e1agjl2d09a3607429h97e_640x960.jpg"
+      ],
+      "userId": "17amov8"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "自然/风景"
+          },
+          {
+            "key": "厚薄",
+            "value": "薄款"
+          },
+          {
+            "key": "厂名",
+            "value": "杰瑞斯服装厂"
+          },
+          {
+            "key": "颜色",
+            "value": "红色衬衣+网纱裙,绿色衬衣+裤子"
+          },
+          {
+            "key": "袖型",
+            "value": "其他袖型"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "浙江省嘉兴市秀洲区昌盛北路77号"
+          },
+          {
+            "key": "材质",
+            "value": "棉麻"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "元素",
+            "value": "面料拼接"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "甜美"
+          },
+          {
+            "key": "潮流",
+            "value": "中式"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "档长",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "大腿围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "臀围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "裤长",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "裤口",
+              "-",
+              "-",
+              "-",
+              "-"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 1,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "收到衣服了，很好看，很合身！穿着舒服！",
+          "created": 1538046142,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116d5084",
+          "style": "颜色:红色衬衣+网纱裙 尺码:S ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_0l1ff9kf2hbc32fe4a2g05l77d89d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "wx_hqdc3o2ebhjeq"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172u2c8",
+      "cFans": 314,
+      "cGoods": 519,
+      "cSells": 59083,
+      "isMarked": false,
+      "level": 5,
+      "name": "娇人小公主",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.75
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.76
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172u2c8",
+      "shopLogo": "//s5.mogucdn.com/pic/141211/1agxqe_ieygmodbmiztmzrqmuytambqmmyde_120x120.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172u2c8",
+      "type": 2,
+      "userId": "17amov8"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥135.71",
+      "isAbroad": false,
+      "priceRange": "¥135.71",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "红色衬衣+网纱裙",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "绿色衬衣+裤子",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_4gc1f416d529ibk2hg3ffb3i03fa2_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 2570,
+          "stockId": "116zl4ku",
+          "style": "红色衬衣+网纱裙",
+          "styleId": 1,
+          "xdSkuId": "116zl4ku"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_4gc1f416d529ibk2hg3ffb3i03fa2_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 2603,
+          "stockId": "116zl4kw",
+          "style": "红色衬衣+网纱裙",
+          "styleId": 1,
+          "xdSkuId": "116zl4kw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_4gc1f416d529ibk2hg3ffb3i03fa2_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 2790,
+          "stockId": "116zl4ky",
+          "style": "红色衬衣+网纱裙",
+          "styleId": 1,
+          "xdSkuId": "116zl4ky"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_4gc1f416d529ibk2hg3ffb3i03fa2_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 2879,
+          "stockId": "116zl4l0",
+          "style": "红色衬衣+网纱裙",
+          "styleId": 1,
+          "xdSkuId": "116zl4l0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_5akalj9703je2d17ie6f0049l6920_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 2779,
+          "stockId": "116zl4l2",
+          "style": "绿色衬衣+裤子",
+          "styleId": 2,
+          "xdSkuId": "116zl4l2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_5akalj9703je2d17ie6f0049l6920_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 2796,
+          "stockId": "116zl4l4",
+          "style": "绿色衬衣+裤子",
+          "styleId": 2,
+          "xdSkuId": "116zl4l4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_5akalj9703je2d17ie6f0049l6920_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 2872,
+          "stockId": "116zl4l6",
+          "style": "绿色衬衣+裤子",
+          "styleId": 2,
+          "xdSkuId": "116zl4l6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180917_5akalj9703je2d17ie6f0049l6920_800x800.jpg",
+          "nowprice": 13571,
+          "price": 13571,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 2921,
+          "stockId": "116zl4l8",
+          "style": "绿色衬衣+裤子",
+          "styleId": 2,
+          "xdSkuId": "116zl4l8"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "秋装女2018新款韩版套装复古文艺气质早秋季长袖网纱两件套连衣裙",
+      "totalStock": 22210
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

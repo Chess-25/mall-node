@@ -1,0 +1,572 @@
+{
+  "iid": "1lsyu2o",
+  "result": {
+    "columns": [
+      "销量 240",
+      "收藏310人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "与大多数M51式风衣一样，宽松的版型，抽绳收腰的设计，但是这一款hin有特点哦。门襟做了撞色织带的处理，让风衣看起来不那么单调，门襟拉链的设计，方便穿脱，从做工到质感都给你一种与众不同的感觉，版型上身很帅气，出游工作都可以穿哦。PS:香芋紫，是粉色哦",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180331_10k8e588fhaf57eckf579kiigc7e3_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180311_7i3li4k233328di770d2f12adjf21_640x959.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180311_8d840l45l438kg60e32l92230j51d_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180331_43kd8jcc99fakbka6a1f44j72edl3_640x990.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180331_59j60eadaic0cag1bkf86b8ld14j9_640x777.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180331_5fl23chdgkl13a05gcal19h2ii730_640x777.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180331_73b4i5jk311d0440e8d74lg9i76l9_640x617.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180323_7al19e8j46k589j7g7di88gg19al5_750x723.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180331_152bkjdi0j2f130058i7a64566l8d_640x777.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180331_6afc004acg7356ij91c7eg34l65d2_640x777.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180331_0lgd0f4gk9a6ai50b820i96lf885e_640x640.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180331_0i1c1bej42d7ldf3l1lkf19ei9j4b_640x961.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "与大多数M51式风衣一样，宽松的版型，抽绳收腰的设计，但是这一款hin有特点哦。门襟做了撞色织带的处理，让风衣看起来不那么单调，门襟拉链的设计，方便穿脱，从做工到质感都给你一种与众不同的感觉，版型上身很帅气，出游工作都可以穿哦。PS:香芋紫，是粉色哦",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "188.00",
+      "highPrice": "268.58",
+      "iid": "1lsyu2o",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1lsyu2o&userId=1i7jgi&shopId=14oqk",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "68.99",
+      "lowPrice": "98.57",
+      "oldPrice": "¥98.57",
+      "price": "¥68.99~¥188.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14oqk",
+      "state": 0,
+      "tags": "",
+      "title": "2018新款韩版时尚百搭立领拼色双口袋外套+紧身破洞牛仔长裤省心两件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180331_589833f1jglh8adkkaij5jg50db37_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180311_5j6ia5079dkgf8g6l2l08cbh0193k_640x959.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180311_3lichb6dfdikg9e216a554fe71a81_640x961.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180311_7bcbe0eelgibab3j933e6bigf832k_640x961.jpg"
+      ],
+      "userId": "1i7jgi",
+      "video": {
+        "cover": "//s11.mogucdn.com/mlcdn/c45406/180318_7gihidk1f51jk1j59el7j9c5hlk60_640x960.jpg",
+        "videoId": 478327
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州诺拉服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,香芋紫色,两件套,牛仔裤"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "春季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州白云区沙太路奥邦轮胎市场二期北区B栋21号"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "甜美"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "胸围",
+              "152",
+              "156",
+              "160"
+            ],
+            [
+              "袖长",
+              "33.5",
+              "34",
+              "34.5"
+            ],
+            [
+              "肩宽",
+              "76",
+              "78",
+              "80"
+            ],
+            [
+              "衣长",
+              "76",
+              "77",
+              "78"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14oqk",
+      "list": [
+        "满199元减10元",
+        "满299元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 101,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "这套衣服昨天下午收到的，做工还不错，质量还不错，上身效果好，布料舒服，比较喜欢，值得购买，摸着挺顺滑的，态度挺好，版型不错，简单有型，上衣修身，可以遮住小肚腩，大赞",
+          "created": 1522642307,
+          "explain": "[商家回复]:  感谢亲对我们产品的厚爱与认可，亲的每一个好评都是对我们坚持的鼓励，亲的每一个建议都为我们的前进指明了方向.如果亲收到货对我们的商品有不满意的地方或需要改进的地方，可以及时与我们售后反馈情况。这样我们能够及时改进，才能够提高更好的服务质量同时也能让亲收到更多更好的优质商品宝贝。请您放心，我们将通过不懈的努力将宝贝做得更好，将服务做得更好；一切只为您满意！（【衣衣不舍公馆】全体团队祝亲和您的家人生活愉快，事事顺心，工作顺利！欢迎您再次光临小店。么么哒）感谢亲对我们产品的厚爱与认可，亲的每一个好评都是对我们坚持的鼓励，亲的每一个建议都为我们的前进指明了方向.如果亲收到货对我们的商品有不满意的地方或需要改进的地方，可以及时与我们售后反馈情况。这样我们能够及时改进，才能够提高更好的服务质量同时也能让亲收到更多更好的优质商品宝贝。请您放心，我们将通过不懈的努力将宝贝做得更好，将服务做得更好；一切只为您满意！（【衣衣不舍公馆】全体团队祝亲和您的家人生活愉快，事事顺心，工作顺利！欢迎您再次光临小店。么么哒感谢亲对我们产品的厚爱与认可，亲的每一个好评都是对我们坚持的鼓励，亲的每一个建议都为我们的前进指明了方向.如果亲收到货对我们的商品有不满意的地方或需要改进的地方，可以及时与我们售后反馈情况。这样我们能够及时改进，才能够提高更好的服务质量同时也能让亲收到更多更好的优质商品宝贝。请您放心，我们将通过不懈的努力将宝贝做得更好，将服务做得更好；一切只为您满意！（【衣衣不舍公馆】全体团队祝亲和您的家人生活愉快，事事顺心，工作顺利！欢迎您再次光临小店。么么哒）感谢亲对我们产品的厚爱与认可，亲的每一个好评都是对我们坚持的鼓励，亲的每一个建议都为我们的前进指明了方向.如果亲收到货对我们的商品有不满意的地方或需要改进的地方，可以及时与我们售后反馈情况。这样我们能够及时改进，才能够提高更好的服务质量同时也能让亲收到更多更好的优质商品宝贝。请您放心，我们将通过不懈的努力将宝贝做得更好，将服务做得更好；一切只为您满意！（【衣衣不舍公馆】全体团队祝亲和您的家人生活愉快，事事顺心，工作顺利！欢迎您再次光临小店。么么哒",
+          "extraInfo": [
+            "体重:49 kg",
+            "是否合身:合身",
+            "身高:162 cm"
+          ],
+          "images": [
+            "//s11.mogucdn.com/mlcdn/c45406/180402_7k8a6ffbb8hijcd1ja5fle65g4ecc_1080x810.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1146c57i",
+          "style": "颜色:两件套 尺码:M ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "wanglianfang"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14oqk",
+      "cFans": 341883,
+      "cGoods": 546,
+      "cSells": 814406,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=51235",
+          "name": "时尚美裙 "
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=51239",
+          "name": "省心套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=51243",
+          "name": "上衣区"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=51245",
+          "name": "T恤区"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=1451326",
+          "name": "年终清仓区"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20076106",
+          "name": "早秋针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20113654",
+          "name": "秋冬季外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20126841",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20135856",
+          "name": "棉衣/棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20159218",
+          "name": "下装专区"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20175185",
+          "name": "夏日新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20222879",
+          "name": "秋冬季新款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14oqk/list/index?categoryId=20258841",
+          "name": "99元任选2件"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "韩国站衣衣不舍公馆",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.52
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.51
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14oqk",
+      "shopLogo": "//s11.mogucdn.com/p1/160308/93rph_ie4ggzbzgu4teyzsg4zdambqgiyde_425x425.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14oqk",
+      "type": 1,
+      "userId": "1i7jgi"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥68.99~¥188.00",
+      "isAbroad": false,
+      "priceRange": "¥68.99~¥188.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "两件套",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "牛仔裤",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "香芋紫色",
+              "styleId": 4,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180331_1980f4li69l3be776lcj983360c9l_640x961.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 496,
+          "stockId": "110ail98",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "110ail98"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180331_1980f4li69l3be776lcj983360c9l_640x961.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 496,
+          "stockId": "110ail9a",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "110ail9a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180331_1980f4li69l3be776lcj983360c9l_640x961.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 495,
+          "stockId": "110ailvk",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "110ailvk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180311_5g3h4akl8a4f3b5dl19678174dg8d_640x959.jpg",
+          "nowprice": 18800,
+          "price": 26858,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 488,
+          "stockId": "110ailvm",
+          "style": "两件套",
+          "styleId": 2,
+          "xdSkuId": "110ailvm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180311_5g3h4akl8a4f3b5dl19678174dg8d_640x959.jpg",
+          "nowprice": 18800,
+          "price": 26858,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 480,
+          "stockId": "110ailvo",
+          "style": "两件套",
+          "styleId": 2,
+          "xdSkuId": "110ailvo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180311_5g3h4akl8a4f3b5dl19678174dg8d_640x959.jpg",
+          "nowprice": 18800,
+          "price": 26858,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 482,
+          "stockId": "110ailvq",
+          "style": "两件套",
+          "styleId": 2,
+          "xdSkuId": "110ailvq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180331_69eh8160gh7ak75d3h6g32d60k7a8_640x960.jpg",
+          "nowprice": 6899,
+          "price": 9857,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 492,
+          "stockId": "110ailvs",
+          "style": "牛仔裤",
+          "styleId": 3,
+          "xdSkuId": "110ailvs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180331_69eh8160gh7ak75d3h6g32d60k7a8_640x960.jpg",
+          "nowprice": 6899,
+          "price": 9857,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 431,
+          "stockId": "110ailvu",
+          "style": "牛仔裤",
+          "styleId": 3,
+          "xdSkuId": "110ailvu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180331_69eh8160gh7ak75d3h6g32d60k7a8_640x960.jpg",
+          "nowprice": 6899,
+          "price": 9857,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 458,
+          "stockId": "110ailvw",
+          "style": "牛仔裤",
+          "styleId": 3,
+          "xdSkuId": "110ailvw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180311_691cjei902dlca073hei19ll6c55i_640x959.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 468,
+          "stockId": "110ailvy",
+          "style": "香芋紫色",
+          "styleId": 4,
+          "xdSkuId": "110ailvy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180311_691cjei902dlca073hei19ll6c55i_640x959.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 449,
+          "stockId": "110ailw2",
+          "style": "香芋紫色",
+          "styleId": 4,
+          "xdSkuId": "110ailw2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180311_691cjei902dlca073hei19ll6c55i_640x959.jpg",
+          "nowprice": 13800,
+          "price": 19715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 464,
+          "stockId": "110ailw0",
+          "style": "香芋紫色",
+          "styleId": 4,
+          "xdSkuId": "110ailw0"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018新款韩版时尚百搭立领拼色双口袋外套+紧身破洞牛仔长裤省心两件套",
+      "totalStock": 5699
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

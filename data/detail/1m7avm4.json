@@ -1,0 +1,429 @@
+{
+  "iid": "1m7avm4",
+  "result": {
+    "columns": [
+      "销量 253",
+      "收藏9人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款韩版时尚修身显瘦针织打底衫+宽松哈伦裤格纹高腰花苞九分裤两件套装",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180816_72kg30b3k1894dal5hfg346gdgg5c_750x877.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180816_8bf8e256a63829hgh43k4iki50lai_750x790.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180816_49al7ieb9824l08ed75k90i4gfa63_750x572.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180816_43de679h6j42jb1h76ljh4i42h09b_750x1028.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180816_5dea611kf5cched5fik2c01h19a85_750x898.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180816_52775ll0b1g5l1j5d3fgb63efjb7k_750x1013.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180816_8h25i6949g1e62ak304ghj1lb0iib_750x971.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180816_3j9ehf9iee3l0del1f1e779572je8_750x835.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180816_28c8k40eekbj85695biie6cec0ca3_750x968.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180816_3l4ik7ih0dg73af86kjf1f1a069c0_750x786.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季新款韩版时尚修身显瘦针织打底衫+宽松哈伦裤格纹高腰花苞九分裤两件套装",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "换季促销",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "82.00",
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "108.50",
+      "highPrice": "155.00",
+      "iid": "1m7avm4",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7avm4&userId=1aolgz8&shopId=1172uydm",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "89.00",
+      "lowPrice": "127.15",
+      "oldPrice": "¥127.15",
+      "price": "¥89.00~¥108.50",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172uydm",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩版时尚修身显瘦针织打底衫+宽松哈伦裤格纹高腰花苞九分裤两件套装",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180816_801kh3fbc248b2gc2a0dge3h41b6h_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180816_048c4l9igkhj111heif60j1ed9lgj_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180816_4khb4g6g43bhiag0fk34hhkac7bgh_640x960.jpg"
+      ],
+      "userId": "1aolgz8"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "永红服饰"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "颜色",
+            "value": "灰色裤子,黑色上衣+灰色裤子"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市海珠区"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "裤长",
+              "90",
+              "91",
+              "92"
+            ],
+            [
+              "腰围",
+              "66",
+              "70",
+              "74"
+            ],
+            [
+              "臀围",
+              "88",
+              "92",
+              "96"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172uydm",
+      "list": [
+        "满99元减3元",
+        "满199元减6元",
+        "满299元减15元"
+      ]
+    },
+    "rate": {
+      "cRate": 60,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服收到了，迫不及待的打开了，穿上感觉效果不错，挺有立体感，质量价位都很满意，满意的一次网购，下次还来你家",
+          "created": 1537743590,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116bpuii",
+          "style": "颜色:黑色上衣+灰色裤子 尺码:S ",
+          "user": {
+            "avatar": "//s5.mogucdn.com/p2/161214/103488673_8da6lhkf9a5h32ei6bd297523c35d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "不离不弃之情"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172uydm",
+      "cFans": 7612,
+      "cGoods": 391,
+      "cSells": 13618,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304305",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304306",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304307",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304308",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304309",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304314",
+          "name": "衣裤套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304315",
+          "name": "衣裙套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uydm/list/index?categoryId=20304346",
+          "name": "牛仔裤"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "阁阁靓衣坊",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.73
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.74
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172uydm",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180310_65i851h5b4bclbgik208j6f5a89ak_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172uydm",
+      "type": 1,
+      "userId": "1aolgz8"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥89.00~¥108.50",
+      "isAbroad": false,
+      "priceRange": "¥89.00~¥108.50",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色上衣+灰色裤子",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "灰色裤子",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180816_082a83gddd18k951d0ee0lk7aj09d_750x1013.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 946,
+          "stockId": "116hgwcq",
+          "style": "黑色上衣+灰色裤子",
+          "styleId": 1,
+          "xdSkuId": "116hgwcq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180816_082a83gddd18k951d0ee0lk7aj09d_750x1013.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 916,
+          "stockId": "116hgwcs",
+          "style": "黑色上衣+灰色裤子",
+          "styleId": 1,
+          "xdSkuId": "116hgwcs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180816_082a83gddd18k951d0ee0lk7aj09d_750x1013.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 930,
+          "stockId": "116hgwcu",
+          "style": "黑色上衣+灰色裤子",
+          "styleId": 1,
+          "xdSkuId": "116hgwcu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180816_33kgg254f22ke347cif36ckb4al95_750x898.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 986,
+          "stockId": "116hgwcw",
+          "style": "灰色裤子",
+          "styleId": 2,
+          "xdSkuId": "116hgwcw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180816_33kgg254f22ke347cif36ckb4al95_750x898.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 987,
+          "stockId": "116hgwcy",
+          "style": "灰色裤子",
+          "styleId": 2,
+          "xdSkuId": "116hgwcy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180816_33kgg254f22ke347cif36ckb4al95_750x898.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 991,
+          "stockId": "116hgwd0",
+          "style": "灰色裤子",
+          "styleId": 2,
+          "xdSkuId": "116hgwd0"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩版时尚修身显瘦针织打底衫+宽松哈伦裤格纹高腰花苞九分裤两件套装",
+      "totalStock": 5756
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

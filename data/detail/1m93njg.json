@@ -1,0 +1,550 @@
+{
+  "iid": "1m93njg",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款高腰纯色修身显瘦莫代尔打底裤小脚裤铅笔裤女裤子潮  2018早秋新款超火假两件加绒卫衣女装 韩版宽松chic长袖上衣潮ins",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_574kf1b993lj509lci92bd79kj062_800x799.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_8711h2312982all9jdfk6i9dfljlg_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_73h6d59d32h65e85ee0ag2d07k1gd_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_3008h1f4hbcje7kgkbd1a5i68fdai_750x804.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6hbe2hf8eded048ci4b34ab20kaa1_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_6202cclajh3c5kle4hhf065k50a3b_750x826.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3l9flb167319eeik0fb2185jk61e9_800x1200.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季新款高腰纯色修身显瘦莫代尔打底裤小脚裤铅笔裤女裤子潮  2018早秋新款超火假两件加绒卫衣女装 韩版宽松chic长袖上衣潮ins",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "热卖促销",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "129.00",
+      "highPrice": "184.29",
+      "iid": "1m93njg",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m93njg&userId=12eglys&shopId=14pb2",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "69.00",
+      "lowPrice": "98.58",
+      "oldPrice": "¥98.58",
+      "price": "¥69.00~¥129.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14pb2",
+      "state": 0,
+      "tags": "",
+      "title": "2018春秋女时尚套装新款韩版假两件加绒卫衣外套女修身显瘦打底裤小脚铅笔裤女两件套潮",
+      "topImages": [
+        "//s3.mogucdn.com/mlcdn/c45406/180927_29jf2f6e96i0lfk4gl2jgb0kc6746_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_2lg4ljdde5c6adcfc5f439lb24bjk_800x800.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180927_2kk43681dh0e8gjbk8dfb7210i6le_750x826.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_12b9fb8472b7h9ac0cka7cgjd7laa_800x799.jpg"
+      ],
+      "userId": "12eglys"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市宇度轩贸易有限公司"
+          },
+          {
+            "key": "季节",
+            "value": "秋冬"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色裤子,玫红色假两件卫衣,黑色假两件卫衣,黑色假两件卫衣+黑色裤子套装"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市天河区天平架天平商业广场B座339室"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "大腿围",
+              "43",
+              "45",
+              "47"
+            ],
+            [
+              "腰围",
+              "122",
+              "126",
+              "130"
+            ],
+            [
+              "臀围",
+              "78",
+              "80",
+              "82"
+            ],
+            [
+              "袖长",
+              "51",
+              "52",
+              "53"
+            ],
+            [
+              "裤长",
+              "87",
+              "88",
+              "89"
+            ],
+            [
+              "肩宽",
+              "65",
+              "66",
+              "67"
+            ],
+            [
+              "衣长",
+              "71",
+              "72",
+              "73"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14pb2",
+      "list": [
+        "满199元减2元",
+        "满2件减3元",
+        "满259元减5元",
+        "满299元减10元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14pb2",
+      "cFans": 82082,
+      "cGoods": 387,
+      "cSells": 328573,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47103",
+          "name": "连体裤/牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47105",
+          "name": "T恤/衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47106",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47107",
+          "name": "棉衣/棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47108",
+          "name": "卫衣/棒球服"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47109",
+          "name": "风衣/皮衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47110",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47111",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=47114",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=64847",
+          "name": "皮草"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=1369808",
+          "name": "羽绒服"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=1457039",
+          "name": "蕾丝衫/雪纺衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=1534686",
+          "name": "50元任选2件"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=20051900",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14pb2/list/index?categoryId=20122774",
+          "name": "马甲"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "天天韩国时尚公馆",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.53
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.57
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14pb2",
+      "shopLogo": "//s5.mogucdn.com/mlcdn/c45406/170504_0106ji0bh4162368lh6ckjgb147l5_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14pb2",
+      "type": 1,
+      "userId": "12eglys"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥69.00~¥129.00",
+      "isAbroad": false,
+      "priceRange": "¥69.00~¥129.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色假两件卫衣",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "玫红色假两件卫衣",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "黑色裤子",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "黑色假两件卫衣+黑色裤子套装",
+              "styleId": 4,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_8a3f37k96cka4lj5721i7c0gb9f62_800x800.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "1175lviu",
+          "style": "黑色假两件卫衣",
+          "styleId": 1,
+          "xdSkuId": "1175lviu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_8a3f37k96cka4lj5721i7c0gb9f62_800x800.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "1175lvis",
+          "style": "黑色假两件卫衣",
+          "styleId": 1,
+          "xdSkuId": "1175lvis"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_8a3f37k96cka4lj5721i7c0gb9f62_800x800.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "1175lviw",
+          "style": "黑色假两件卫衣",
+          "styleId": 1,
+          "xdSkuId": "1175lviw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_43b2i9c22d59e2hafgd76dal1332j_800x800.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "1175lviy",
+          "style": "玫红色假两件卫衣",
+          "styleId": 2,
+          "xdSkuId": "1175lviy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_43b2i9c22d59e2hafgd76dal1332j_800x800.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "1175lvj2",
+          "style": "玫红色假两件卫衣",
+          "styleId": 2,
+          "xdSkuId": "1175lvj2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_43b2i9c22d59e2hafgd76dal1332j_800x800.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "1175lvj0",
+          "style": "玫红色假两件卫衣",
+          "styleId": 2,
+          "xdSkuId": "1175lvj0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_6fh0jdb93399298if6dci246ea910_800x800.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "1175lvj4",
+          "style": "黑色裤子",
+          "styleId": 3,
+          "xdSkuId": "1175lvj4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_6fh0jdb93399298if6dci246ea910_800x800.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "1175lvj6",
+          "style": "黑色裤子",
+          "styleId": 3,
+          "xdSkuId": "1175lvj6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_6fh0jdb93399298if6dci246ea910_800x800.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "1175lvj8",
+          "style": "黑色裤子",
+          "styleId": 3,
+          "xdSkuId": "1175lvj8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1892296ei4aad1dlfl9eb0f0kg29b_640x960.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1000,
+          "stockId": "1175lvja",
+          "style": "黑色假两件卫衣+黑色裤子套装",
+          "styleId": 4,
+          "xdSkuId": "1175lvja"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1892296ei4aad1dlfl9eb0f0kg29b_640x960.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1000,
+          "stockId": "1175lvjc",
+          "style": "黑色假两件卫衣+黑色裤子套装",
+          "styleId": 4,
+          "xdSkuId": "1175lvjc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_1892296ei4aad1dlfl9eb0f0kg29b_640x960.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1000,
+          "stockId": "1175lvje",
+          "style": "黑色假两件卫衣+黑色裤子套装",
+          "styleId": 4,
+          "xdSkuId": "1175lvje"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018春秋女时尚套装新款韩版假两件加绒卫衣外套女修身显瘦打底裤小脚铅笔裤女两件套潮",
+      "totalStock": 12000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

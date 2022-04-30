@@ -1,0 +1,402 @@
+{
+  "iid": "1m92pwe",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋冬新款气质优雅仙女款温柔风高腰收腰显瘦木耳边V领大裙摆淑女针织长袖中长裙连衣裙女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_239i0c3lechi5j01f284di3i2c3eb_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_3013bfh9ab23jhb5hffibikc80i4i_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_5i222eg527i88636kel9fgeekh5bf_874x834.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3b3bejj166if45llha5kiifcd757d_865x728.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3lc4l8alle4ki3gcigk9lfg709c85_845x813.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3a0bj39da4g6i07gjahkfh70kbc09_906x785.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_4b43ci1jl580h29l6a156896697kc_878x830.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_248fa9g439fldh0bdb12l9hadhdg8_903x811.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_255ki7lkk0j4k070dlfije4l9j685_867x803.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_24dl5d23l5je02k4j395f6ke678d1_845x813.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6ij45kacdi4g27fl1bg249kld2646_934x828.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3c4eiikha9d0ibi544khjla7flfj9_1028x779.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_40j2bgbc94jdi2hi0217khhkcege5_914x789.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_345e64kl7h1e47782ff0kkbg7hc47_890x795.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_1d64ha0jj242cl2cafalk4a26b20b_897x786.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #704# #705#",
+      "desc": "2018秋冬新款气质优雅仙女款温柔风高腰收腰显瘦木耳边V领大裙摆淑女针织长袖中长裙连衣裙女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "247.50",
+      "highPrice": "247.50",
+      "iid": "1m92pwe",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92pwe&userId=145ffzi&shopId=1pugu2",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "247.50",
+      "lowPrice": "247.50",
+      "price": "¥247.50",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1pugu2",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋冬新款气质优雅仙女款温柔风高腰收腰显瘦木耳边V领大裙摆淑女针织长袖中长裙连衣裙女",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_19a3j35hc9c1ak9ddgfl0f4ag79i9_640x960.jpg"
+      ],
+      "userId": "145ffzi"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厂名",
+            "value": "深圳市艾语露服饰有限公司"
+          },
+          {
+            "key": "裙型",
+            "value": "A字裙"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,杏色,红色"
+          },
+          {
+            "key": "开衩",
+            "value": "无开衩"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "衣门襟",
+            "value": "套头"
+          },
+          {
+            "key": "摆型",
+            "value": "荷叶"
+          },
+          {
+            "key": "腰型",
+            "value": "高腰"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "版型",
+            "value": "收腰"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市天河区沙河大街南三巷14-3-102室"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "组合形式",
+            "value": "单件"
+          },
+          {
+            "key": "领型",
+            "value": "V领"
+          },
+          {
+            "key": "元素",
+            "value": "系带,木耳边"
+          },
+          {
+            "key": "裙长",
+            "value": "中长裙（106-125cm）"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "淑女"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "号型",
+              "无号型"
+            ],
+            [
+              "裙长",
+              "116"
+            ],
+            [
+              "肩宽",
+              "-"
+            ],
+            [
+              "腰围",
+              "-"
+            ],
+            [
+              "胸围",
+              "74"
+            ],
+            [
+              "臀围",
+              "-"
+            ],
+            [
+              "袖长",
+              "79"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1pugu2",
+      "list": [
+        "满99元减5元",
+        "满169元减10元",
+        "满279元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1pugu2",
+      "cFans": 13089,
+      "cGoods": 296,
+      "cSells": 81345,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1pugu2/list/index?categoryId=20119184",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pugu2/list/index?categoryId=20119185",
+          "name": "连衣/半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pugu2/list/index?categoryId=20119187",
+          "name": "衬衫/T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pugu2/list/index?categoryId=20119193",
+          "name": "显瘦裤子榜HOT"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pugu2/list/index?categoryId=20196235",
+          "name": "特惠清仓"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pugu2/list/index?categoryId=20226495",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pugu2/list/index?categoryId=20226866",
+          "name": "针织衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "朋朋品牌店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.74
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.74
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1pugu2",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/170718_888g269k258b43h0jce3f9g1bi4j0_200x200.png",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1pugu2",
+      "type": 1,
+      "userId": "145ffzi"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥247.50",
+      "isAbroad": false,
+      "priceRange": "¥247.50",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "红色",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "杏色",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_29728b03d230f512da2kchi30ag1l_800x800.jpg",
+          "nowprice": 24750,
+          "price": 24750,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11758zi2",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "11758zi2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_840dc8b5e9ic7d305cd188314e2ll_800x800.jpg",
+          "nowprice": 24750,
+          "price": 24750,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11758zi0",
+          "style": "红色",
+          "styleId": 2,
+          "xdSkuId": "11758zi0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_6li40lf65di5d2783j2685gfhd39c_800x800.jpg",
+          "nowprice": 24750,
+          "price": 24750,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "11758zi4",
+          "style": "杏色",
+          "styleId": 3,
+          "xdSkuId": "11758zi4"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋冬新款气质优雅仙女款温柔风高腰收腰显瘦木耳边V领大裙摆淑女针织长袖中长裙连衣裙女",
+      "totalStock": 1500
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

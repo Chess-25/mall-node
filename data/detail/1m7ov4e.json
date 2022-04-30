@@ -1,0 +1,446 @@
+{
+  "iid": "1m7ov4e",
+  "result": {
+    "columns": [
+      "销量 253",
+      "收藏4人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "秋装新款百搭长袖短款系带上衣高腰阔腿长裤两件套港风时尚套装女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180826_0e84640177583ghh8f8g7h9i4jfd0_750x322.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_4cgajbag5eib58bebj0ebaj66b0k6_784x836.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180825_81a3k658bl4f82j56g16jhkha9jgk_800x843.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180825_30f993763g1127d2bd58h06g38b9i_800x852.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_6fh1g3djj8cgh12d5015b9egbj6gg_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_4g89k8fg6e4ch49k1f9g30l6b7h7c_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_518f9ichg60dgl258dcaih0642e97_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180825_43hdlia444i4da68g1j8ag8761761_800x601.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180825_12j7al41ija6dh6dhja1f1hl4ljhi_800x865.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_821650jb9df9kbg23550h711kg87a_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180825_7bckg91ddbl1ia7bgh07a5k5dfch2_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_43jb5ah0fhbdd2ifffhkf1ae9ekhd_800x843.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_1j80i59ic99gbc8j9hlk3bl66agf3_768x844.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180825_7gc5dgd7i96cd7k2544f1h0c52a8b_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_1d1jjg04gfhej944h3039l3g2lakf_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180825_40fjc75jl0kkeaic5lbk2253b0653_800x843.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_22e8bhljccagejd90ea7l7ib69927_800x843.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180825_10h3g0ad221clklki3jfcjaf0jd5c_800x832.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180825_15j9g8eek1j0da626443g7kcb45d6_800x843.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_4i22396da1hc52365kecjbj41993g_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180825_211hlfj81e414fg6154d206aljfjc_800x800.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "秋装新款百搭长袖短款系带上衣高腰阔腿长裤两件套港风时尚套装女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "新品促销",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "84.90",
+      "highPrice": "121.41",
+      "iid": "1m7ov4e",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7ov4e&userId=17241gu&shopId=1172uio4",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "84.90",
+      "lowPrice": "121.41",
+      "oldPrice": "¥121.41",
+      "price": "¥84.90",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172uio4",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款女装百搭长袖短款系带上衣高腰阔腿长裤两件套港风时尚套装女",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180825_73ag50193g1edf3d90al9hl3i9g55_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180825_607da6aaf8abh60fi3c1jghlik6g4_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180825_7f60kfj88f4a6hdjkfdeajj1174kg_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180825_5dhk700ica9a2k27cebf39k97e2lj_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180825_284ihda0ci08adc83j7fecj1g425h_640x960.jpg"
+      ],
+      "userId": "17241gu",
+      "video": {
+        "cover": "//s5.mogucdn.com/mlcdn/c45406/180907_15gh4ga3ljgjibab95i7bailae71k_800x1200.jpg",
+        "videoId": 819987
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "人物"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "湖北嘉宇商贸有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,蓝色"
+          },
+          {
+            "key": "袖型",
+            "value": "蝙蝠袖"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "衣长",
+            "value": "超短款（30-40cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市白云区太和镇大源村南坑街自编小区1栋"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "海军领"
+          },
+          {
+            "key": "元素",
+            "value": "激光裁边"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "复古"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "胸围",
+              "-"
+            ],
+            [
+              "腰围",
+              "-"
+            ],
+            [
+              "臀围",
+              "-"
+            ],
+            [
+              "裙长",
+              "-"
+            ],
+            [
+              "袖长",
+              "59"
+            ],
+            [
+              "裤长",
+              "91"
+            ],
+            [
+              "肩宽",
+              "-"
+            ],
+            [
+              "衣长",
+              "39"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172uio4",
+      "list": [
+        "满99元减5元"
+      ]
+    },
+    "rate": {
+      "cRate": 36,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "穿上很显气质的一套衣服  价格也不贵 抱着试试看的心态买的 没想到还挺意外 很大气  很喜欢 希望卖家一如既往的做好品质的衣服 会常来哒",
+          "created": 1535974066,
+          "images": [
+            "//s11.mogucdn.com/mlcdn/c45406/180903_74j864f4i99k81fd40clg2760c4k5_1242x1656.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180903_1gb9fclae25k4i3kej30273bi6414_1242x1656.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180903_42e0gai5je3373ld24a3363j1d546_1242x1656.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1163gili",
+          "style": "颜色:黑色 尺码:均码 ",
+          "user": {
+            "avatar": "//s5.mogucdn.com/p2/161214/103488673_8da6lhkf9a5h32ei6bd297523c35d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "Warmth201202"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172uio4",
+      "cFans": 4756,
+      "cGoods": 500,
+      "cSells": 30960,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20249308",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20249309",
+          "name": "雪纺衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20249310",
+          "name": "风衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20249311",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20256267",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20300456",
+          "name": "上衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20300457",
+          "name": "下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20300458",
+          "name": "短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20300459",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20300460",
+          "name": "衬衫/衬衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20300461",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20325831",
+          "name": "汉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20325832",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20325833",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20333003",
+          "name": "6月上旬新品！"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20336148",
+          "name": "7月份新品!"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20339501",
+          "name": "8月新品早秋新款~"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20341879",
+          "name": "针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172uio4/list/index?categoryId=20342735",
+          "name": "9月秋季新款~"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "MOLI风范",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.66
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.64
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        }
+      ],
+      "shopId": "1172uio4",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/170921_656l2119bfc9601k3f971g483d8hg_400x400.png",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172uio4",
+      "type": 1,
+      "userId": "17241gu"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥84.90",
+      "isAbroad": false,
+      "priceRange": "¥84.90",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "蓝色",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180825_529595ced00fa2dekbfbb2baj7da2_800x800.jpg",
+          "nowprice": 8490,
+          "price": 12141,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 982,
+          "stockId": "116m5a38",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "116m5a38"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180825_23fkh19a03klcab9gff7g1bhe2fdc_800x800.jpg",
+          "nowprice": 8490,
+          "price": 12141,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 978,
+          "stockId": "116m5a36",
+          "style": "蓝色",
+          "styleId": 2,
+          "xdSkuId": "116m5a36"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款女装百搭长袖短款系带上衣高腰阔腿长裤两件套港风时尚套装女",
+      "totalStock": 1960
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,705 @@
+{
+  "iid": "1m70gvq",
+  "result": {
+    "columns": [
+      "销量 497",
+      "收藏45人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "时髦姑凉的衣橱里不能缺少的美装！拥有与生俱来的潮流视觉感，精致美观。修身的样式不仅能突出身体线条，材质也足够舒适。不过于沉寂也不过于扎眼，炒鸡百搭，保证亲肤的同时，带给你舒适的穿着体验。修身的裁剪，更能让你显瘦！显瘦！显瘦！",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180808_25c955jk439lh007ggbaa7fjbc26c_750x937.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_0413hdhh3l6l0876ecc8dfgbj46e5_750x730.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_3b1k4ffe9f6i469ek664bcjgk23fc_750x755.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180808_00fef845j3i25e1g83a7l0ke91140_750x810.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_1h38087fc414g12ch5b1dbh32c2b2_750x1017.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_686dd5a8l5i05d98ch4d76e75bhaf_750x987.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_6dff574bl5g92ie60gl9a3fjk186f_750x1032.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_292glf2l4h2laebaab44808la450h_750x1019.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180808_599b877jf6318l84djl85f1lkgla0_750x563.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_4761fl7hhgg77d1bf17069g821241_750x833.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_84dd6i7c86eb7ii2k705iibhg2bdh_750x1041.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_8703a2f791c9lbeea8aih327clff4_750x1018.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180808_0ebieik12a9cg558jc7ka9a90k84f_750x928.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_589d2a7lj12dl2cdlbcf96a1b89k5_750x987.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_2085l10dbc10d3kdg474lj94a4idc_750x928.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_2hglffc4hi03f7lgf95bd1477ck19_750x939.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_20j5l5gfg7e3765iehcf4fc162che_750x971.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_46c0dgie673c76a5ig69993ja4c8c_750x956.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_33gdle34de3lj8589lki1a39hdga3_750x563.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_5j73187cai8d48937bl305fch8412_750x643.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180808_844693g02lj7gj5853elbbk959el0_750x1091.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180808_1eg5f1f3gllfe3lg3f0jeek4l3lfc_750x683.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180808_2j19c8ee6c8f893la7943d9kba4kk_750x1000.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "service_info",
+          "desc": "",
+          "key": "服务说明",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180808_8ek006a6j065482ablfe40af05c48_640x960.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "时髦姑凉的衣橱里不能缺少的美装！拥有与生俱来的潮流视觉感，精致美观。修身的样式不仅能突出身体线条，材质也足够舒适。不过于沉寂也不过于扎眼，炒鸡百搭，保证亲肤的同时，带给你舒适的穿着体验。修身的裁剪，更能让你显瘦！显瘦！显瘦！",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "店铺促销",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "108.50",
+      "highPrice": "155.00",
+      "iid": "1m70gvq",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m70gvq&userId=130rr3s&shopId=1in30",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "59.50",
+      "lowPrice": "85.00",
+      "oldPrice": "¥85.00",
+      "price": "¥59.50~¥108.50",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1in30",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋装新款港风连帽印花拼接卫衣女学生上衣+休闲运动裤束脚裤裤子套装两件套女",
+      "topImages": [
+        "//s3.mogucdn.com/mlcdn/c45406/180808_7436hke74ciflah0jfjeiec7ic398_640x850.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180808_30f5b6klhi11b9hk54gg743242g10_640x850.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180808_31jg7flc2599e5fa68c9112fl3533_640x850.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180808_22ff1jhe92hl3dk71egdll8jh4683_640x850.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180808_8ej79h5g3ka6kf7ai6e2j6952a5j7_640x850.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180808_41ka2k4behla19i7d87e1c6f20b9j_640x850.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180808_5eljd54a1i6ff6aelj2d0e59h67hi_640x850.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180808_67da512j80ebk3g0219lh188f9g1i_640x850.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180808_7a47likec60eck4kg91gajb1gh1gk_640x850.jpg"
+      ],
+      "userId": "130rr3s"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厚薄",
+            "value": "薄款"
+          },
+          {
+            "key": "厂名",
+            "value": "啦斯服饰"
+          },
+          {
+            "key": "颜色",
+            "value": "红色卫衣+白色休闲裤,白色休闲裤,黑色卫衣+白色休闲裤,红色卫衣,黑色卫衣"
+          },
+          {
+            "key": "袖型",
+            "value": "插肩袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市海珠区龙潭村西环西街之一巷13号"
+          },
+          {
+            "key": "材质",
+            "value": "聚酯纤维"
+          },
+          {
+            "key": "领型",
+            "value": "连帽"
+          },
+          {
+            "key": "元素",
+            "value": "松紧,抽绳,撞色/拼色"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "轻熟"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "注：（单位：cm）由于测量方法不同，可能会有1-3厘米的误差，不同显示 器 显示效果都不尽相同，拍摄中灯光照摄，实物颜色均比照片稍深，敬请留意!! 深色衣服请分开洗涤，避免染色！！部分胶粘装饰图案或是特殊工艺的宝贝，机洗可能会产生开胶现象，建议亲们手洗！",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "胸围",
+              "108",
+              "112",
+              "116",
+              "120"
+            ],
+            [
+              "腰围",
+              "松紧",
+              "松紧",
+              "松紧",
+              "松紧"
+            ],
+            [
+              "裤长",
+              "90",
+              "90",
+              "91",
+              "91"
+            ],
+            [
+              "肩宽",
+              "宽松",
+              "宽松",
+              "宽松",
+              "宽松"
+            ],
+            [
+              "衣长",
+              "62",
+              "62",
+              "62",
+              "62"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1in30",
+      "list": [
+        "满2件减5元",
+        "满3件减8元"
+      ]
+    },
+    "rate": {
+      "cRate": 96,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服很好、穿着合适，透气、质量也不错！五星好评！",
+          "created": 1535516462,
+          "explain": "[商家回复]:  感谢小仙女百忙之中抽空出来给我们一个评价，很高兴您满意我们家的宝贝，愿风吹起如花般破碎的流年，而你的笑容摇晃摇晃，步伐轻跃跳动，成为我宝途中最美的点缀，表白美美哒小仙女~您的肯定就是对我们最大的支持和鼓励，您的建议也时刻指引着我们向更高的标准前进，为了达到你们的更高要求，我们时刻不断的改正自己，不断的完善自己，这也是对我们可爱的小仙女最大的回报。我们时刻会记得你们对我们的支持，希望你也记得我在时刻期待你的再次光临~交易虽然结束，但服务才刚开始，虽然我们不能万分肯定宝贝百分百不出问题，但我们会保证百分百解决问题!我们会用100%的诚心，100%的服务换取您200%的满意，温暖知己在，蓝颜难觅。我一直在这里等你。^-^不断的寻寻觅觅，似水流年，且行且记且珍惜，愿每一件美好的宝贝都会有你的身影，因为这是一生中美好的瞬间，很美，我们相遇更美。褪尽风华，我依然在这里等你。^-^也希望能得到小仙女您的继续关注哦",
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1161aewi",
+          "style": "颜色:红色卫衣 尺码:L ",
+          "user": {
+            "avatar": "//s5.mogucdn.com/p2/161214/103488673_8da6lhkf9a5h32ei6bd297523c35d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "霞姐666688"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1in30",
+      "cFans": 31085,
+      "cGoods": 381,
+      "cSells": 173910,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=93679",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=1446219",
+          "name": "长裤/九分裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=20049576",
+          "name": "T恤/针织衫/打底"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=20071355",
+          "name": "外套/风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=20168035",
+          "name": "半身裙/连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=20168036",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=20168037",
+          "name": "长裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=20175008",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1in30/list/index?categoryId=20269400",
+          "name": "焕新专区"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "NO WAY",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.66
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.63
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1in30",
+      "shopLogo": "//s11.mogucdn.com/b7/pic/150317/1idvj4_ie2gkzbrmmytezdgmyytambqgiyde_320x320.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1in30",
+      "type": 1,
+      "userId": "130rr3s"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥59.50~¥108.50",
+      "isAbroad": false,
+      "priceRange": "¥59.50~¥108.50",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "红色卫衣+白色休闲裤",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "黑色卫衣+白色休闲裤",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "红色卫衣",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "黑色卫衣",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "白色休闲裤",
+              "styleId": 5,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_1f4afbi9074bkb3d96a47kl4bhldk_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 101,
+          "stockId": "116dqrx2",
+          "style": "红色卫衣+白色休闲裤",
+          "styleId": 1,
+          "xdSkuId": "116dqrx2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_1f4afbi9074bkb3d96a47kl4bhldk_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 87,
+          "stockId": "116dqrx4",
+          "style": "红色卫衣+白色休闲裤",
+          "styleId": 1,
+          "xdSkuId": "116dqrx4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_1f4afbi9074bkb3d96a47kl4bhldk_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 93,
+          "stockId": "116dqrx8",
+          "style": "红色卫衣+白色休闲裤",
+          "styleId": 1,
+          "xdSkuId": "116dqrx8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_1f4afbi9074bkb3d96a47kl4bhldk_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 116,
+          "stockId": "116dqrx6",
+          "style": "红色卫衣+白色休闲裤",
+          "styleId": 1,
+          "xdSkuId": "116dqrx6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_62jlegb8keefibkl7j2igkl66h01k_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 136,
+          "stockId": "116dqrxa",
+          "style": "黑色卫衣+白色休闲裤",
+          "styleId": 2,
+          "xdSkuId": "116dqrxa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_62jlegb8keefibkl7j2igkl66h01k_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 128,
+          "stockId": "116dqrxc",
+          "style": "黑色卫衣+白色休闲裤",
+          "styleId": 2,
+          "xdSkuId": "116dqrxc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_62jlegb8keefibkl7j2igkl66h01k_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 129,
+          "stockId": "116dqrxe",
+          "style": "黑色卫衣+白色休闲裤",
+          "styleId": 2,
+          "xdSkuId": "116dqrxe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180808_62jlegb8keefibkl7j2igkl66h01k_640x850.jpg",
+          "nowprice": 10850,
+          "price": 15500,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 139,
+          "stockId": "116dqrxg",
+          "style": "黑色卫衣+白色休闲裤",
+          "styleId": 2,
+          "xdSkuId": "116dqrxg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_15b5ke21kge50k0i0dika4f0dek5e_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 123,
+          "stockId": "116dqrxi",
+          "style": "红色卫衣",
+          "styleId": 3,
+          "xdSkuId": "116dqrxi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_15b5ke21kge50k0i0dika4f0dek5e_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 119,
+          "stockId": "116dqs34",
+          "style": "红色卫衣",
+          "styleId": 3,
+          "xdSkuId": "116dqs34"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_15b5ke21kge50k0i0dika4f0dek5e_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 120,
+          "stockId": "116dqs36",
+          "style": "红色卫衣",
+          "styleId": 3,
+          "xdSkuId": "116dqs36"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_15b5ke21kge50k0i0dika4f0dek5e_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 135,
+          "stockId": "116dqs38",
+          "style": "红色卫衣",
+          "styleId": 3,
+          "xdSkuId": "116dqs38"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_0ll257bhfj8a46ddb5891ka835a6c_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 45,
+          "stockId": "116dqs3a",
+          "style": "黑色卫衣",
+          "styleId": 4,
+          "xdSkuId": "116dqs3a"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_0ll257bhfj8a46ddb5891ka835a6c_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 40,
+          "stockId": "116dqs3c",
+          "style": "黑色卫衣",
+          "styleId": 4,
+          "xdSkuId": "116dqs3c"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_0ll257bhfj8a46ddb5891ka835a6c_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 36,
+          "stockId": "116dqs3e",
+          "style": "黑色卫衣",
+          "styleId": 4,
+          "xdSkuId": "116dqs3e"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_0ll257bhfj8a46ddb5891ka835a6c_640x850.jpg",
+          "nowprice": 5950,
+          "price": 8500,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 41,
+          "stockId": "116dqs3g",
+          "style": "黑色卫衣",
+          "styleId": 4,
+          "xdSkuId": "116dqs3g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_2dee0j0e6i63c7ll3lgkbcgg7fljc_640x850.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 42,
+          "stockId": "116dqs3i",
+          "style": "白色休闲裤",
+          "styleId": 5,
+          "xdSkuId": "116dqs3i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_2dee0j0e6i63c7ll3lgkbcgg7fljc_640x850.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 36,
+          "stockId": "116dqs3k",
+          "style": "白色休闲裤",
+          "styleId": 5,
+          "xdSkuId": "116dqs3k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_2dee0j0e6i63c7ll3lgkbcgg7fljc_640x850.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 45,
+          "stockId": "116dqs3m",
+          "style": "白色休闲裤",
+          "styleId": 5,
+          "xdSkuId": "116dqs3m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180808_2dee0j0e6i63c7ll3lgkbcgg7fljc_640x850.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 43,
+          "stockId": "116dqs3o",
+          "style": "白色休闲裤",
+          "styleId": 5,
+          "xdSkuId": "116dqs3o"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋装新款港风连帽印花拼接卫衣女学生上衣+休闲运动裤束脚裤裤子套装两件套女",
+      "totalStock": 1754
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "iid": "1m937wi",
+  "result": {
+    "columns": [
+      "销量 2",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "四海八荒，感谢仙女的大驾光临【1】厂商直销批发价，诚信店放心购，现货供应！【2】本店默认中通快递，如要发其它快递联系客服（温馨提示：新疆不发货）！【3】本店支持七天无理由退换，并送运费险，售后无忧！【4】每一件到达小仙女手上的衣服，都是经过我们的三重人工检查，减少瑕疵，品质保证！【收藏店铺】好礼相送，不定期的优惠活动持续上新！",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180927_19656b88ka2lj09ba306hh26l7l03_750x326.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6f3ej7a8e6k007h434l3fifh7227c_750x879.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_5213l0jjahjf6fgj079068hh3e79h_750x997.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_8gk7ic123d3lgd86jb4kdbjg1ce6a_750x797.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_3590kkagg79cb06id8f3id6d824ia_750x901.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_5cidejd71j19a2a1afai0468ge4ke_750x793.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_01i45jbb299i31iifhe2jc03cdkag_691x980.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_0dh20dba2c23flh48agd1b8gbe2cf_750x801.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_34h80db0a46k864jka45ekf20c03d_750x992.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_470idj07b1kah7j2d38e47hhl6hig_707x980.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_2fibdgkca5bglk9ah2ahc47bad974_674x980.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_43jhaaa7dck459b2k9cccj3hc9d88_691x980.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_8g06a0ckf2g3dk5af3d8kb2gh2ibl_686x980.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "四海八荒，感谢仙女的大驾光临【1】厂商直销批发价，诚信店放心购，现货供应！【2】本店默认中通快递，如要发其它快递联系客服（温馨提示：新疆不发货）！【3】本店支持七天无理由退换，并送运费险，售后无忧！【4】每一件到达小仙女手上的衣服，都是经过我们的三重人工检查，减少瑕疵，品质保证！【收藏店铺】好礼相送，不定期的优惠活动持续上新！",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "110.90",
+      "highPrice": "110.90",
+      "iid": "1m937wi",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m937wi&userId=1brncwm&shopId=1172vula",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "110.90",
+      "lowPrice": "110.90",
+      "price": "¥110.90",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172vula",
+      "state": 0,
+      "tags": "",
+      "title": "7902  2018秋冬新款女装小清新港味复古毛衣裙子两件套装",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180927_0014egk2c0kg4l0b8g0ajj514792a_720x996.jpg"
+      ],
+      "userId": "1brncwm"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "蓝色"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市白云区棠景街道棠溪路大围牛岗咀二街"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "中长款（66-80cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "裤长",
+              "0",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172vula",
+      "list": [
+        "无条件减5元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172vula",
+      "cFans": 241,
+      "cGoods": 454,
+      "cSells": 5130,
+      "isMarked": false,
+      "level": 5,
+      "name": "韩云魅尚专卖店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 5.0
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172vula",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180903_4a2a6e4a939ia04cfle6lb1dk46dd_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172vula",
+      "type": 2,
+      "userId": "1brncwm"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥110.90",
+      "isAbroad": false,
+      "priceRange": "¥110.90",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "蓝色",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_2488gkfb28i22bh1ejijbeg33c062_720x996.jpg",
+          "nowprice": 11090,
+          "price": 11090,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 498,
+          "stockId": "1175g3yo",
+          "style": "蓝色",
+          "styleId": 1,
+          "xdSkuId": "1175g3yo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_2488gkfb28i22bh1ejijbeg33c062_720x996.jpg",
+          "nowprice": 11090,
+          "price": 11090,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "1175g3yq",
+          "style": "蓝色",
+          "styleId": 1,
+          "xdSkuId": "1175g3yq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_2488gkfb28i22bh1ejijbeg33c062_720x996.jpg",
+          "nowprice": 11090,
+          "price": 11090,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "1175g3ys",
+          "style": "蓝色",
+          "styleId": 1,
+          "xdSkuId": "1175g3ys"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_2488gkfb28i22bh1ejijbeg33c062_720x996.jpg",
+          "nowprice": 11090,
+          "price": 11090,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 500,
+          "stockId": "1175g3yu",
+          "style": "蓝色",
+          "styleId": 1,
+          "xdSkuId": "1175g3yu"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "四海八荒，感谢仙女的大驾光临【1】厂商直销批发价，诚信店放心购，现货供应！【2】本店默认中通快递，如要发其它快递联系客服（温馨提示：新疆不发货）！【3】本店支持七天无理由退换，并送运费险，售后无忧！【4】每一件到达小仙女手上的衣服，都是经过我们的三重人工检查，减少瑕疵，品质保证！【收藏店铺】好礼相送，不定期的优惠活动持续上新！",
+      "totalStock": 1998
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

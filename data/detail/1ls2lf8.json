@@ -1,0 +1,563 @@
+{
+  "iid": "1ls2lf8",
+  "result": {
+    "columns": [
+      "销量 2193",
+      "收藏477人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "时尚套装2018春季新款牛仔短款外套时尚外套气质上衣女+高腰显瘦直筒大口袋牛仔裤两件套",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180302_3873i716kfjl019i04k043b5b1k6a_750x626.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180302_0af6gk556ffbki5k972b5ba1hd743_750x1235.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_0ld9db1d6b93a73bk52g98l9geekh_750x935.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_8c96kagb9fl2b545ca3f9d54glll5_750x1037.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_12hld64gfj49e2kh39i92304146bi_750x897.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180302_38042cb1k7d7ib6ajkd3d8hgab584_750x1027.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180302_0ahdei2kljf5g7ga3j9fe4c0ibbjc_750x1025.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_8d76gbl0252ide42gld5bl4226b06_750x1025.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180302_7355ag973kc2e125e2f74l0l9cl3d_750x821.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180302_1khce0g649ef59c5ij1d98l6he4d6_750x772.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180302_4ic5hb8l8g8h57i57bble5ej3e069_750x802.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "时尚套装2018春季新款牛仔短款外套时尚外套气质上衣女+高腰显瘦直筒大口袋牛仔裤两件套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "118.00",
+      "highPrice": "168.58",
+      "iid": "1ls2lf8",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1ls2lf8&userId=19rc1im&shopId=1172utse",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "49.00",
+      "lowPrice": "70.00",
+      "oldPrice": "¥70.00",
+      "price": "¥49.00~¥118.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172utse",
+      "state": 0,
+      "tags": "",
+      "title": "时尚套装2018春季新款牛仔短款外套时尚外套气质上衣女+高腰显瘦直筒大口袋牛仔裤两件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180302_5e2jjb9cfkkfbkcb2hd8j02eef478_640x960.jpg"
+      ],
+      "userId": "19rc1im"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州小蛮腰服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "浅蓝色上衣,牛仔裤,浅蓝色上衣+牛仔裤两件套"
+          },
+          {
+            "key": "季节",
+            "value": "春季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州海珠区昌岗路石桥大街6后之2"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "甜美"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "短款（41-50cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "腰围",
+              "66",
+              "70",
+              "74",
+              "78"
+            ],
+            [
+              "臀围",
+              "94",
+              "97",
+              "100",
+              "103"
+            ],
+            [
+              "袖长",
+              "48",
+              "48",
+              "49",
+              "50"
+            ],
+            [
+              "裤长",
+              "90",
+              "91",
+              "92",
+              "93"
+            ],
+            [
+              "衣长",
+              "42",
+              "42",
+              "43",
+              "43"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 384,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "看上的衣服都会买到手的，中间退换过一次，客服服务超好，耐心告诉我怎么操作，还打电话跟我说，很细心的。衣服穿上超级显瘦，同学都说好看。满意，图是晚上俯拍的，明天再补图",
+          "created": 1521647476,
+          "extraInfo": [
+            "体重:52 kg",
+            "是否合身:合身",
+            "身高:155 cm"
+          ],
+          "images": [
+            "//s5.mogucdn.com/mlcdn/c45406/180321_2ch1cf8f035d555bkk05di9k4cce5_1080x1438.jpg"
+          ],
+          "isAnonymous": 0,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "113y9sem",
+          "style": "颜色:牛仔裤 尺码:M ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_527fecjlbb7f05fihi1aggde73jb8_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "S***t"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172utse",
+      "cFans": 7387,
+      "cGoods": 382,
+      "cSells": 67832,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20332123",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20332124",
+          "name": "牛仔裤专区"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20332125",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20332126",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20332127",
+          "name": "防晒衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20332128",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20333405",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20333514",
+          "name": "背心"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20339000",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20339001",
+          "name": "牛仔外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20339002",
+          "name": "针织衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20341814",
+          "name": "风衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20344651",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172utse/list/index?categoryId=20344653",
+          "name": "毛衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "韩雅衣淘",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.71
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.71
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172utse",
+      "shopLogo": "//s5.mogucdn.com/mlcdn/c45406/171122_18j5ece37g95dkgllf5329jjha9ie_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172utse",
+      "type": 1,
+      "userId": "19rc1im"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥49.00~¥118.00",
+      "isAbroad": false,
+      "priceRange": "¥49.00~¥118.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "浅蓝色上衣",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "牛仔裤",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "浅蓝色上衣+牛仔裤两件套",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_2c975a761h7lie5123ik527chjde8_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11286,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 177,
+          "stockId": "1zxa6jy",
+          "style": "浅蓝色上衣",
+          "styleId": 1,
+          "xdSkuId": "1zxa6jy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_2c975a761h7lie5123ik527chjde8_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11286,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 186,
+          "stockId": "1zxa6k0",
+          "style": "浅蓝色上衣",
+          "styleId": 1,
+          "xdSkuId": "1zxa6k0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_2c975a761h7lie5123ik527chjde8_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11286,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 190,
+          "stockId": "1zxa6k2",
+          "style": "浅蓝色上衣",
+          "styleId": 1,
+          "xdSkuId": "1zxa6k2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_2c975a761h7lie5123ik527chjde8_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11286,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 194,
+          "stockId": "1zxa6k4",
+          "style": "浅蓝色上衣",
+          "styleId": 1,
+          "xdSkuId": "1zxa6k4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180302_85897kclgdh5aiaa56d0c5ffeli60_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 105,
+          "stockId": "1zxa6k6",
+          "style": "牛仔裤",
+          "styleId": 2,
+          "xdSkuId": "1zxa6k6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180302_85897kclgdh5aiaa56d0c5ffeli60_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 140,
+          "stockId": "1zxa6k8",
+          "style": "牛仔裤",
+          "styleId": 2,
+          "xdSkuId": "1zxa6k8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180302_85897kclgdh5aiaa56d0c5ffeli60_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 143,
+          "stockId": "1zxa6ka",
+          "style": "牛仔裤",
+          "styleId": 2,
+          "xdSkuId": "1zxa6ka"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180302_85897kclgdh5aiaa56d0c5ffeli60_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 151,
+          "stockId": "1zxa6kc",
+          "style": "牛仔裤",
+          "styleId": 2,
+          "xdSkuId": "1zxa6kc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_0jbh7k80adi5b73k29b5l659c0ib9_640x960.jpg",
+          "nowprice": 11800,
+          "price": 16858,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 147,
+          "stockId": "1zxa6ke",
+          "style": "浅蓝色上衣+牛仔裤两件套",
+          "styleId": 3,
+          "xdSkuId": "1zxa6ke"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_0jbh7k80adi5b73k29b5l659c0ib9_640x960.jpg",
+          "nowprice": 11800,
+          "price": 16858,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 152,
+          "stockId": "1zxa6kg",
+          "style": "浅蓝色上衣+牛仔裤两件套",
+          "styleId": 3,
+          "xdSkuId": "1zxa6kg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_0jbh7k80adi5b73k29b5l659c0ib9_640x960.jpg",
+          "nowprice": 11800,
+          "price": 16858,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 186,
+          "stockId": "1zxa6ki",
+          "style": "浅蓝色上衣+牛仔裤两件套",
+          "styleId": 3,
+          "xdSkuId": "1zxa6ki"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180302_0jbh7k80adi5b73k29b5l659c0ib9_640x960.jpg",
+          "nowprice": 11800,
+          "price": 16858,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 186,
+          "stockId": "1zxa6kk",
+          "style": "浅蓝色上衣+牛仔裤两件套",
+          "styleId": 3,
+          "xdSkuId": "1zxa6kk"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "时尚套装2018春季新款牛仔短款外套时尚外套气质上衣女+高腰显瘦直筒大口袋牛仔裤两件套",
+      "totalStock": 1957
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "iid": "1m92ycu",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋冬新款气质网红滕雨佳温柔淑女温婉风收腰莫代尔拼接圆领腰部系带针织V领连衣裙女",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180927_11lihhd038j344adfkd6b04de991i_958x710.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_7gk9kf93e40e0i2e5d6ia3a7ha627_822x787.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_6jfa4ba1h82gek4f2bkdc90hd18e9_801x804.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_21fibf0gjb97gh5ali18h743df50d_877x815.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_3d421g0i0681lgce0b04i22ajc3e5_896x817.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_1j5jjf4fkj8e20h40k23fff080e1f_896x817.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_8ce14ikgifedh1j1hde90chh42cj6_835x727.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_24k887lfe5d21698k3ka1ikbb6kbh_881x780.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_56i1be39ia776h5df4859g8l1dh29_795x736.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_7jfd7ljd1h8j656ddi1hd7f07cbl0_773x763.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_8197l8f7cf1b27h3beai1hajiid46_834x757.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_1l08163lbaf52l92ib0lcce4fc3f7_783x822.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_6ege9f6kdl6c3bcg47709ha2gk80j_737x765.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #704# #705#",
+      "desc": "2018秋冬新款气质网红滕雨佳温柔淑女温婉风收腰莫代尔拼接圆领腰部系带针织V领连衣裙女",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "472.50",
+      "highPrice": "472.50",
+      "iid": "1m92ycu",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m92ycu&userId=1a195wm&shopId=1172vupg",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "472.50",
+      "lowPrice": "472.50",
+      "price": "¥472.50",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1172vupg",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋冬新款气质网红滕雨佳温柔淑女温婉风收腰莫代尔拼接圆领腰部系带针织V领连衣裙女",
+      "topImages": [
+        "//s3.mogucdn.com/mlcdn/c45406/180927_85c2ii80i8hfkibh8ljf9i5ijli63_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180927_4j1gfcdak64935679geaddba445ci_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_5khd8ga559977dgi9j4cla7272ldc_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_1535ebgh65ecdh8ba128b9c9jf5e2_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_5bcb0adel79gka5ij9lcje3j8d77a_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_7j865clffb58kjf8289bdcah2beb1_640x960.jpg"
+      ],
+      "userId": "1a195wm"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厂名",
+            "value": "深圳市艾语露服饰有限公司"
+          },
+          {
+            "key": "裙型",
+            "value": "A字裙"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,米灰色"
+          },
+          {
+            "key": "开衩",
+            "value": "无开衩"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "衣门襟",
+            "value": "套头"
+          },
+          {
+            "key": "摆型",
+            "value": "常规"
+          },
+          {
+            "key": "腰型",
+            "value": "高腰"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "版型",
+            "value": "收腰"
+          },
+          {
+            "key": "季节",
+            "value": "秋冬"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市天河区沙河大街南三巷14-3-102室"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "组合形式",
+            "value": "单件"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "元素",
+            "value": "系带"
+          },
+          {
+            "key": "裙长",
+            "value": "中长裙（106-125cm）"
+          },
+          {
+            "key": "袖长",
+            "value": "短袖"
+          },
+          {
+            "key": "风格",
+            "value": "甜美"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "裙长",
+              "104",
+              "108",
+              "112"
+            ],
+            [
+              "肩宽",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "腰围",
+              "84",
+              "88",
+              "92"
+            ],
+            [
+              "胸围",
+              "92",
+              "96",
+              "100"
+            ],
+            [
+              "臀围",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "袖长",
+              "24",
+              "25",
+              "26"
+            ],
+            [
+              "号型",
+              "无号型",
+              "无号型",
+              "无号型"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1172vupg",
+      "list": [
+        "满99元减5元",
+        "满169元减10元",
+        "满279元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1172vupg",
+      "cFans": 5,
+      "cGoods": 55,
+      "cSells": 0,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1172vupg/list/index?categoryId=20346038",
+          "name": "每日新品"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupg/list/index?categoryId=20346040",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupg/list/index?categoryId=20346041",
+          "name": "甜美裙装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupg/list/index?categoryId=20346042",
+          "name": "百搭上衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupg/list/index?categoryId=20346043",
+          "name": "洋气下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1172vupg/list/index?categoryId=20346044",
+          "name": "休闲外套"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "安沐家",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 5.0
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1172vupg",
+      "shopLogo": "//s11.mogucdn.com/mlcdn/c45406/180927_6k7adci2gb0bf9j2adc2ck0lj1i42_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1172vupg",
+      "type": 1,
+      "userId": "1a195wm"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥472.50",
+      "isAbroad": false,
+      "priceRange": "¥472.50",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "米灰色",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_2ia1j3dj1lhf066k5f783g5ab425a_773x763.jpg",
+          "nowprice": 47250,
+          "price": 47250,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "1175cedi",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175cedi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_2ia1j3dj1lhf066k5f783g5ab425a_773x763.jpg",
+          "nowprice": 47250,
+          "price": 47250,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "1175cedk",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175cedk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180927_2ia1j3dj1lhf066k5f783g5ab425a_773x763.jpg",
+          "nowprice": 47250,
+          "price": 47250,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "1175cedm",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175cedm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_4b00c4ce0kc0d36h9ba258g0f27k3_877x815.jpg",
+          "nowprice": 47250,
+          "price": 47250,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 500,
+          "stockId": "1175cedo",
+          "style": "米灰色",
+          "styleId": 2,
+          "xdSkuId": "1175cedo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_4b00c4ce0kc0d36h9ba258g0f27k3_877x815.jpg",
+          "nowprice": 47250,
+          "price": 47250,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 500,
+          "stockId": "1175cedq",
+          "style": "米灰色",
+          "styleId": 2,
+          "xdSkuId": "1175cedq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180927_4b00c4ce0kc0d36h9ba258g0f27k3_877x815.jpg",
+          "nowprice": 47250,
+          "price": 47250,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 500,
+          "stockId": "1175ceds",
+          "style": "米灰色",
+          "styleId": 2,
+          "xdSkuId": "1175ceds"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋冬新款气质网红滕雨佳温柔淑女温婉风收腰莫代尔拼接圆领腰部系带针织V领连衣裙女",
+      "totalStock": 3000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

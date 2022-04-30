@@ -1,0 +1,534 @@
+{
+  "iid": "1m6xq0q",
+  "result": {
+    "columns": [
+      "销量 1004",
+      "收藏81人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018秋季新款韩版宽松Polo领基础黑白条纹长袖上衣女学院风高腰显瘦破洞修身九分裤两件套",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180806_08ak8ca7d0a078264kbfhhibdk0b6_798x1197.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180806_044hcg3e889l0k5c7j5kc6fc7ghb5_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180806_5bcbf77iigi4k6022kd9eb5a967jl_750x801.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180806_067keh5fh5hgdh540k7ig80319k88_750x820.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180806_09ijlk251h4690hf6jcd29917c45j_750x908.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180806_1iig80l9db07ig525b24bd1d15dbk_750x947.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180806_68025c6f3a6h2g2kb6666gb3lhek2_640x960.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018秋季新款韩版宽松Polo领基础黑白条纹长袖上衣女学院风高腰显瘦破洞修身九分裤两件套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "广东省广州市"
+      },
+      "highNowPrice": "129.00",
+      "highPrice": "184.29",
+      "iid": "1m6xq0q",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m6xq0q&userId=1335w1m&shopId=1cp5kk",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "69.00",
+      "lowPrice": "98.58",
+      "oldPrice": "¥98.58",
+      "price": "¥69.00~¥129.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1cp5kk",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款韩版宽松Polo领基础黑白条纹长袖上衣女学院风高腰显瘦破洞修身九分裤两件套",
+      "topImages": [
+        "//s5.mogucdn.com/mlcdn/c45406/180806_1ail66gcj227cjfb3eh3fddh2de63_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180806_62ali19b54479g939bad6i5ck36kj_800x800.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180806_71kgd1i8l8bf1e14d8bi7i8g1c40h_750x820.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180806_00f9gd953k09kjlak4h5j026cbc5e_750x908.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180806_56f69daffc9e95c6lkck9047kd24i_798x1197.jpg"
+      ],
+      "userId": "1335w1m",
+      "video": {
+        "cover": "//s11.mogucdn.com/mlcdn/c45406/180822_45gdh247flk50dikhe82ef9c2c63e_640x960.jpg",
+        "videoId": 789932
+      }
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州风彩贸易有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "上衣,套装,裤子"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市天河区沙太南路银利茶叶城E栋1042"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "胸围",
+              "110",
+              "114",
+              "118"
+            ],
+            [
+              "腰围",
+              "64",
+              "68",
+              "72"
+            ],
+            [
+              "裤长",
+              "87",
+              "88",
+              "89"
+            ],
+            [
+              "肩宽",
+              "50",
+              "51",
+              "52"
+            ],
+            [
+              "衣长",
+              "57",
+              "58",
+              "59"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1cp5kk",
+      "list": [
+        "满2件减3元",
+        "满3件减5元",
+        "满4件减8元",
+        "满5件减10元"
+      ]
+    },
+    "rate": {
+      "cRate": 88,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "面料柔软舒适，穿上很显身材呢😄大小合适，颜色很正和图片一样，价格实惠，好评(o^^o)",
+          "created": 1536238893,
+          "extraInfo": [
+            "体重:60 kg",
+            "是否合身:合身",
+            "身高:160 cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1164q50m",
+          "style": "颜色:裤子 尺码:L ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "weixin_8zctmzqej136l"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1cp5kk",
+      "cFans": 98577,
+      "cGoods": 339,
+      "cSells": 384791,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=85062",
+          "name": "T恤/衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=85065",
+          "name": "半身裙/短裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=85066",
+          "name": "休闲裤/打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=87811",
+          "name": "雪纺衫/蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=87820",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=87878",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=91034",
+          "name": "吊带/背心"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=114122",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=114123",
+          "name": "短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=134459",
+          "name": "外套/风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=134465",
+          "name": "防嗮衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=152761",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=165931",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=174689",
+          "name": "棒球衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=1295038",
+          "name": "棉衣/棉服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=1324066",
+          "name": "满119任选2件"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=1367954",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1cp5kk/list/index?categoryId=20117850",
+          "name": "羽绒服"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "艾芳女装屋",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.66
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.65
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1cp5kk",
+      "shopLogo": "//s3.mogucdn.com/mlcdn/c45406/180616_08024j2g76l4552k5550fi73k5f3f_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1cp5kk",
+      "type": 1,
+      "userId": "1335w1m"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥69.00~¥129.00",
+      "isAbroad": false,
+      "priceRange": "¥69.00~¥129.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "上衣",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "裤子",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "套装",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180806_57563dg730b2k2k94c1b8k5g718gg_750x820.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1913,
+          "stockId": "116cwhwc",
+          "style": "上衣",
+          "styleId": 1,
+          "xdSkuId": "116cwhwc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180806_57563dg730b2k2k94c1b8k5g718gg_750x820.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1892,
+          "stockId": "116cwhwe",
+          "style": "上衣",
+          "styleId": 1,
+          "xdSkuId": "116cwhwe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180806_57563dg730b2k2k94c1b8k5g718gg_750x820.jpg",
+          "nowprice": 8900,
+          "price": 12715,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1919,
+          "stockId": "116cwhwg",
+          "style": "上衣",
+          "styleId": 1,
+          "xdSkuId": "116cwhwg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180806_6af777bib61kkcd0hdbdddhcf6kg9_640x960.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1904,
+          "stockId": "116cwhwk",
+          "style": "裤子",
+          "styleId": 2,
+          "xdSkuId": "116cwhwk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180806_6af777bib61kkcd0hdbdddhcf6kg9_640x960.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1894,
+          "stockId": "116cwhwi",
+          "style": "裤子",
+          "styleId": 2,
+          "xdSkuId": "116cwhwi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180806_6af777bib61kkcd0hdbdddhcf6kg9_640x960.jpg",
+          "nowprice": 6900,
+          "price": 9858,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1901,
+          "stockId": "116cwhwm",
+          "style": "裤子",
+          "styleId": 2,
+          "xdSkuId": "116cwhwm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180806_1ldl4lf3l4eb9dj9ggf708h6566bi_640x960.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 1898,
+          "stockId": "116cwhwo",
+          "style": "套装",
+          "styleId": 3,
+          "xdSkuId": "116cwhwo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180806_1ldl4lf3l4eb9dj9ggf708h6566bi_640x960.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 1861,
+          "stockId": "116cwhwq",
+          "style": "套装",
+          "styleId": 3,
+          "xdSkuId": "116cwhwq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180806_1ldl4lf3l4eb9dj9ggf708h6566bi_640x960.jpg",
+          "nowprice": 12900,
+          "price": 18429,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 1887,
+          "stockId": "116cwhws",
+          "style": "套装",
+          "styleId": 3,
+          "xdSkuId": "116cwhws"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款韩版宽松Polo领基础黑白条纹长袖上衣女学院风高腰显瘦破洞修身九分裤两件套",
+      "totalStock": 17069
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

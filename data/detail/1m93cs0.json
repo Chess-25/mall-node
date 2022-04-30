@@ -1,0 +1,484 @@
+{
+  "iid": "1m93cs0",
+  "result": {
+    "columns": [
+      "销量 0",
+      "收藏0人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "欧洲站2018秋季新款修身显瘦衬衣打底衫荷叶边职业衬衫女装上衣潮",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180927_388jhkai39a875af440a1cekg6776_800x1065.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_600kdeda483ke052i83hglj791kjf_800x1065.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_2a245jhfe0dalhl8gi9a9id22ilgd_800x1065.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_8dg1k780l2afi56bc9i7c1i7clgc9_800x1065.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180927_8h16k1kjk38gbl3bi1c1gffgdc5hl_800x1065.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180927_72a72fejf51k23fgc7lh6gbbaihh7_800x1065.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180927_292517fi2fg966d0e39fh0c979gad_800x1065.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #686#",
+      "desc": "欧洲站2018秋季新款修身显瘦衬衣打底衫荷叶边职业衬衫女装上衣潮",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "热卖促销",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "92.16",
+        "sendAddress": ""
+      },
+      "highNowPrice": "93.10",
+      "highPrice": "133.00",
+      "iid": "1m93cs0",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m93cs0&userId=1430qu0&shopId=1pnmyc",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "93.10",
+      "lowPrice": "133.00",
+      "oldPrice": "¥133.00",
+      "price": "¥93.10",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1pnmyc",
+      "state": 0,
+      "tags": "",
+      "title": "欧洲站2018秋季新款修身显瘦衬衣打底衫荷叶边职业衬衫女装上衣潮",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180927_53g4h88ak84flde9c3aidcl4bb6g5_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180927_2i8l1i73jgfj9hj3l1j0hchkj1bd8_640x960.jpg"
+      ],
+      "userId": "1430qu0"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厂名",
+            "value": "万华制衣有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "适中"
+          },
+          {
+            "key": "衣门襟",
+            "value": "系带"
+          },
+          {
+            "key": "穿着方式",
+            "value": "套头"
+          },
+          {
+            "key": "尺码",
+            "value": "XL,2XL,3XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "收腰"
+          },
+          {
+            "key": "下摆",
+            "value": "敞口"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "黑龙江哈尔滨"
+          },
+          {
+            "key": "材质",
+            "value": "锦纶"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "元素",
+            "value": "蝴蝶结"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "通勤（OL）"
+          },
+          {
+            "key": "潮流",
+            "value": "欧美"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "M",
+              "L",
+              "XL",
+              "2XL"
+            ],
+            [
+              "衣长（前）",
+              "62",
+              "63",
+              "64",
+              "65"
+            ],
+            [
+              "肩宽",
+              "37",
+              "38",
+              "39",
+              "40"
+            ],
+            [
+              "胸围",
+              "88",
+              "92",
+              "96",
+              "100"
+            ],
+            [
+              "袖长",
+              "60",
+              "61",
+              "62",
+              "63"
+            ],
+            [
+              "腰围",
+              "-",
+              "-",
+              "-",
+              "-"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "3XL"
+            ],
+            [
+              "衣长（前）",
+              "66"
+            ],
+            [
+              "肩宽",
+              "41"
+            ],
+            [
+              "胸围",
+              "104"
+            ],
+            [
+              "袖长",
+              "64"
+            ],
+            [
+              "腰围",
+              "-"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1pnmyc",
+      "list": [
+        "满2件减3元"
+      ]
+    },
+    "rate": {
+      "cRate": 0,
+      "imgTotal": 0
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1pnmyc",
+      "cFans": 8132,
+      "cGoods": 197,
+      "cSells": 18172,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20080185",
+          "name": "女士套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20090283",
+          "name": "男装/裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20090339",
+          "name": "情侣装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20091964",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20176530",
+          "name": "男装/外套-夹克"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20219836",
+          "name": "毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20223759",
+          "name": "男装/T恤-短袖"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20224769",
+          "name": "女装/防晒衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20258366",
+          "name": "女装-裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20270271",
+          "name": "女装/裙子-连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20270694",
+          "name": "短袖T恤/打底衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pnmyc/list/index?categoryId=20323978",
+          "name": "雪纺衫"
+        }
+      ],
+      "isMarked": false,
+      "level": 2,
+      "name": "回清倒影",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": true,
+          "name": "描述相符",
+          "score": 4.88
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": true,
+          "name": "质量满意",
+          "score": 4.89
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1pnmyc",
+      "shopLogo": "//s5.mogucdn.com/p2/170301/123469136_1f3l5h7h72jkig4l3k54ldf4851eh_386x520.png",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1pnmyc",
+      "type": 1,
+      "userId": "1430qu0"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥93.10",
+      "isAbroad": false,
+      "priceRange": "¥93.10",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "2XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "3XL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_68h276c082j09k1j3hhalfe35hcgl_800x1200.jpg",
+          "nowprice": 9310,
+          "price": 13300,
+          "size": "M",
+          "sizeId": 100,
+          "stock": 200,
+          "stockId": "1175hxy2",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175hxy2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_68h276c082j09k1j3hhalfe35hcgl_800x1200.jpg",
+          "nowprice": 9310,
+          "price": 13300,
+          "size": "L",
+          "sizeId": 101,
+          "stock": 200,
+          "stockId": "1175hxy0",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175hxy0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_68h276c082j09k1j3hhalfe35hcgl_800x1200.jpg",
+          "nowprice": 9310,
+          "price": 13300,
+          "size": "XL",
+          "sizeId": 102,
+          "stock": 200,
+          "stockId": "1175hxy4",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175hxy4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_68h276c082j09k1j3hhalfe35hcgl_800x1200.jpg",
+          "nowprice": 9310,
+          "price": 13300,
+          "size": "2XL",
+          "sizeId": 103,
+          "stock": 200,
+          "stockId": "1175hxy6",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175hxy6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180927_68h276c082j09k1j3hhalfe35hcgl_800x1200.jpg",
+          "nowprice": 9310,
+          "price": 13300,
+          "size": "3XL",
+          "sizeId": 104,
+          "stock": 200,
+          "stockId": "1175hxy8",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "1175hxy8"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "欧洲站2018秋季新款修身显瘦衬衣打底衫荷叶边职业衬衫女装上衣潮",
+      "totalStock": 1000
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

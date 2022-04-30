@@ -1,0 +1,587 @@
+{
+  "iid": "1m8hq6g",
+  "result": {
+    "columns": [
+      "销量 204",
+      "收藏28人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "2018早秋新款chic外套bf风慵懒毛衣开衫短款宽松针织",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180912_4l2hdk6g8bcbalga9el6b9256025g_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180912_4cc60bg733i9k25h9l8i4lid5bd0c_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180912_80j658ii43jf8hajb8gj5kf8gk07h_800x800.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180912_4k94f7b205365hag9b0hec5liafl3_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180912_0hcjjlk3l6g1689i51d6838akekk3_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180913_2fae5hd872j45b6bja2libh23bab0_750x1041.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180913_7l10b59bge6b405i2829fa59e9jj6_750x939.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180913_2c3gk72jhjkg3g5l16h34l6dhhl99_750x1041.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180913_5gdjl0jggcg3e9el6kffekfjfej7b_750x861.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180913_3276i3gbj96lhla372kl221j3gi7b_750x1081.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180913_2d9e61c3j8kk2h8069292il2die1j_750x931.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180913_8f558j30k09iagb00060lbe5d0de2_750x1086.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180913_3a1bcilbl1aegi88326he14li578g_750x1086.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180913_707ja8h5hha9j0id818kj9d648d4e_750x929.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180913_068c5flhjg9j70aj6e2gdk9ebhi59_750x913.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180913_5d3dc0a17d1a3915k1kl39k23kdh8_750x972.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180913_4648ldf495268a245k6a9ia7l7baa_750x1095.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180913_22fj2342bbakfgcg932fkkla00bh2_750x1112.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "2018早秋新款chic外套bf风慵懒毛衣开衫短款宽松针织",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": "浙江省杭州市"
+      },
+      "highNowPrice": "147.00",
+      "highPrice": "210.00",
+      "iid": "1m8hq6g",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m8hq6g&userId=1189g5u&shopId=14h4c",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "69.30",
+      "lowPrice": "99.00",
+      "oldPrice": "¥99.00",
+      "price": "¥69.30~¥147.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14h4c",
+      "state": 0,
+      "tags": "",
+      "title": "2018早秋新款chic外套bf风慵懒毛衣短款宽松针织开衫+打底背心裙两件套套装女",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180913_5g7e27d0eb45h8cbj4h24cj88lh94_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180913_6jclhek7943ljfjdecbdig238327l_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180913_555jj8ldebiijf491gl4ila7a10ld_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180913_0eb3chh8hf3bigf91jb2kegkk770k_640x960.jpg",
+        "//s3.mogucdn.com/mlcdn/c45406/180913_72j185kfe58k4915fag5lg34d1a5h_640x960.jpg"
+      ],
+      "userId": "1189g5u"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "88铭店服饰有限公司"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "颜色",
+            "value": "单件背心,单件毛衣外套,米白色外套+背心"
+          },
+          {
+            "key": "厂址",
+            "value": "杭州市余杭区乔司方桥6组102号"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "领型",
+            "value": "V领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "胸围",
+              "130",
+              "134",
+              "138",
+              "140"
+            ],
+            [
+              "裙长",
+              "116",
+              "117",
+              "118",
+              "120"
+            ],
+            [
+              "袖长",
+              "38",
+              "39",
+              "40",
+              "41"
+            ],
+            [
+              "衣长",
+              "54-62",
+              "55-63",
+              "56-64",
+              "57-65"
+            ]
+          ]
+        ]
+      }
+    },
+    "itemTags": [
+      {
+        "content": "新品认证商品是蘑菇街根据当下时尚流行元素挑选出来的热点新品。关注新品，轻松掌控潮流趋势。",
+        "icon": "http://s3.mogucdn.com/p1/160331/upload_ie4dcyjqgyytcm3bg4zdambqgiyde_30x31.png",
+        "name": "新品认证"
+      }
+    ],
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14h4c",
+      "list": [
+        "满149元减3元"
+      ]
+    },
+    "rate": {
+      "cRate": 10,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "毛衣开衫穿起来很暖和，也不会扎，穿起来挺舒服的，款式也很特别，超级喜欢这件，好评！",
+          "created": 1537923711,
+          "extraInfo": [
+            "体重:53kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "images": [
+            "//s11.mogucdn.com/mlcdn/c45406/180926_7938l29f6f523h0667ef68dg609dc_300x400.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180926_177cjb7ekd0l1bgk9l74lkfjkgf4l_400x400.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116cjh2m",
+          "style": "颜色:米白色外套+背心 尺码:L ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_527fecjlbb7f05fihi1aggde73jb8_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "我爱夏天的果实"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14h4c",
+      "cFans": 40242,
+      "cGoods": 94,
+      "cSells": 147591,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=105227",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=105230",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=105233",
+          "name": "短裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=105234",
+          "name": "休闲裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=105236",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=105238",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=141051",
+          "name": "风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=1526112",
+          "name": "牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=1526114",
+          "name": "衬衣/雪纺/蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20049138",
+          "name": "夹克/短外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20049140",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20049141",
+          "name": "打底衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20049142",
+          "name": "打底裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20181667",
+          "name": "2017秋冬热销"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20248019",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20248020",
+          "name": "棉衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20303351",
+          "name": "2018夏季热销"
+        },
+        {
+          "link": "http://s.meilishuo.com/14h4c/list/index?categoryId=20329524",
+          "name": "T恤"
+        }
+      ],
+      "isMarked": false,
+      "level": 2,
+      "name": "88铭店",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.57
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.57
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        }
+      ],
+      "shopId": "14h4c",
+      "shopLogo": "//s3.mogucdn.com/p2/161109/upload_2a477dg0caj58i8h7640bk4e8lifg_320x320.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14h4c",
+      "type": 1,
+      "userId": "1189g5u"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥69.30~¥147.00",
+      "isAbroad": false,
+      "priceRange": "¥69.30~¥147.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "米白色外套+背心",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "单件毛衣外套",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "单件背心",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_25fc250f58g1ai231eh24ej804bh1_640x960.jpg",
+          "nowprice": 14700,
+          "price": 21000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 466,
+          "stockId": "116xg8e6",
+          "style": "米白色外套+背心",
+          "styleId": 1,
+          "xdSkuId": "116xg8e6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_25fc250f58g1ai231eh24ej804bh1_640x960.jpg",
+          "nowprice": 14700,
+          "price": 21000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 455,
+          "stockId": "116xg8ea",
+          "style": "米白色外套+背心",
+          "styleId": 1,
+          "xdSkuId": "116xg8ea"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_25fc250f58g1ai231eh24ej804bh1_640x960.jpg",
+          "nowprice": 14700,
+          "price": 21000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 470,
+          "stockId": "116xg8e8",
+          "style": "米白色外套+背心",
+          "styleId": 1,
+          "xdSkuId": "116xg8e8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_25fc250f58g1ai231eh24ej804bh1_640x960.jpg",
+          "nowprice": 14700,
+          "price": 21000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 472,
+          "stockId": "116xg8ec",
+          "style": "米白色外套+背心",
+          "styleId": 1,
+          "xdSkuId": "116xg8ec"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180913_49blk275ikfe012hdh5el60dlbgj0_640x960.jpg",
+          "nowprice": 9940,
+          "price": 14200,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 488,
+          "stockId": "116xhi5m",
+          "style": "单件毛衣外套",
+          "styleId": 2,
+          "xdSkuId": "116xhi5m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180913_49blk275ikfe012hdh5el60dlbgj0_640x960.jpg",
+          "nowprice": 9940,
+          "price": 14200,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 491,
+          "stockId": "116xhi5o",
+          "style": "单件毛衣外套",
+          "styleId": 2,
+          "xdSkuId": "116xhi5o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180913_49blk275ikfe012hdh5el60dlbgj0_640x960.jpg",
+          "nowprice": 9940,
+          "price": 14200,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 495,
+          "stockId": "116xhi5q",
+          "style": "单件毛衣外套",
+          "styleId": 2,
+          "xdSkuId": "116xhi5q"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/180913_49blk275ikfe012hdh5el60dlbgj0_640x960.jpg",
+          "nowprice": 9940,
+          "price": 14200,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 497,
+          "stockId": "116xhi5s",
+          "style": "单件毛衣外套",
+          "styleId": 2,
+          "xdSkuId": "116xhi5s"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_04lcd4ac33775i399944glc3c6j05_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 495,
+          "stockId": "116xhi5u",
+          "style": "单件背心",
+          "styleId": 3,
+          "xdSkuId": "116xhi5u"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_04lcd4ac33775i399944glc3c6j05_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 495,
+          "stockId": "116xhi5w",
+          "style": "单件背心",
+          "styleId": 3,
+          "xdSkuId": "116xhi5w"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_04lcd4ac33775i399944glc3c6j05_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 494,
+          "stockId": "116xhi5y",
+          "style": "单件背心",
+          "styleId": 3,
+          "xdSkuId": "116xhi5y"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180913_04lcd4ac33775i399944glc3c6j05_640x960.jpg",
+          "nowprice": 6930,
+          "price": 9900,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 497,
+          "stockId": "116xhi60",
+          "style": "单件背心",
+          "styleId": 3,
+          "xdSkuId": "116xhi60"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018早秋新款chic外套bf风慵懒毛衣短款宽松针织开衫+打底背心裙两件套套装女",
+      "totalStock": 5815
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

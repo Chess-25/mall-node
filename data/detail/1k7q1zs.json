@@ -1,0 +1,815 @@
+{
+  "iid": "1k7q1zs",
+  "result": {
+    "columns": [
+      "销量 571",
+      "收藏1348人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "碎花连衣裙2018春秋装新款宽松韩版甜美印花百搭打底蕾丝公主裙",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/p2/170223/73791812_8cg227h54hjd1g1dh8jhkjb7dg45j_750x1067.jpg",
+            "//s5.mogucdn.com/p2/170223/73791812_6442g5dld4636gj1f3k7l8kbg2i27_750x637.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_4df2jg4g6b02bkagg367j19e66b7k_750x982.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_5bh6546b34i47ji722kcg76hi74hd_750x750.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_0i2208d0fh0c83cbi7a6cd4k277cf_750x977.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_4d5f28985g566h938id3i5d1bdf1a_750x499.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_719i7135786f53706bl9b8hjj4e77_750x542.jpg",
+            "//s3.mogucdn.com/p2/170223/73791812_4k41ek563k87b86efdlibi73e22ic_750x506.jpg",
+            "//s3.mogucdn.com/p2/170223/73791812_6707h51l3cea669babi4ahhdekg15_750x1035.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_4fad7djl80fd7b64l809jj3a2f651_750x750.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_112ki635jfe6d6eblf1l6le80i4cf_750x1109.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_2je2e90id1i907k1kcfe5ahg7bg4g_750x992.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_84f491agg22g3d413kjk39c576ab7_800x1200.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_4cf7kg1k9d19he1ab81f10560g3ag_640x960.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_17g45932f8ljj9baaleii886g9g58_640x960.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170904_5h0da8ahbbc66ggci46le4ilh0j9f_750x989.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170904_6di54iidckjl23kjjlfdf42h6cg0a_750x1046.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/170904_1b6h327h87f58ce15eg8k8jig73e4_750x649.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170904_4779hj38l7ib0le64l24edf6090be_750x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/170904_31l46gjc2l21hc6kaji0j312i1f60_750x1002.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/170904_726hf90fhg75hk9lhje7j64f0de9k_750x820.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170904_1g1a14gg64g2hhclgkc69j0gjdg03_750x1057.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170904_3818gj6a612707726agjl5g5eekk5_750x637.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/170904_24353gkaf367e4ccega487g0992ch_649x649.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s3.mogucdn.com/p2/170223/73791812_0cf7c3k0l0c8i7klf80cjb1gbdg2c_640x960.jpg",
+            "//s5.mogucdn.com/p2/170223/73791812_4d9ij545f2l94jj6ecka848h2cc7e_640x960.jpg",
+            "//s11.mogucdn.com/p2/170223/73791812_6c1e0d509lg2i903k3579ijgj7l90_640x960.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #704# #705#",
+      "desc": "碎花连衣裙2018春秋装新款宽松韩版甜美印花百搭打底蕾丝公主裙",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "79.00",
+      "highPrice": "112.87",
+      "iid": "1k7q1zs",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1k7q1zs&userId=12fv8ao&shopId=14q1m",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "79.00",
+      "lowPrice": "112.87",
+      "oldPrice": "¥112.87",
+      "price": "¥79.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14q1m",
+      "state": 0,
+      "tags": "",
+      "title": "碎花连衣裙2018春秋装新款宽松韩版甜美印花百搭打底蕾丝公主裙",
+      "topImages": [
+        "//s11.mogucdn.com/p2/170223/73791812_4fc7ijj6g39c8de432fdj3h8ih964_640x960.jpg"
+      ],
+      "userId": "12fv8ao"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "碎花"
+          },
+          {
+            "key": "厂名",
+            "value": "小城丫丫服饰加工厂小城丫丫贸易有限公司"
+          },
+          {
+            "key": "裙型",
+            "value": "公主裙"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色蕾丝款,杏色蕾丝款,白色蕾丝款,粉色蕾丝款,碎花款"
+          },
+          {
+            "key": "袖型",
+            "value": "公主袖"
+          },
+          {
+            "key": "衣门襟",
+            "value": "套头"
+          },
+          {
+            "key": "腰型",
+            "value": "高腰"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M,XXL"
+          },
+          {
+            "key": "版型",
+            "value": "A型"
+          },
+          {
+            "key": "季节",
+            "value": "春秋"
+          },
+          {
+            "key": "厂址",
+            "value": "广州海珠区后滘西大街37巷014号"
+          },
+          {
+            "key": "材质",
+            "value": "蕾丝"
+          },
+          {
+            "key": "组合形式",
+            "value": "单件"
+          },
+          {
+            "key": "领型",
+            "value": "立领"
+          },
+          {
+            "key": "元素",
+            "value": "荷叶边,破洞,镂空,蝴蝶结,木耳边"
+          },
+          {
+            "key": "裙长",
+            "value": "中裙（91-105cm）"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "裙长",
+              "87.",
+              "88",
+              "89",
+              "90"
+            ],
+            [
+              "肩宽",
+              "37",
+              "38",
+              "39",
+              "39"
+            ],
+            [
+              "腰围",
+              "松紧",
+              "松紧",
+              "松紧",
+              "松紧"
+            ],
+            [
+              "胸围",
+              "88",
+              "90",
+              "94",
+              "98"
+            ],
+            [
+              "袖长",
+              "51",
+              "52",
+              "53",
+              "54"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL"
+            ],
+            [
+              "裙长",
+              "91"
+            ],
+            [
+              "肩宽",
+              "40"
+            ],
+            [
+              "腰围",
+              "松紧"
+            ],
+            [
+              "胸围",
+              "102"
+            ],
+            [
+              "袖长",
+              "55"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 385,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "买给女儿的，收到货，试穿好看，她挺喜欢这个款式的，面料柔软，卖家发货及时，包装严实，快递速度快。",
+          "created": 1522334807,
+          "extraInfo": [
+            "体重:48 kg",
+            "是否合身:合身",
+            "身高:159 cm"
+          ],
+          "images": [
+            "//s3.mogucdn.com/mlcdn/c45406/180329_5aj85b1d92lcclkac65jidh978322_852x1518.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "11446afg",
+          "style": "颜色:杏色蕾丝款 尺码:M ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "晗烟儿0721"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14q1m",
+      "cFans": 54886,
+      "cGoods": 380,
+      "cSells": 235574,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=26575",
+          "name": "卫衣t恤打底背心"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=26691",
+          "name": "下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=26693",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=26697",
+          "name": "衬衣/衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=36664",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=43330",
+          "name": "外套/开衫/棒球服"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=44366",
+          "name": "针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=212550",
+          "name": "棉服/羽绒服"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=280832",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=1517990",
+          "name": "防晒衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=20110271",
+          "name": "风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=20195955",
+          "name": "雪纺衫/蕾丝衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14q1m/list/index?categoryId=20195957",
+          "name": "吊带/背心"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "小丫头",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.51
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.49
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14q1m",
+      "shopLogo": "//s3.mogucdn.com/b7/avatar/140411/17xm4k_kqzfet27ozbdktcugfjeg5sckzsew_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14q1m",
+      "type": 1,
+      "userId": "12fv8ao"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥79.00",
+      "isAbroad": false,
+      "priceRange": "¥79.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "碎花款",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "粉色蕾丝款",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "杏色蕾丝款",
+              "styleId": 3,
+              "type": "style"
+            },
+            {
+              "index": 4,
+              "isDefault": false,
+              "name": "黑色蕾丝款",
+              "styleId": 4,
+              "type": "style"
+            },
+            {
+              "index": 5,
+              "isDefault": false,
+              "name": "白色蕾丝款",
+              "styleId": 5,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170824_1kh8cffa0lkh59gf3dkikbfacb6gf_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "1tr6x4i",
+          "style": "碎花款",
+          "styleId": 1,
+          "xdSkuId": "1tr6x4i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170824_1kh8cffa0lkh59gf3dkikbfacb6gf_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1tr6x4k",
+          "style": "碎花款",
+          "styleId": 1,
+          "xdSkuId": "1tr6x4k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170824_1kh8cffa0lkh59gf3dkikbfacb6gf_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "1tr6x4m",
+          "style": "碎花款",
+          "styleId": 1,
+          "xdSkuId": "1tr6x4m"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170824_1kh8cffa0lkh59gf3dkikbfacb6gf_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "1tr6x4o",
+          "style": "碎花款",
+          "styleId": 1,
+          "xdSkuId": "1tr6x4o"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170824_1kh8cffa0lkh59gf3dkikbfacb6gf_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "1usdpe0",
+          "style": "碎花款",
+          "styleId": 1,
+          "xdSkuId": "1usdpe0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_2j051f0e5edfcf25ddci7gahi4h27_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 994,
+          "stockId": "1u195x2",
+          "style": "粉色蕾丝款",
+          "styleId": 2,
+          "xdSkuId": "1u195x2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_2j051f0e5edfcf25ddci7gahi4h27_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 992,
+          "stockId": "1u195x4",
+          "style": "粉色蕾丝款",
+          "styleId": 2,
+          "xdSkuId": "1u195x4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_2j051f0e5edfcf25ddci7gahi4h27_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 995,
+          "stockId": "1u195x6",
+          "style": "粉色蕾丝款",
+          "styleId": 2,
+          "xdSkuId": "1u195x6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_2j051f0e5edfcf25ddci7gahi4h27_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 996,
+          "stockId": "1u195xa",
+          "style": "粉色蕾丝款",
+          "styleId": 2,
+          "xdSkuId": "1u195xa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_2j051f0e5edfcf25ddci7gahi4h27_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 998,
+          "stockId": "1usdpe2",
+          "style": "粉色蕾丝款",
+          "styleId": 2,
+          "xdSkuId": "1usdpe2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_0ak10ili8344i2le5kc6kh3eg7cb7_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 934,
+          "stockId": "1u195x8",
+          "style": "杏色蕾丝款",
+          "styleId": 3,
+          "xdSkuId": "1u195x8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_0ak10ili8344i2le5kc6kh3eg7cb7_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 950,
+          "stockId": "1u195xc",
+          "style": "杏色蕾丝款",
+          "styleId": 3,
+          "xdSkuId": "1u195xc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_0ak10ili8344i2le5kc6kh3eg7cb7_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 959,
+          "stockId": "1u195xe",
+          "style": "杏色蕾丝款",
+          "styleId": 3,
+          "xdSkuId": "1u195xe"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_0ak10ili8344i2le5kc6kh3eg7cb7_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 980,
+          "stockId": "1u195xg",
+          "style": "杏色蕾丝款",
+          "styleId": 3,
+          "xdSkuId": "1u195xg"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_0ak10ili8344i2le5kc6kh3eg7cb7_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 987,
+          "stockId": "1usdpe4",
+          "style": "杏色蕾丝款",
+          "styleId": 3,
+          "xdSkuId": "1usdpe4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170904_0f9aj9f332k7bg6behd376b2l6gg3_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 999,
+          "stockId": "1u19kry",
+          "style": "黑色蕾丝款",
+          "styleId": 4,
+          "xdSkuId": "1u19kry"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170904_0f9aj9f332k7bg6behd376b2l6gg3_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 996,
+          "stockId": "1u19ks0",
+          "style": "黑色蕾丝款",
+          "styleId": 4,
+          "xdSkuId": "1u19ks0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170904_0f9aj9f332k7bg6behd376b2l6gg3_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 999,
+          "stockId": "1u19ks2",
+          "style": "黑色蕾丝款",
+          "styleId": 4,
+          "xdSkuId": "1u19ks2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170904_0f9aj9f332k7bg6behd376b2l6gg3_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 997,
+          "stockId": "1u19ks4",
+          "style": "黑色蕾丝款",
+          "styleId": 4,
+          "xdSkuId": "1u19ks4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s3.mogucdn.com/mlcdn/c45406/170904_0f9aj9f332k7bg6behd376b2l6gg3_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 997,
+          "stockId": "1usdpe6",
+          "style": "黑色蕾丝款",
+          "styleId": 4,
+          "xdSkuId": "1usdpe6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_039103e0fdl6h5allhidc8201e3e2_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 0,
+          "stockId": "1u19ks6",
+          "style": "白色蕾丝款",
+          "styleId": 5,
+          "xdSkuId": "1u19ks6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_039103e0fdl6h5allhidc8201e3e2_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 0,
+          "stockId": "1u19ks8",
+          "style": "白色蕾丝款",
+          "styleId": 5,
+          "xdSkuId": "1u19ks8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_039103e0fdl6h5allhidc8201e3e2_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 0,
+          "stockId": "1u19ksa",
+          "style": "白色蕾丝款",
+          "styleId": 5,
+          "xdSkuId": "1u19ksa"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_039103e0fdl6h5allhidc8201e3e2_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 0,
+          "stockId": "1u19ksc",
+          "style": "白色蕾丝款",
+          "styleId": 5,
+          "xdSkuId": "1u19ksc"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/170904_039103e0fdl6h5allhidc8201e3e2_640x960.jpg",
+          "nowprice": 7900,
+          "price": 11287,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 0,
+          "stockId": "1usdpe8",
+          "style": "白色蕾丝款",
+          "styleId": 5,
+          "xdSkuId": "1usdpe8"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "碎花连衣裙2018春秋装新款宽松韩版甜美印花百搭打底蕾丝公主裙",
+      "totalStock": 14773
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

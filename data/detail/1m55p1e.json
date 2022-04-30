@@ -1,0 +1,480 @@
+{
+  "iid": "1m55p1e",
+  "result": {
+    "columns": [
+      "销量 281",
+      "收藏17人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "休闲宽松镂空外搭上衣显瘦吊带连衣裙夏2018新款过膝中长款裙子两件套",
+      "detailImage": [
+        {
+          "anchor": "baipai_img2",
+          "desc": "",
+          "key": "整体款式",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180629_51155ec9582lfjkifffjhc6lk28g9_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_8gdk63cdl335gc6ad1g03b2jf52d2_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_7d02dd1hcee67a82dh127bch7edcg_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_13c4dkg0c3i5e85e0b592i38l0g5i_750x910.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180629_5494c2lg809lg01gh5ge9bflh2b98_750x758.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_11hbi33k35870gjk2c3b4056ei1cb_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_24ij5k6ldhd0kje1j8a66egkb6fgj_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_51c4aa0dj75e954hc6al46g0h715d_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_1alhf9kf0hb088la66h6cbklf078a_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_6efg07l0b5a1i477i7f1li2libil5_750x1000.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180629_1831ddeg1ijf1219b6b0aji46djfc_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_08l91723671l5e877g9adabl5ce5c_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_37k9iiib0h13cia8hhh7f4e07ld36_750x910.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180629_43ld0hecic5heh2i9gkh5k9ld8222_750x910.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180629_2gdhlfa2c809igf3bblfi53l9eb80_750x910.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "休闲宽松镂空外搭上衣显瘦吊带连衣裙夏2018新款过膝中长款裙子两件套",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "78.66",
+        "sendAddress": ""
+      },
+      "highNowPrice": "79.80",
+      "highPrice": "114.00",
+      "iid": "1m55p1e",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m55p1e&userId=12uhym&shopId=14gju",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "79.80",
+      "lowPrice": "114.00",
+      "oldPrice": "¥114.00",
+      "price": "¥79.80",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14gju",
+      "state": 0,
+      "tags": "",
+      "title": "休闲宽松镂空外搭上衣显瘦吊带连衣裙夏2018新款过膝中长款裙子两件套",
+      "topImages": [
+        "//s3.mogucdn.com/mlcdn/c45406/180629_6j039e0148ebk0a241k6d7g04415f_640x960.jpg"
+      ],
+      "userId": "12uhym"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "纯色"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "香香制衣厂"
+          },
+          {
+            "key": "颜色",
+            "value": "黑色,浅棕色"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "春夏"
+          },
+          {
+            "key": "厂址",
+            "value": "广东省广州市海珠区康乐中约南新街91号4楼"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "其他领型"
+          },
+          {
+            "key": "元素",
+            "value": "镂空"
+          },
+          {
+            "key": "袖长",
+            "value": "七分袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "通勤（OL）"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "柠檬香香说明：每款衣服尺码均为手工测量，可能存在1-3厘米的误差范围。希望理解，每个人体型存在差异，着衣宽松紧凑喜好各有不同，请根据自己身体体型选择衣服大小的尺码。感谢光顾~",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "裙长",
+              "108",
+              "109",
+              "110",
+              "111"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 9,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "版型确实很好，质量也很不错，穿起来效果很好，很显身材，气质也提升了不少，面料穿着舒服，是我喜欢的款~",
+          "created": 1535422557,
+          "explain": "[商家回复]:  真的很感动，所有的努力都是没有白费的！，谢谢亲，这款衣服我是采用比市面上面好很多的面料制作，成本真的好高了，因为竞争太大，考虑过好久，还是坚持用了好面料，而且这么好的版型，我一件的衣服可以做别人家两件衣服了~~但是还是坚持我的初衷吧，代购原版样衣自己工作室出货，省去了档口费和工厂的中间费，我希望能给到大家好的东西，性价比超高，回头客多，内心太开心了，真心希望大家能满意！！！谢谢亲们！我们一直在路上，谢谢亲们的支持，也谢谢亲们的每一个信任和好评！！！卖喜欢的东西，寻眼光相似的人. 我们还帮各位亲们购买了运费险哦，喜欢的大美妞可以从速下单",
+          "extraInfo": [
+            "是否合身:合身"
+          ],
+          "images": [
+            "//s3.mogucdn.com/mlcdn/c45406/180828_07li4ki920gi9k5b9ga2aa9j67j4c_720x540.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180828_0e66fj7d1dc20g4451f6721kj9c0i_540x720.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180828_1359cd471455a2a7eh5i17692484k_540x720.jpg"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "1160s8b6",
+          "style": "颜色:浅棕色 尺码:S ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_65bf62g5e98f4g9b8dk1j5le13e34_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "冷傲戀Elva"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14gju",
+      "cFans": 24887,
+      "cGoods": 194,
+      "cSells": 105913,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=7299",
+          "name": "新款速递"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=63834",
+          "name": "火热爆款"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=63836",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=64445",
+          "name": "衬衣/针织衫/毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=64447",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=64628",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=74560",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=74564",
+          "name": "全部商品"
+        },
+        {
+          "link": "http://s.meilishuo.com/14gju/list/index?categoryId=20169266",
+          "name": "卫衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 3,
+      "name": "柠檬香香",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.58
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.58
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14gju",
+      "shopLogo": "//s11.mogucdn.com/b7/avatar/131210/1f8yj_kqzhq22ekrbegytwgfjeg5sckzsew_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14gju",
+      "type": 1,
+      "userId": "12uhym"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥79.80",
+      "isAbroad": false,
+      "priceRange": "¥79.80",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "黑色",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "浅棕色",
+              "styleId": 2,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180629_2ejbfg5lai22b0le8k21di4d7ckd2_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 115,
+          "stockId": "115pu0e2",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "115pu0e2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180629_2ejbfg5lai22b0le8k21di4d7ckd2_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 139,
+          "stockId": "115pu0e4",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "115pu0e4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180629_2ejbfg5lai22b0le8k21di4d7ckd2_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 158,
+          "stockId": "115pu0e6",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "115pu0e6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180629_2ejbfg5lai22b0le8k21di4d7ckd2_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 175,
+          "stockId": "115pu0e8",
+          "style": "黑色",
+          "styleId": 1,
+          "xdSkuId": "115pu0e8"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180629_2h62cffgkj5d2bfl2571heajb12ic_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 180,
+          "stockId": "115pu0du",
+          "style": "浅棕色",
+          "styleId": 2,
+          "xdSkuId": "115pu0du"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180629_2h62cffgkj5d2bfl2571heajb12ic_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 177,
+          "stockId": "115pu0dw",
+          "style": "浅棕色",
+          "styleId": 2,
+          "xdSkuId": "115pu0dw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180629_2h62cffgkj5d2bfl2571heajb12ic_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 190,
+          "stockId": "115pu0dy",
+          "style": "浅棕色",
+          "styleId": 2,
+          "xdSkuId": "115pu0dy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180629_2h62cffgkj5d2bfl2571heajb12ic_640x960.jpg",
+          "nowprice": 7980,
+          "price": 11400,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 191,
+          "stockId": "115pu0e0",
+          "style": "浅棕色",
+          "styleId": 2,
+          "xdSkuId": "115pu0e0"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "休闲宽松镂空外搭上衣显瘦吊带连衣裙夏2018新款过膝中长款裙子两件套",
+      "totalStock": 1325
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

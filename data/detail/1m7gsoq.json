@@ -1,0 +1,569 @@
+{
+  "iid": "1m7gsoq",
+  "result": {
+    "columns": [
+      "销量 110",
+      "收藏2人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "气质百搭拼色V领针织马甲+高腰显瘦百褶长袖连衣裙两件套（支持单买）",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s3.mogucdn.com/mlcdn/c45406/180820_5cbdghlie107hk1khdb68dic133e8_750x1000.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180820_8902if1fa91eak983d1feaec0j5l2_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_03k13a16356d2cj8d3d3g79iigdf4_678x646.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180820_5j09lb7fa44k13db10h2af5e7h6jd_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_2a3f2bbi9c8bcd379814fjd3j8116_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_04lf12ddhlgclce34gdbe6ca4h469_762x725.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_015194g519kedga1ee8bjakg5c082_658x701.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_355eh4c8h6egjahfh22h463k6582j_659x675.png",
+            "//s5.mogucdn.com/mlcdn/c45406/180820_5hjk627e795igblc299bjb6j3e178_724x698.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_7l8ij6bd61j8acbl0398ig3i98lh3_727x754.png",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180820_507d43id6l2j4gh0l4d3k3bj9b51j_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_3a296e52bfc2i209cg0ih1fddhf58_750x1000.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_8h0258lefc7fb6ejc1gha4lg75lh3_678x646.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180820_832a3eb7gl4e940ce36ac2dlabgff_762x725.png"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "气质百搭拼色V领针织马甲+高腰显瘦百褶长袖连衣裙两件套（支持单买）",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "147.00",
+      "highPrice": "210.00",
+      "iid": "1m7gsoq",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7gsoq&userId=1236y5y&shopId=14mh0",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "77.00",
+      "lowPrice": "110.00",
+      "oldPrice": "¥110.00",
+      "price": "¥77.00~¥147.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14mh0",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款时尚套装韩版气质百搭拼色V领针织马甲高腰显瘦百褶长袖连衣裙两件套",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180820_8e77hk7bb21baa0efi0d11fi7gbca_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180820_071f3154el7dlaid3f95klk4ek5f0_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180820_7eb41j6lbk5bg8l57i8167c10a655_640x960.jpg"
+      ],
+      "userId": "1236y5y"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块,条纹"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "优纤联合制衣厂"
+          },
+          {
+            "key": "颜色",
+            "value": "马甲单买,连衣裙单买,套装购买"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市海珠区敦和江贝安定理大街"
+          },
+          {
+            "key": "材质",
+            "value": "复合"
+          },
+          {
+            "key": "领型",
+            "value": "V领"
+          },
+          {
+            "key": "元素",
+            "value": "撞色/拼色,编织"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "裙长",
+              "116",
+              "117",
+              "118"
+            ],
+            [
+              "肩宽",
+              "38",
+              "39",
+              "40"
+            ],
+            [
+              "腰围",
+              "66",
+              "70",
+              "74"
+            ],
+            [
+              "衣长",
+              "66",
+              "67",
+              "68"
+            ],
+            [
+              "胸围",
+              "82",
+              "86",
+              "90"
+            ],
+            [
+              "臀围",
+              "不限",
+              "不限",
+              "不限"
+            ],
+            [
+              "袖长",
+              "59",
+              "60",
+              "61"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14mh0",
+      "list": [
+        "满199元减5元",
+        "满2件减5元"
+      ]
+    },
+    "rate": {
+      "cRate": 9,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服手感很好，款式我很喜欢，物流也给力，挺顺心的一次购物",
+          "created": 1537668338,
+          "explain": "[商家回复]:  感谢亲的光临七色吧的 亲的满意就是七色吧最大的追求 常来我家的哦 七色吧期待你下次的光临。亲 收藏一下我们家店铺哦 店铺上新和活动都会第一时间通知你哦~感谢亲的光临七色吧的 亲的满意就是七色吧最大的追求 常来我家的哦 七色吧期待你下次的光临。亲 收藏一下我们家店铺哦 店铺上新和活动都会第一时间通知你哦~感谢亲的光临七色吧的 亲的满意就是七色吧最大的追求 常来我家的哦 七色吧期待你下次的光临。亲 收藏一下我们家店铺哦 店铺上新和活动都会第一时间通知你哦~感谢亲的光临七色吧的 亲的满意就是七色吧最大的追求 常来我家的哦 七色吧期待你下次的光临。亲 收藏一下我们家店铺哦 店铺上新和活动都会第一时间通知你哦~",
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116bbmoy",
+          "style": "颜色:马甲单买 尺码:M ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_65bf62g5e98f4g9b8dk1j5le13e34_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "wx_fk52yqsmw0mj5"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14mh0",
+      "cFans": 94066,
+      "cGoods": 261,
+      "cSells": 346967,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20103127",
+          "name": "每日新品NEW!"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179963",
+          "name": "搭配套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179964",
+          "name": "上装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179965",
+          "name": "下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179966",
+          "name": "裙装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20240199",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20240203",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298653",
+          "name": "时尚T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298654",
+          "name": "气质连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298655",
+          "name": "个性春外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298656",
+          "name": "百搭牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298657",
+          "name": "蕾丝/雪纺"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338898",
+          "name": "新款外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338899",
+          "name": "新款衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338900",
+          "name": "新款毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338901",
+          "name": "新款裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338902",
+          "name": "新款卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338903",
+          "name": "新款风衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "七色吧",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.65
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.66
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14mh0",
+      "shopLogo": "//s11.mogucdn.com/b7/avatar/140107/11lh27_kqzguslckrbdiwtwgfjeg5sckzsew_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14mh0",
+      "type": 1,
+      "userId": "1236y5y"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥77.00~¥147.00",
+      "isAbroad": false,
+      "priceRange": "¥77.00~¥147.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "马甲单买",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "连衣裙单买",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "套装购买",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180820_0f7359cdfk2h25gd0efjekj7384c9_640x960.jpg",
+          "nowprice": 7700,
+          "price": 11000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 90,
+          "stockId": "116jl8uo",
+          "style": "马甲单买",
+          "styleId": 1,
+          "xdSkuId": "116jl8uo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180820_0f7359cdfk2h25gd0efjekj7384c9_640x960.jpg",
+          "nowprice": 7700,
+          "price": 11000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 89,
+          "stockId": "116jl8um",
+          "style": "马甲单买",
+          "styleId": 1,
+          "xdSkuId": "116jl8um"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180820_0f7359cdfk2h25gd0efjekj7384c9_640x960.jpg",
+          "nowprice": 7700,
+          "price": 11000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 93,
+          "stockId": "116jl8uk",
+          "style": "马甲单买",
+          "styleId": 1,
+          "xdSkuId": "116jl8uk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180820_3cfibb3l255145b9bf9e9139hlfd9_640x960.jpg",
+          "nowprice": 8400,
+          "price": 12000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 99,
+          "stockId": "116jl8us",
+          "style": "连衣裙单买",
+          "styleId": 2,
+          "xdSkuId": "116jl8us"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180820_3cfibb3l255145b9bf9e9139hlfd9_640x960.jpg",
+          "nowprice": 8400,
+          "price": 12000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 97,
+          "stockId": "116jl8uq",
+          "style": "连衣裙单买",
+          "styleId": 2,
+          "xdSkuId": "116jl8uq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180820_3cfibb3l255145b9bf9e9139hlfd9_640x960.jpg",
+          "nowprice": 8400,
+          "price": 12000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 94,
+          "stockId": "116jl8uu",
+          "style": "连衣裙单买",
+          "styleId": 2,
+          "xdSkuId": "116jl8uu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180820_75i3b5aidh7fca87jii8i16gg48h8_640x960.jpg",
+          "nowprice": 14700,
+          "price": 21000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 90,
+          "stockId": "116jl8uy",
+          "style": "套装购买",
+          "styleId": 3,
+          "xdSkuId": "116jl8uy"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180820_75i3b5aidh7fca87jii8i16gg48h8_640x960.jpg",
+          "nowprice": 14700,
+          "price": 21000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 70,
+          "stockId": "116jl8uw",
+          "style": "套装购买",
+          "styleId": 3,
+          "xdSkuId": "116jl8uw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180820_75i3b5aidh7fca87jii8i16gg48h8_640x960.jpg",
+          "nowprice": 14700,
+          "price": 21000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 66,
+          "stockId": "116jl8v0",
+          "style": "套装购买",
+          "styleId": 3,
+          "xdSkuId": "116jl8v0"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款时尚套装韩版气质百搭拼色V领针织马甲高腰显瘦百褶长袖连衣裙两件套",
+      "totalStock": 788
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "iid": "1lqbdhg",
+  "result": {
+    "columns": [
+      "销量 398",
+      "收藏21人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "!!!2017韩国新款，亲们不必担心货不对版及质量问题，发货前有专人检查衣服质量，保证完好才出货，7天无理由退换货售后保障！ 百搭色不挑人，约会逛街，零风险购物，不会有任何后顾之忧哦！",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/55cf19/180118_8d7ec60f8i7f1ij476bdd4kkcke95_850x897.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180118_33c0cbkjb7ia05ijh6gej166d5g9l_850x930.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180118_3ci7ika2l5bc84c757lkk618j7d4d_850x930.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180118_361ah72502fkk70lc5jg4ibab93e3_850x897.jpg",
+            "//s5.mogucdn.com/mlcdn/55cf19/180118_01cdj80j4d2e0i77iii7ca1b5i4db_850x897.jpg",
+            "//s11.mogucdn.com/mlcdn/55cf19/180118_8bb9ej008lbgde9edaahibfe82fle_850x930.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "!!!2017韩国新款，亲们不必担心货不对版及质量问题，发货前有专人检查衣服质量，保证完好才出货，7天无理由退换货售后保障！ 百搭色不挑人，约会逛街，零风险购物，不会有任何后顾之忧哦！",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "达人推荐",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "109.90",
+      "highPrice": "157.00",
+      "iid": "1lqbdhg",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1lqbdhg&userId=13wa2ae&shopId=1pa11e",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "109.90",
+      "lowPrice": "157.00",
+      "oldPrice": "¥157.00",
+      "price": "¥109.90",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1pa11e",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋冬新款明星同款新款撞色长袖高领修身套头拉链上衣+高腰显瘦格子针织气质套装女装潮",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/55cf19/180118_7bj132007b3bhk2j35gc5glafk790_640x960.jpg"
+      ],
+      "userId": "13wa2ae"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "格子"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市宝树服饰有限公司"
+          },
+          {
+            "key": "颜色",
+            "value": "红色"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "均码"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "季节",
+            "value": "春季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州海珠区大唐村马基大街17号4楼"
+          },
+          {
+            "key": "材质",
+            "value": "针织"
+          },
+          {
+            "key": "领型",
+            "value": "高领"
+          },
+          {
+            "key": "元素",
+            "value": "松紧"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裙套装"
+          },
+          {
+            "key": "风格",
+            "value": "名媛"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "desc": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "均码"
+            ],
+            [
+              "裙长",
+              "62"
+            ],
+            [
+              "肩宽",
+              "38"
+            ],
+            [
+              "腰围",
+              "65-80"
+            ],
+            [
+              "衣长",
+              "52"
+            ],
+            [
+              "胸围",
+              "90-103"
+            ],
+            [
+              "袖长",
+              "60"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1pa11e",
+      "list": [
+        "满99元减5元",
+        "满199元减10元",
+        "满299元减20元"
+      ]
+    },
+    "rate": {
+      "cRate": 80,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服柔软靓丽。颜色很正，无色差。修身显瘦，上身效果很棒，和图片一样。质量真心好，这个价格性价比很高",
+          "created": 1537707254,
+          "extraInfo": [
+            "体重:51kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116blrr0",
+          "style": "颜色:红色 尺码:均码 ",
+          "user": {
+            "avatar": "//s11.mogucdn.com/p2/161214/103488673_527fecjlbb7f05fihi1aggde73jb8_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "国军Gill"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1pa11e",
+      "cFans": 38322,
+      "cGoods": 500,
+      "cSells": 99641,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=1309049",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=1480750",
+          "name": "套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20244448",
+          "name": "上衣/外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254352",
+          "name": "A字连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254353",
+          "name": "礼服连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254354",
+          "name": "鱼尾连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254355",
+          "name": "蕾丝连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254356",
+          "name": "蓬蓬连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254357",
+          "name": "包臀连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254360",
+          "name": "毛呢外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254362",
+          "name": "风衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254364",
+          "name": "羽绒服"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254365",
+          "name": "皮衣外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1pa11e/list/index?categoryId=20254899",
+          "name": "打底T恤"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "时尚韩依",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.7
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.68
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1pa11e",
+      "shopLogo": "//s5.mogucdn.com/p1/160304/1y514f_ie4tomlfgq3genzrg4zdambqgqyde_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1pa11e",
+      "type": 1,
+      "userId": "13wa2ae"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥109.90",
+      "isAbroad": false,
+      "priceRange": "¥109.90",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "红色",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "均码",
+              "sizeId": 100,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/55cf19/180118_2kde8hjdb19h3h57jdlhlffj3aka2_850x930.jpg",
+          "nowprice": 10990,
+          "price": 15700,
+          "size": "均码",
+          "sizeId": 100,
+          "stock": 168,
+          "stockId": "1z9h7jk",
+          "style": "红色",
+          "styleId": 1,
+          "xdSkuId": "1z9h7jk"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋冬新款明星同款新款撞色长袖高领修身套头拉链上衣+高腰显瘦格子针织气质套装女装潮",
+      "totalStock": 168
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

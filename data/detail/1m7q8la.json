@@ -1,0 +1,561 @@
+{
+  "iid": "1m7q8la",
+  "result": {
+    "columns": [
+      "销量 348",
+      "收藏32人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "百搭慵懒风贴布绣系带套头毛衣+高腰显瘦破洞牛仔裤两件套（支持单买）",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180826_29eef1jfd46615j7lhlilai2l4b4j_800x800.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180826_3a94582k26afljaiffg3ldl8474kj_769x703.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180826_15kl1fc7c704978lfii9b9lg9698f_806x813.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180826_2j27hc6f707b0fk1317hl276ch210_847x825.png",
+            "//s5.mogucdn.com/mlcdn/c45406/180826_37151c32476hig422f7j4j62k50jf_828x827.png",
+            "//s5.mogucdn.com/mlcdn/c45406/180826_3c1f5g4gf0lebe4c5lbebf13ah2h1_779x706.png",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180826_4149kb169fl90icg5i2k0608fl59h_800x800.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180826_5hbba30bggdlkgalbb8k56h1f9537_769x703.png",
+            "//s3.mogucdn.com/mlcdn/c45406/180826_4e52c64kbffcajg32e7f411598b9k_806x813.png",
+            "//s11.mogucdn.com/mlcdn/c45406/180826_3ca2l2a2116dge2d301dhd9elig46_847x825.png"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #2525# #703#",
+      "desc": "百搭慵懒风贴布绣系带套头毛衣+高腰显瘦破洞牛仔裤两件套（支持单买）",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "mobileDownloadLink": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mogujie",
+        "mobilePrice": "73.70",
+        "sendAddress": ""
+      },
+      "highNowPrice": "154.00",
+      "highPrice": "220.00",
+      "iid": "1m7q8la",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7q8la&userId=1236y5y&shopId=14mh0",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "77.00",
+      "lowPrice": "110.00",
+      "oldPrice": "¥110.00",
+      "price": "¥77.00~¥154.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14mh0",
+      "state": 0,
+      "tags": "",
+      "title": "2018秋季新款时尚套装韩版百搭慵懒风贴布绣系带套头毛衣高腰显瘦破洞牛仔裤两件套",
+      "topImages": [
+        "//s3.mogucdn.com/mlcdn/c45406/180826_783k4h3llec7c9d54lih2950kah24_640x960.jpg",
+        "//s5.mogucdn.com/mlcdn/c45406/180826_0k0dik4lgjddke9g6ag27gfj3fjg3_640x960.jpg",
+        "//s11.mogucdn.com/mlcdn/c45406/180826_2j4ae7k57cil77h9gcdc6i764kfd4_640x960.jpg"
+      ],
+      "userId": "1236y5y"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块,字母/文字/数字"
+          },
+          {
+            "key": "厚薄",
+            "value": "普通"
+          },
+          {
+            "key": "厂名",
+            "value": "优纤联合制衣厂"
+          },
+          {
+            "key": "颜色",
+            "value": "毛衣单买,裤子单买,套装购买"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "尺码",
+            "value": "S,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "中长款（66-80cm）"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市海珠区敦和江贝安定理大街"
+          },
+          {
+            "key": "材质",
+            "value": "复合"
+          },
+          {
+            "key": "领型",
+            "value": "圆领"
+          },
+          {
+            "key": "元素",
+            "value": "破洞,系带,烫印,柔软洗,撞色/拼色,磨毛"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "款式",
+            "value": "衣裤套装"
+          },
+          {
+            "key": "风格",
+            "value": "简约"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L"
+            ],
+            [
+              "肩宽",
+              "64",
+              "68",
+              "66"
+            ],
+            [
+              "裤长",
+              "88",
+              "89",
+              "90"
+            ],
+            [
+              "腰围",
+              "64",
+              "68",
+              "72"
+            ],
+            [
+              "衣长",
+              "68",
+              "69",
+              "70"
+            ],
+            [
+              "胸围",
+              "116",
+              "120",
+              "124"
+            ],
+            [
+              "臀围",
+              "78",
+              "82",
+              "86"
+            ],
+            [
+              "袖长",
+              "48",
+              "49",
+              "50"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=14mh0",
+      "list": [
+        "满199元减5元",
+        "满2件减5元"
+      ]
+    },
+    "rate": {
+      "cRate": 26,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "毛衣收到了，做工很精细，质量非常好，颜色和图片一样，价格实惠，值得购买",
+          "created": 1537672183,
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "116bcsxg",
+          "style": "颜色:裤子单买 尺码:L ",
+          "user": {
+            "avatar": "//s5.mogucdn.com/p2/161214/103488673_8da6lhkf9a5h32ei6bd297523c35d_140x140.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "wx_hbl9xuhnkdz1f"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14mh0",
+      "cFans": 94066,
+      "cGoods": 261,
+      "cSells": 346967,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20103127",
+          "name": "每日新品NEW!"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179963",
+          "name": "搭配套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179964",
+          "name": "上装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179965",
+          "name": "下装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20179966",
+          "name": "裙装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20240199",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20240203",
+          "name": "裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298653",
+          "name": "时尚T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298654",
+          "name": "气质连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298655",
+          "name": "个性春外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298656",
+          "name": "百搭牛仔裤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20298657",
+          "name": "蕾丝/雪纺"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338898",
+          "name": "新款外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338899",
+          "name": "新款衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338900",
+          "name": "新款毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338901",
+          "name": "新款裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338902",
+          "name": "新款卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14mh0/list/index?categoryId=20338903",
+          "name": "新款风衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 4,
+      "name": "七色吧",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.65
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.66
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14mh0",
+      "shopLogo": "//s11.mogucdn.com/b7/avatar/140107/11lh27_kqzguslckrbdiwtwgfjeg5sckzsew_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14mh0",
+      "type": 1,
+      "userId": "1236y5y"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥77.00~¥154.00",
+      "isAbroad": false,
+      "priceRange": "¥77.00~¥154.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "毛衣单买",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "裤子单买",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "套装购买",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180826_0cc8dlblade7k90b1274dl30f8jbj_640x960.jpg",
+          "nowprice": 9100,
+          "price": 13000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 148,
+          "stockId": "116ml5zi",
+          "style": "毛衣单买",
+          "styleId": 1,
+          "xdSkuId": "116ml5zi"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180826_0cc8dlblade7k90b1274dl30f8jbj_640x960.jpg",
+          "nowprice": 9100,
+          "price": 13000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 145,
+          "stockId": "116ml5zk",
+          "style": "毛衣单买",
+          "styleId": 1,
+          "xdSkuId": "116ml5zk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180826_0cc8dlblade7k90b1274dl30f8jbj_640x960.jpg",
+          "nowprice": 9100,
+          "price": 13000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 126,
+          "stockId": "116ml5zm",
+          "style": "毛衣单买",
+          "styleId": 1,
+          "xdSkuId": "116ml5zm"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180826_6fcl1bc6fk42hjc9eh74h39k18abg_640x960.jpg",
+          "nowprice": 7700,
+          "price": 11000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 181,
+          "stockId": "116ml5zo",
+          "style": "裤子单买",
+          "styleId": 2,
+          "xdSkuId": "116ml5zo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180826_6fcl1bc6fk42hjc9eh74h39k18abg_640x960.jpg",
+          "nowprice": 7700,
+          "price": 11000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 184,
+          "stockId": "116ml5zq",
+          "style": "裤子单买",
+          "styleId": 2,
+          "xdSkuId": "116ml5zq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180826_6fcl1bc6fk42hjc9eh74h39k18abg_640x960.jpg",
+          "nowprice": 7700,
+          "price": 11000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 181,
+          "stockId": "116ml5zs",
+          "style": "裤子单买",
+          "styleId": 2,
+          "xdSkuId": "116ml5zs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180826_495d96fa2ik6bl75763f5l30ji6g5_640x960.jpg",
+          "nowprice": 15400,
+          "price": 22000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 174,
+          "stockId": "116ml5zw",
+          "style": "套装购买",
+          "styleId": 3,
+          "xdSkuId": "116ml5zw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180826_495d96fa2ik6bl75763f5l30ji6g5_640x960.jpg",
+          "nowprice": 15400,
+          "price": 22000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 155,
+          "stockId": "116ml5zu",
+          "style": "套装购买",
+          "styleId": 3,
+          "xdSkuId": "116ml5zu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180826_495d96fa2ik6bl75763f5l30ji6g5_640x960.jpg",
+          "nowprice": 15400,
+          "price": 22000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 170,
+          "stockId": "116ml5zy",
+          "style": "套装购买",
+          "styleId": 3,
+          "xdSkuId": "116ml5zy"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018秋季新款时尚套装韩版百搭慵懒风贴布绣系带套头毛衣高腰显瘦破洞牛仔裤两件套",
+      "totalStock": 1464
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

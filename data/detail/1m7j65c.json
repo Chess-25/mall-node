@@ -1,0 +1,558 @@
+{
+  "iid": "1m7j65c",
+  "result": {
+    "columns": [
+      "销量 576",
+      "收藏8人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "这款是只有衬衫的，马甲的是链接也有，需要的可以联系客服",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180821_3i5hi4bbhg705471eh71fgc657e48_750x787.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_553jcig5jkgfh3jid61ljfejkhc05_750x859.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_4464fhc8k0a421lhiidf6g2l22g60_750x860.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_8cc955hddic6g2cka88j00b6jbg8g_750x861.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_00gda7475ke6i96k6jh8f5jef442h_750x860.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180821_352ce2e0ej057jf0j4blje1kiigbb_750x860.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_84c39e00c069175j29kd8ig3id48f_750x859.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_36dj1hgfa9g6ka71hahc30g3bldd7_750x860.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_86h0ac4ghhlchfc51ddec0fkjf2ie_750x859.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_8h2h887lcd69ga91bahiaah1j2gch_750x860.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_0jc5ah89fk87c26970d8952a6ibee_750x861.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_2i73aj9fb956443hk6ce535kh141c_750x860.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_05glbkh7je4la53b1jlk4f6bc8kak_750x859.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_4b4gca4d7fa11geg111f939f32e6c_750x860.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180821_82ke4aa1e39k3ge5k2ee40b82lfai_750x859.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #686#",
+      "desc": "这款是只有衬衫的，马甲的是链接也有，需要的可以联系客服",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "49.00",
+      "highPrice": "70.00",
+      "iid": "1m7j65c",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m7j65c&userId=13h1xvg&shopId=1o9uhm",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "39.90",
+      "lowPrice": "57.00",
+      "oldPrice": "¥57.00",
+      "price": "¥39.90~¥49.00",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "1o9uhm",
+      "state": 0,
+      "tags": "",
+      "title": "单衬衫  chic秋装衬衫2018新款长袖蝴蝶结港风polo衬衫学生宽松显瘦春秋季女上衣服",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180821_82e3jehfgeh8hk65k17ag8b74k1cd_640x960.jpg"
+      ],
+      "userId": "13h1xvg"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "图案",
+            "value": "色块"
+          },
+          {
+            "key": "厂名",
+            "value": "广州市木缘子夕服饰"
+          },
+          {
+            "key": "颜色",
+            "value": "蓝色衬衫,马甲,粉色衬衫"
+          },
+          {
+            "key": "袖型",
+            "value": "常规袖"
+          },
+          {
+            "key": "上衣厚度",
+            "value": "适中"
+          },
+          {
+            "key": "衣门襟",
+            "value": "单排扣"
+          },
+          {
+            "key": "穿着方式",
+            "value": "开襟"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,L,M"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "宽松"
+          },
+          {
+            "key": "下摆",
+            "value": "敞口"
+          },
+          {
+            "key": "季节",
+            "value": "秋季"
+          },
+          {
+            "key": "厂址",
+            "value": "广州市天河区龙洞北三街28号"
+          },
+          {
+            "key": "材质",
+            "value": "棉"
+          },
+          {
+            "key": "领型",
+            "value": "POLO领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "风格",
+            "value": "小清新"
+          },
+          {
+            "key": "潮流",
+            "value": "韩系"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "衣长（前）",
+              "58",
+              "59",
+              "60",
+              "61"
+            ],
+            [
+              "肩宽",
+              "36",
+              "37",
+              "38",
+              "39"
+            ],
+            [
+              "胸围",
+              "98",
+              "100",
+              "102",
+              "104"
+            ],
+            [
+              "袖长",
+              "58",
+              "59",
+              "60",
+              "61"
+            ]
+          ]
+        ]
+      }
+    },
+    "promotions": {
+      "alertData": {},
+      "link": "mls://shoppro?shopId=1o9uhm",
+      "list": [
+        "满2件减5元",
+        "满3件减10元",
+        "满139元减10元"
+      ]
+    },
+    "rate": {
+      "cRate": 49,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "质量很好，款式好看，物流很快，大小合适，码数标准，面料柔软亲肤，价格实惠",
+          "created": 1535080645,
+          "extraInfo": [
+            "体重:45kg",
+            "是否合身:合身",
+            "身高:165cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115z8pza",
+          "style": "颜色:蓝色 尺码:M ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "qq我心等待"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/1o9uhm",
+      "cFans": 62768,
+      "cGoods": 572,
+      "cSells": 265469,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477698",
+          "name": "连衣裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477700",
+          "name": "半身裙"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477701",
+          "name": "上衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1477703",
+          "name": "外套"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1503551",
+          "name": "99选2"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1521871",
+          "name": "显瘦裤子"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1521872",
+          "name": "时尚套装"
+        },
+        {
+          "link": "http://s.meilishuo.com/1o9uhm/list/index?categoryId=1521906",
+          "name": "短裤"
+        }
+      ],
+      "isMarked": false,
+      "level": 5,
+      "name": "胖家小妹",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.6
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.6
+        }
+      ],
+      "services": [
+        {
+          "name": "延误必赔"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "1o9uhm",
+      "shopLogo": "//s11.mogucdn.com/p1/150901/1qiywy_iezdqzdfhe3ggzrvgmzdambqmmyde_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/1o9uhm",
+      "type": 1,
+      "userId": "13h1xvg"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥39.90~¥49.00",
+      "isAbroad": false,
+      "priceRange": "¥39.90~¥49.00",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "蓝色衬衫",
+              "styleId": 1,
+              "type": "style"
+            },
+            {
+              "index": 2,
+              "isDefault": false,
+              "name": "粉色衬衫",
+              "styleId": 2,
+              "type": "style"
+            },
+            {
+              "index": 3,
+              "isDefault": false,
+              "name": "马甲",
+              "styleId": 3,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8a5405gjfgaji53hell793c88i19i_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "11745hug",
+          "style": "蓝色衬衫",
+          "styleId": 1,
+          "xdSkuId": "11745hug"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8a5405gjfgaji53hell793c88i19i_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 99,
+          "stockId": "11745hui",
+          "style": "蓝色衬衫",
+          "styleId": 1,
+          "xdSkuId": "11745hui"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8a5405gjfgaji53hell793c88i19i_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 100,
+          "stockId": "11745hum",
+          "style": "蓝色衬衫",
+          "styleId": 1,
+          "xdSkuId": "11745hum"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8a5405gjfgaji53hell793c88i19i_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 99,
+          "stockId": "11745huk",
+          "style": "蓝色衬衫",
+          "styleId": 1,
+          "xdSkuId": "11745huk"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0gjcb6bjf1c20ab7f1k9ih1i3g7l3_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 100,
+          "stockId": "11745huo",
+          "style": "粉色衬衫",
+          "styleId": 2,
+          "xdSkuId": "11745huo"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0gjcb6bjf1c20ab7f1k9ih1i3g7l3_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 100,
+          "stockId": "11745huq",
+          "style": "粉色衬衫",
+          "styleId": 2,
+          "xdSkuId": "11745huq"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0gjcb6bjf1c20ab7f1k9ih1i3g7l3_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 100,
+          "stockId": "11745huu",
+          "style": "粉色衬衫",
+          "styleId": 2,
+          "xdSkuId": "11745huu"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_0gjcb6bjf1c20ab7f1k9ih1i3g7l3_640x960.jpg",
+          "nowprice": 4900,
+          "price": 7000,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 100,
+          "stockId": "11745hus",
+          "style": "粉色衬衫",
+          "styleId": 2,
+          "xdSkuId": "11745hus"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8c88bka8cd4k498eaj6h16kilfh0f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 99,
+          "stockId": "11745i0g",
+          "style": "马甲",
+          "styleId": 3,
+          "xdSkuId": "11745i0g"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8c88bka8cd4k498eaj6h16kilfh0f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 99,
+          "stockId": "11745i0i",
+          "style": "马甲",
+          "styleId": 3,
+          "xdSkuId": "11745i0i"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8c88bka8cd4k498eaj6h16kilfh0f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 98,
+          "stockId": "11745i0k",
+          "style": "马甲",
+          "styleId": 3,
+          "xdSkuId": "11745i0k"
+        },
+        {
+          "currency": "￥",
+          "img": "//s11.mogucdn.com/mlcdn/c45406/180925_8c88bka8cd4k498eaj6h16kilfh0f_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 98,
+          "stockId": "11745i0m",
+          "style": "马甲",
+          "styleId": 3,
+          "xdSkuId": "11745i0m"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "单衬衫  chic秋装衬衫2018新款长袖蝴蝶结港风polo衬衫学生宽松显瘦春秋季女上衣服",
+      "totalStock": 1192
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}

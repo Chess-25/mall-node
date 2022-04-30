@@ -1,0 +1,530 @@
+{
+  "iid": "1m64mms",
+  "result": {
+    "columns": [
+      "销量 281",
+      "收藏4人",
+      "默认快递"
+    ],
+    "detailInfo": {
+      "desc": "简约款，百搭修身。",
+      "detailImage": [
+        {
+          "anchor": "model_img",
+          "desc": "",
+          "key": "穿着效果",
+          "list": [
+            "//s5.mogucdn.com/mlcdn/c45406/180718_10ka6h8iad83kgfbkk0ebijj3ef8h_790x1143.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180718_4dd5495cc01kl0g72k01l7k1l7388_790x1113.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180718_2e48kgc0lh6f99f5ea32kk05le0dj_790x962.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180718_7i5ef0g0i68lfb81i5hlk0ca4fj0a_790x956.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180718_1fa4dg93dce3j77dfjkf9e0ahd903_790x989.jpg",
+            "//s3.mogucdn.com/mlcdn/c45406/180718_08k49k41h5fhj0333c6if03e6ghek_790x713.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180718_74fc3957db2426g6dhdl5cf7d6029_790x878.jpg",
+            "//s5.mogucdn.com/mlcdn/c45406/180718_4b23h2g76ilalfdc84feg2idg5j46_790x956.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180718_6a52blk0dffl0k9ia9e89efb4deaj_790x962.jpg",
+            "//s11.mogucdn.com/p2/170317/77101615_86e9f0elcl86499l16jf26aallg14_1125x380.jpg"
+          ]
+        },
+        {
+          "anchor": "detail_img",
+          "desc": "",
+          "key": "细节做工",
+          "list": [
+            "//s11.mogucdn.com/mlcdn/c45406/180718_103hlh90dkl8f34d6dllac2dlgk29_786x660.jpg",
+            "//s11.mogucdn.com/mlcdn/c45406/180718_5jf10c61c98deeb6aag99cj40j4l6_790x763.jpg"
+          ]
+        }
+      ]
+    },
+    "esi": "<esi:try><esi:attempt><esi:include src='http://m.meilishuo.com/detail/mls/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>",
+    "isLogin": false,
+    "itemInfo": {
+      "addCartTips": false,
+      "admin": false,
+      "cFav": 0,
+      "cartNum": 0,
+      "cids": "#682# #683# #684# #686#",
+      "desc": "简约款，百搭修身。",
+      "discountBgColor": "#f13e3a",
+      "discountDesc": "7折",
+      "extra": {
+        "deliveryTime": 72,
+        "sendAddress": ""
+      },
+      "highNowPrice": "39.90",
+      "highPrice": "57.00",
+      "iid": "1m64mms",
+      "imUrl": "mls://imTalk?&source=1&goodsId=1m64mms&userId=12edakw&shopId=14o4s",
+      "inActivity": false,
+      "isFaved": false,
+      "isGrayUser": false,
+      "isNewComer": false,
+      "isSelf": false,
+      "lowNowPrice": "39.90",
+      "lowPrice": "57.00",
+      "oldPrice": "¥57.00",
+      "price": "¥39.90",
+      "redPacketsSwitch": false,
+      "saleType": 0,
+      "shopId": "14o4s",
+      "state": 0,
+      "tags": "",
+      "title": "2018新款修身显瘦长袖百搭职业白色衬衫女士衬衣面试白领工作服正装上衣",
+      "topImages": [
+        "//s11.mogucdn.com/mlcdn/c45406/180718_387id5ja8hd0666g43jcd76l895jh_640x960.jpg"
+      ],
+      "userId": "12edakw"
+    },
+    "itemParams": {
+      "info": {
+        "anchor": "product_info",
+        "key": "产品参数",
+        "set": [
+          {
+            "key": "厂名",
+            "value": "寻乌县依瞬莉服装店"
+          },
+          {
+            "key": "颜色",
+            "value": "白色"
+          },
+          {
+            "key": "季节",
+            "value": "春秋"
+          },
+          {
+            "key": "厂址",
+            "value": "厂址   江西省赣州市寻乌县城北三路雅马哈摩托车店旁，三楼服装厂"
+          },
+          {
+            "key": "材质",
+            "value": "其他"
+          },
+          {
+            "key": "领型",
+            "value": "方领"
+          },
+          {
+            "key": "袖长",
+            "value": "长袖"
+          },
+          {
+            "key": "穿着方式",
+            "value": "开襟"
+          },
+          {
+            "key": "风格",
+            "value": "通勤（OL）"
+          },
+          {
+            "key": "尺码",
+            "value": "S,XL,4XL,5XL,L,M,XXL,XXXL"
+          },
+          {
+            "key": "衣长",
+            "value": "常规款（51-65cm）"
+          },
+          {
+            "key": "版型",
+            "value": "收腰"
+          }
+        ]
+      },
+      "rule": {
+        "anchor": "size_info",
+        "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+        "key": "尺码说明",
+        "tables": [
+          [
+            [
+              "尺码",
+              "S",
+              "M",
+              "L",
+              "XL"
+            ],
+            [
+              "肩宽",
+              "36",
+              "37",
+              "38",
+              "39"
+            ],
+            [
+              "腰围",
+              "72",
+              "76",
+              "80",
+              "84"
+            ],
+            [
+              "衣长",
+              "60",
+              "61",
+              "62",
+              "63"
+            ],
+            [
+              "胸围",
+              "84",
+              "88",
+              "92",
+              "96"
+            ],
+            [
+              "袖长",
+              "58",
+              "59",
+              "60",
+              "61"
+            ]
+          ],
+          [
+            [
+              "尺码",
+              "XXL",
+              "XXXL",
+              "4XL",
+              "5XL"
+            ],
+            [
+              "肩宽",
+              "40",
+              "41",
+              "42",
+              "43"
+            ],
+            [
+              "腰围",
+              "88",
+              "92",
+              "96",
+              "100"
+            ],
+            [
+              "衣长",
+              "64",
+              "64",
+              "64",
+              "64"
+            ],
+            [
+              "胸围",
+              "100",
+              "104",
+              "108",
+              "112"
+            ],
+            [
+              "袖长",
+              "62",
+              "62",
+              "62",
+              "62"
+            ]
+          ]
+        ]
+      }
+    },
+    "rate": {
+      "cRate": 48,
+      "list": [
+        {
+          "canExplain": false,
+          "content": "衣服质量很好，买来上班穿的，客服推荐的码数刚刚好，穿起显瘦显高，不错满意！",
+          "created": 1532904172,
+          "extraInfo": [
+            "体重:45 kg",
+            "是否合身:合身",
+            "身高:165 cm"
+          ],
+          "isAnonymous": 1,
+          "isEmpty": 0,
+          "level": "",
+          "rateId": "115qcv1k",
+          "style": "颜色:白色 尺码:L ",
+          "user": {
+            "avatar": "//s3.mogucdn.com/p2/161214/103488673_8ff131b8g07810e345268cgcda6ef_140x141.png",
+            "profileUrl": "",
+            "tagIndex": "",
+            "uid": "",
+            "uname": "茗茗1234567"
+          }
+        }
+      ]
+    },
+    "shopInfo": {
+      "allGoodsUrl": "http://m.meilishuo.com/shop/index/14o4s",
+      "cFans": 9514,
+      "cGoods": 77,
+      "cSells": 68666,
+      "categories": [
+        {
+          "link": "http://s.meilishuo.com/14o4s/list/index?categoryId=213741",
+          "name": "针织毛衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14o4s/list/index?categoryId=213742",
+          "name": "T恤"
+        },
+        {
+          "link": "http://s.meilishuo.com/14o4s/list/index?categoryId=213750",
+          "name": "衬衫"
+        },
+        {
+          "link": "http://s.meilishuo.com/14o4s/list/index?categoryId=213760",
+          "name": "卫衣"
+        },
+        {
+          "link": "http://s.meilishuo.com/14o4s/list/index?categoryId=1327859",
+          "name": "外套风衣"
+        }
+      ],
+      "isMarked": false,
+      "level": 2,
+      "name": "韩风衣依",
+      "nonsupportReasonRefound": false,
+      "score": [
+        {
+          "isBetter": false,
+          "name": "描述相符",
+          "score": 4.66
+        },
+        {
+          "isBetter": true,
+          "name": "价格合理",
+          "score": 5.0
+        },
+        {
+          "isBetter": false,
+          "name": "质量满意",
+          "score": 4.69
+        }
+      ],
+      "services": [
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "退货补运费"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "全国包邮"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "7天无理由退货"
+        },
+        {
+          "icon": "//s11.mogucdn.com/p1/160607/upload_ie4tkmbtgqztomjqhezdambqgqyde_44x44.png",
+          "name": "72小时发货"
+        }
+      ],
+      "shopId": "14o4s",
+      "shopLogo": "//s11.mogucdn.com/b7/avatar/140713/176n9o_kq2gu4kzkrbf6rkugfjeg5sckzsew_200x200.jpg",
+      "shopUrl": "http://m.meilishuo.com/shop/index/14o4s",
+      "type": 1,
+      "userId": "12edakw"
+    },
+    "skuInfo": {
+      "defaultPrice": "¥39.90",
+      "isAbroad": false,
+      "priceRange": "¥39.90",
+      "props": [
+        {
+          "isDefault": false,
+          "label": "颜色:",
+          "list": [
+            {
+              "index": 1,
+              "isDefault": false,
+              "name": "白色",
+              "styleId": 1,
+              "type": "style"
+            }
+          ]
+        },
+        {
+          "isDefault": false,
+          "label": "尺码:",
+          "list": [
+            {
+              "index": 100,
+              "isDefault": false,
+              "name": "S",
+              "sizeId": 100,
+              "type": "size"
+            },
+            {
+              "index": 101,
+              "isDefault": false,
+              "name": "M",
+              "sizeId": 101,
+              "type": "size"
+            },
+            {
+              "index": 102,
+              "isDefault": false,
+              "name": "L",
+              "sizeId": 102,
+              "type": "size"
+            },
+            {
+              "index": 103,
+              "isDefault": false,
+              "name": "XL",
+              "sizeId": 103,
+              "type": "size"
+            },
+            {
+              "index": 104,
+              "isDefault": false,
+              "name": "XXL",
+              "sizeId": 104,
+              "type": "size"
+            },
+            {
+              "index": 105,
+              "isDefault": false,
+              "name": "XXXL",
+              "sizeId": 105,
+              "type": "size"
+            },
+            {
+              "index": 106,
+              "isDefault": false,
+              "name": "4XL",
+              "sizeId": 106,
+              "type": "size"
+            },
+            {
+              "index": 107,
+              "isDefault": false,
+              "name": "5XL",
+              "sizeId": 107,
+              "type": "size"
+            }
+          ]
+        }
+      ],
+      "sizeKey": "尺码",
+      "skus": [
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "S",
+          "sizeId": 100,
+          "stock": 846,
+          "stockId": "1162mpm0",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mpm0"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "M",
+          "sizeId": 101,
+          "stock": 772,
+          "stockId": "1162mpm2",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mpm2"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "L",
+          "sizeId": 102,
+          "stock": 823,
+          "stockId": "1162mpm4",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mpm4"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XL",
+          "sizeId": 103,
+          "stock": 858,
+          "stockId": "1162mprs",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mprs"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXL",
+          "sizeId": 104,
+          "stock": 873,
+          "stockId": "1162mpm6",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mpm6"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "XXXL",
+          "sizeId": 105,
+          "stock": 886,
+          "stockId": "1162mpru",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mpru"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "4XL",
+          "sizeId": 106,
+          "stock": 885,
+          "stockId": "1162mprw",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mprw"
+        },
+        {
+          "currency": "￥",
+          "img": "//s5.mogucdn.com/mlcdn/c45406/180718_7eibhjb81hjdie97b7f04dc648fd0_640x960.jpg",
+          "nowprice": 3990,
+          "price": 5700,
+          "size": "5XL",
+          "sizeId": 107,
+          "stock": 884,
+          "stockId": "1162mpry",
+          "style": "白色",
+          "styleId": 1,
+          "xdSkuId": "1162mpry"
+        }
+      ],
+      "styleKey": "颜色",
+      "title": "2018新款修身显瘦长袖百搭职业白色衬衫女士衬衣面试白领工作服正装上衣",
+      "totalStock": 6827
+    },
+    "topBar": {
+      "img": "//s11.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+      "link": "http://www.xiaodian.com/h5/download"
+    }
+  },
+  "status": {
+    "code": 1001,
+    "msg": ""
+  }
+}
