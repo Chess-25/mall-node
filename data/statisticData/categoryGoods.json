@@ -1,0 +1,12 @@
+{
+  "categoryGoods": [
+    {"name": "上衣","value": 14},
+    {"name": "裤子","value": 19},
+    {"name": "鞋子","value": 19},
+    {"name": "厨具","value": 18},
+    {"name": "家具","value": 18},
+    {"name": "床上用品","value": 19},
+    {"name": "女装","value": 35}
+  ],
+  "success": true
+}
