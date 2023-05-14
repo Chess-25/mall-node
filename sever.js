@@ -3,7 +3,6 @@ const app = express()
 const port = 3001
 const fs = require('fs')
 const cors = require('cors')
-const { type } = require('express/lib/response')
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
@@ -18,10 +17,10 @@ app.get('/home/multidata', (req, res) => {
 })
 
 app.get('/home/data', (req, res) => {
-  params = req.query
-  type = params[Object.keys(params)[0]]
-  page = params[Object.keys(params)[1]]
-
+  let params = req.query
+  let type = params[Object.keys(params)[0]]
+  let page = params[Object.keys(params)[1]]
+  
   let f = fs.readFile(`./data/${type}/${type}_page${page}.json`, "utf-8", function (err, data) {
     if (err) {
       res.json(err)
@@ -42,10 +41,10 @@ app.get('/category/multidata', (req, res) => {
 })
 
 app.get('/category/data', (req, res) => {
-  params = req.query
-  cate = params[Object.keys(params)[0]]
-  type = params[Object.keys(params)[1]]
-  page = params[Object.keys(params)[2]]
+  let params = req.query
+  let cate = params[Object.keys(params)[0]]
+  let type = params[Object.keys(params)[1]]
+  let page = params[Object.keys(params)[2]]
 
   let f = fs.readFile(`./data/category/${cate}/${type}/${type}_page${page}.json`, "utf-8", function (err, data) {
     if (err) {
@@ -58,8 +57,8 @@ app.get('/category/data', (req, res) => {
 })
 
 app.get('/detail', (req, res) => {
-  params = req.query
-  iid = params[Object.keys(params)[0]]
+  let params = req.query
+  let iid = params[Object.keys(params)[0]]
 
 
   let f = fs.readFile(`./data/detail/${iid}.json`, "utf-8", function (err, data) {
@@ -82,11 +81,11 @@ app.get('/recommend', (req, res) => {
 })
 
 app.get('/tableData', (req, res) => {
-  params = req.query
+  let params = req.query
 
-  listType = params[Object.keys(params)[0]]
-  cate = params[Object.keys(params)[1]]
-  page = params[Object.keys(params)[2]]
+  let listType = params[Object.keys(params)[0]]
+  let cate = params[Object.keys(params)[1]]
+  let page = params[Object.keys(params)[2]]
 
   let file = `./data/tableData/${listType}/${cate}/page${page}.json`
   if (listType =='goods') {
