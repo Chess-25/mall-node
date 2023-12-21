@@ -7,6 +7,62 @@ app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
 
+// 使用连接池连接
+const pool = require('./service/pool')
+app.get('/homeData', (req, res) => {
+  pool.getConnection(function(err,conn){
+    if (err) {
+      console.log('连接失败');
+    } else {
+      console.log('连接成功');
+      conn.query('select * from home_data', (err, results, fields)=>{
+        if (err) {
+          console.log('[login ERROR] - ', err.message);
+          return
+        }
+        let message = {
+          data : results,
+          success: true
+        }
+        console.log(message,444);
+        res.send(message)
+        conn.release()
+      })
+    }
+  })
+})
+
+// 简单连接
+// 连接数据库
+const mysql = require('mysql')
+
+let connection = mysql.createConnection({
+  host: '127.0.0.1',
+  user: 'root',
+  password: '123456',
+  port: '3306',
+  database: 'mysql',
+})
+
+connection.query('select * from goods_table', (error, results, fields)=>{
+  if (error) throw error;
+  console.log(results,57);
+})
+
+// 返回用户数据
+app.get('/showInfo', (req, res) => {
+  res.setHeader('Access-Control-Allow-Origin', '*')
+  connection.query('select * from goods_table', (err, results, fields)=>{
+    if (err) {
+      console.log('[login ERROR] - ', err.message);
+      return
+    }
+    
+    res.send(results)
+    connection.end();
+  })
+})
+
 app.get('/home/multidata', (req, res) => {
   let f = fs.readFile("./data/home/home_data.json", "utf-8", function (err, data) {
     let j = JSON.parse(data);
