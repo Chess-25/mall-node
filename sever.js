@@ -3,9 +3,41 @@ const app = express()
 const port = 3001
 const fs = require('fs')
 const cors = require('cors')
+const uuid = require('node-uuid')
+const moment = require('moment');
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
+
+// 简单连接
+// 连接数据库
+// const mysql = require('mysql')
+
+// let connection = mysql.createConnection({
+//   host: '127.0.0.1',
+//   user: 'root',
+//   password: '123456',
+//   port: '3306',
+//   database: 'mysql',
+// })
+
+// connection.query('select * from goods_table', (error, results, fields)=>{
+//   if (error) throw error;
+//   console.log(results,57);
+// })
+
+// app.get('/showInfo', (req, res) => {
+//   res.setHeader('Access-Control-Allow-Origin', '*')
+//   connection.query('select * from goods_table', (err, results, fields)=>{
+//     if (err) {
+//       console.log('[login ERROR] - ', err.message);
+//       return
+//     }
+    
+//     res.send(results)
+//     connection.end();
+//   })
+// })
 
 // 使用连接池连接
 const pool = require('./service/pool')
@@ -32,34 +64,60 @@ app.get('/homeData', (req, res) => {
   })
 })
 
-// 简单连接
-// 连接数据库
-const mysql = require('mysql')
-
-let connection = mysql.createConnection({
-  host: '127.0.0.1',
-  user: 'root',
-  password: '123456',
-  port: '3306',
-  database: 'mysql',
-})
-
-connection.query('select * from goods_table', (error, results, fields)=>{
-  if (error) throw error;
-  console.log(results,57);
-})
-
-// 返回用户数据
-app.get('/showInfo', (req, res) => {
-  res.setHeader('Access-Control-Allow-Origin', '*')
-  connection.query('select * from goods_table', (err, results, fields)=>{
+app.get('/userList', (req, res) => {
+  pool.getConnection(function(err,conn){
     if (err) {
-      console.log('[login ERROR] - ', err.message);
-      return
+      console.log('连接失败');
+    } else {
+      console.log('连接成功');
+      conn.query('select * from user_table', (err, results, fields)=>{
+        if (err) {
+          console.log('[login ERROR] - ', err.message);
+          return
+        }
+        let data = {
+          data : results,
+          success: true,
+          message: '加载成功'
+        }
+        console.log(data,444);
+        res.send(data)
+        conn.release()
+      })
     }
-    
-    res.send(results)
-    connection.end();
+  })
+})
+app.post('/user/add', (req, res) => {
+  let {username,realname,password,cellphone,depName,postName,avatar} = req.body
+  pool.getConnection(function(err,conn){
+    if (err) {
+      console.log('连接失败');
+    } else {
+      console.log('连接成功');//(0,1,2,3,4,5,6,7,8,9)
+      let userAddSql = `insert into user_table(id,username,realname,password,cellphone,depName,postName,status,avatar,createAt) values `
+      let userAddSql_Params = `('${uuid().replace(/-/g,'')}','${username}','${realname}',${password},${cellphone},'${depName}','${postName}',1,'${avatar}','${moment().format('YYYY-MM-DD')}')`
+
+      console.log(userAddSql + userAddSql_Params,userAddSql_Params,59);
+      conn.query(userAddSql + userAddSql_Params, (err, results, fields)=>{
+        if (err) {
+          res.send({
+            data: null,
+            success: false,
+            message: '添加失败'
+          })
+          console.log('[login ERROR] - ', err.message);
+          return
+        }
+        let data = {
+          data : null,
+          success: true,
+          message: '添加成功'
+        }
+        console.log(data,444);
+        res.send(data)
+        conn.release()
+      })
+    }
   })
 })
 
