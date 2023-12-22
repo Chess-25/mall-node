@@ -64,6 +64,7 @@ app.get('/homeData', (req, res) => {
   })
 })
 
+//查询用户列表
 app.get('/userList', (req, res) => {
   pool.getConnection(function(err,conn){
     if (err) {
@@ -87,18 +88,26 @@ app.get('/userList', (req, res) => {
     }
   })
 })
+
+//添加用户
 app.post('/user/add', (req, res) => {
   let {username,realname,password,cellphone,depName,postName,avatar} = req.body
   pool.getConnection(function(err,conn){
     if (err) {
       console.log('连接失败');
     } else {
-      console.log('连接成功');//(0,1,2,3,4,5,6,7,8,9)
-      let userAddSql = `insert into user_table(id,username,realname,password,cellphone,depName,postName,status,avatar,createAt) values `
-      let userAddSql_Params = `('${uuid().replace(/-/g,'')}','${username}','${realname}',${password},${cellphone},'${depName}','${postName}',1,'${avatar}','${moment().format('YYYY-MM-DD')}')`
+      console.log('连接成功');
+      let userAddSql = `insert into user_table(id,username,realname,password,cellphone,depName,postName,status,avatar,createAt) values ?`
 
-      console.log(userAddSql + userAddSql_Params,userAddSql_Params,59);
-      conn.query(userAddSql + userAddSql_Params, (err, results, fields)=>{
+      //单个新增
+      let userAddSql_Params = `('${uuid().replace(/-/g,'')}','${username}','${realname}',${password},${cellphone},'${depName}','${postName}',1,'${avatar}','${moment().format('YYYY-MM-DD')}')`
+      
+      //批量新增
+      let values = [
+        [uuid().replace(/-/g,''),username,realname,password,cellphone,depName,postName,1,avatar,moment().format('YYYY-MM-DD')]
+      ]
+      console.log(userAddSql + userAddSql_Params,values,59);
+      conn.query(userAddSql ,[values], (err, results, fields)=>{
         if (err) {
           res.send({
             data: null,
@@ -113,14 +122,79 @@ app.post('/user/add', (req, res) => {
           success: true,
           message: '添加成功'
         }
-        console.log(data,444);
         res.send(data)
         conn.release()
       })
     }
   })
 })
+//编辑用户
+app.post('/user/edit', (req, res) => {
+  let {id,username,realname,password,cellphone,depName,postName} = req.body
+  pool.getConnection(function(err,conn){
+    if (err) {
+      console.log('连接失败');
+    } else {
+      console.log('连接成功');
+      //单个修改
+      // let userAddSql = `update user_table set username ='${username}',realname='${realname}',password='${password}',cellphone='${cellphone}',depName ='${depName}',postName='${postName}',updateAt='${moment().format('YYYY-MM-DD')}' where id = '${id}'`
+      //批量修改
+      let userAddSql = `update user_table set username = ?,realname = ?,password = ?,cellphone = ?,depName = ?,postName =?,updateAt=? where id = ?`
+      //批量新增
+      let values = [username,realname,password,cellphone,depName,postName,moment().format('YYYY-MM-DD'),id]
+      conn.query(userAddSql,values, (err, results, fields)=>{
+        if (err) {
+          res.send({
+            data: null,
+            success: false,
+            message: '修改失败'
+          })
+          console.log('[login ERROR] - ', err.message);
+          return
+        }
+        let data = {
+          data : null,
+          success: true,
+          message: '修改成功'
+        }
+        res.send(data)
+        conn.release()
+      })
+    }
+  })
+})
+//删除用户
+app.post('/user/delete', (req, res) => {
+  let { id } = req.body
+  pool.getConnection(function(err,conn){
+    if (err) {
+      console.log('连接失败');
+    } else {
+      console.log('连接成功');
+      let userAddSql = `delete from user_table where id = '${id}'`
 
+      console.log(userAddSql, id,59);
+      conn.query(userAddSql, (err, results, fields)=>{
+        if (err) {
+          res.send({
+            data: null,
+            success: false,
+            message: '删除失败'
+          })
+          console.log('[login ERROR] - ', err.message);
+          return
+        }
+        let data = {
+          data : null,
+          success: true,
+          message: '删除成功'
+        }
+        res.send(data)
+        conn.release()
+      })
+    }
+  })
+})
 app.get('/home/multidata', (req, res) => {
   let f = fs.readFile("./data/home/home_data.json", "utf-8", function (err, data) {
     let j = JSON.parse(data);
