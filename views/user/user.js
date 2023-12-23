@@ -6,12 +6,16 @@ const moment = require('moment');
 
 //查询用户列表
 router.get('/list', (req, res) => {
+  let {username,realname} = req.query
   pool.getConnection(function(err,conn){
     if (err) {
       console.log('连接失败');
     } else {
       console.log('连接成功');
-      conn.query('select * from user_table', (err, results, fields)=>{
+      // let sql = `select * from user_table where username = '${params.username}'` //单条
+      let sql = `select * from user_table where username like ? and realname like ?`//多条
+      let content = ["%"+username+"%","%"+realname+"%"]
+      conn.query(sql,content, (err, results, fields)=>{
         if (err) {
           console.log('[login ERROR] - ', err.message);
           return
@@ -68,7 +72,7 @@ router.post('/add', (req, res) => {
 })
 //编辑用户
 router.post('/edit', (req, res) => {
-  let {id,username,realname,password,cellphone,depName,postName} = req.body
+  let {id,username,realname,password,cellphone,depName,postName,status} = req.body
   pool.getConnection(function(err,conn){
     if (err) {
       console.log('连接失败');
@@ -77,9 +81,9 @@ router.post('/edit', (req, res) => {
       //单个修改
       // let userAddSql = `update user_table set username ='${username}',realname='${realname}',password='${password}',cellphone='${cellphone}',depName ='${depName}',postName='${postName}',updateAt='${moment().format('YYYY-MM-DD')}' where id = '${id}'`
       //批量修改
-      let userAddSql = `update user_table set username = ?,realname = ?,password = ?,cellphone = ?,depName = ?,postName =?,updateAt=? where id = ?`
+      let userAddSql = `update user_table set username = ?,realname = ?,password = ?,cellphone = ?,depName = ?,postName =?,status=?,updateAt=? where id = ?`
       //批量新增
-      let values = [username,realname,password,cellphone,depName,postName,moment().format('YYYY-MM-DD'),id]
+      let values = [username,realname,password,cellphone,depName,postName,status,moment().format('YYYY-MM-DD'),id]
       conn.query(userAddSql,values, (err, results, fields)=>{
         if (err) {
           res.send({
