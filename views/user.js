@@ -5,12 +5,24 @@ const pool = require('../service/pool')
 const moment = require('moment');
 const dbCongif = require('../config/dbconfig')
 
-//查询用户列表
+//查询用户列表(封装方法)
 router.get('/list', (req, res) => {
-  let { username, realname } = req.query
-  // let sql = `select * from user_table where username = '${params.username}'` //单条
-  let sql = `select * from user_table where username like ? and realname like ?`//多条
-  let sqlArr = ["%"+username+"%","%"+realname+"%"]
+  let sql = `select * from user_table `
+  let sqlArr = []
+  let queryList = ['username','realname','cellphone','depName','postName','status'] //能搜索的参数
+  // 遍历参数
+  for (let key in req.query) {
+    // 判断是否为可搜索参数
+    if (queryList.some(i=>i==key)) {
+      if (sqlArr.length == 0) {
+        sql += `where ${key} like ? `
+      } else {
+        sql += `and ${key} like ? `
+      }
+      sqlArr.push("%"+req.query[key]+"%")
+    }
+  }
+  console.log(sql,sqlArr,666);
   let callBack = (err,results)=>{
     if (err) {
       console.log('连接失败')
@@ -27,16 +39,27 @@ router.get('/list', (req, res) => {
 })
 //查询用户列表
 // router.get('/list', (req, res) => {
-//   let {username,realname} = req.query
 //   pool.getConnection(function(err,conn){
 //     if (err) {
 //       console.log('连接失败');
 //     } else {
 //       console.log('连接成功');
 //       // let sql = `select * from user_table where username = '${params.username}'` //单条
-//       let sql = `select * from user_table where username like ? and realname like ?`//多条
-//       let content = ["%"+username+"%","%"+realname+"%"]
-//       conn.query(sql,content, (err, results, fields)=>{
+//       let sql = `select * from user_table `
+//       let sqlArr = []
+//       let queryList = ['username','realname','cellphone','depName','postName','status'] //能搜索的参数
+//       for (let key in req.query) {
+//         // 判断是否为可搜索参数
+//         if (queryList.some(i => i == key)) {
+//           if (sqlArr.length == 0) {
+//             sql += `where ${key} like ? `
+//           } else {
+//             sql += `and ${key} like ? `
+//           }
+//           sqlArr.push("%"+req.query[key]+"%")
+//         }
+//       }
+//       conn.query(sql,sqlArr, (err, results, fields)=>{
 //         if (err) {
 //           console.log('[login ERROR] - ', err.message);
 //           return
@@ -47,8 +70,8 @@ router.get('/list', (req, res) => {
 //           message: '加载成功'
 //         }
 //         res.send(data)
-//         conn.release()
 //       })
+//       conn.release()
 //     }
 //   })
 // })

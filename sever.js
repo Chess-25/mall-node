@@ -3,11 +3,14 @@ const app = express()
 const port = 3001
 const fs = require('fs')
 const cors = require('cors')
-const uuid = require('node-uuid')
-const moment = require('moment');
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
+
+
+//用户模块,路由封装
+const user = require('./views/user')
+app.use('/user', user);
 
 // 简单连接
 // 连接数据库
@@ -63,11 +66,6 @@ app.get('/homeData', (req, res) => {
     }
   })
 })
-
-
-//用户模块
-const user = require('./views/user/user')
-app.use("/user", user);
 
 //查询用户列表
 // app.get('/user/list', (req, res) => {
@@ -200,6 +198,8 @@ app.use("/user", user);
 //     }
 //   })
 // })
+
+// 直接读取json文件方式
 app.get('/home/multidata', (req, res) => {
   let f = fs.readFile("./data/home/home_data.json", "utf-8", function (err, data) {
     let j = JSON.parse(data);
