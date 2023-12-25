@@ -1,36 +1,57 @@
 const uuid = require('node-uuid')
 const express = require("express");
 const router = express.Router();
-const pool = require('../../service/pool')
+const pool = require('../service/pool')
 const moment = require('moment');
+const dbCongif = require('../config/dbconfig')
 
 //查询用户列表
 router.get('/list', (req, res) => {
-  let {username,realname} = req.query
-  pool.getConnection(function(err,conn){
+  let { username, realname } = req.query
+  // let sql = `select * from user_table where username = '${params.username}'` //单条
+  let sql = `select * from user_table where username like ? and realname like ?`//多条
+  let sqlArr = ["%"+username+"%","%"+realname+"%"]
+  let callBack = (err,results)=>{
     if (err) {
-      console.log('连接失败');
+      console.log('连接失败')
     } else {
-      console.log('连接成功');
-      // let sql = `select * from user_table where username = '${params.username}'` //单条
-      let sql = `select * from user_table where username like ? and realname like ?`//多条
-      let content = ["%"+username+"%","%"+realname+"%"]
-      conn.query(sql,content, (err, results, fields)=>{
-        if (err) {
-          console.log('[login ERROR] - ', err.message);
-          return
-        }
-        let data = {
-          data : results,
-          success: true,
-          message: '加载成功'
-        }
-        res.send(data)
-        conn.release()
-      })
+      let data = {
+        data : results,
+        success: true,
+        message: '加载成功'
+      }
+      res.send(data)
     }
-  })
+  }
+  dbCongif.sqlConnect(sql,sqlArr,callBack)
 })
+//查询用户列表
+// router.get('/list', (req, res) => {
+//   let {username,realname} = req.query
+//   pool.getConnection(function(err,conn){
+//     if (err) {
+//       console.log('连接失败');
+//     } else {
+//       console.log('连接成功');
+//       // let sql = `select * from user_table where username = '${params.username}'` //单条
+//       let sql = `select * from user_table where username like ? and realname like ?`//多条
+//       let content = ["%"+username+"%","%"+realname+"%"]
+//       conn.query(sql,content, (err, results, fields)=>{
+//         if (err) {
+//           console.log('[login ERROR] - ', err.message);
+//           return
+//         }
+//         let data = {
+//           data : results,
+//           success: true,
+//           message: '加载成功'
+//         }
+//         res.send(data)
+//         conn.release()
+//       })
+//     }
+//   })
+// })
 //添加用户
 router.post('/add', (req, res) => {
   let {username,realname,password,cellphone,depName,postName,avatar} = req.body
