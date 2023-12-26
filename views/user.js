@@ -7,35 +7,53 @@ const dbCongif = require('../config/dbconfig')
 
 //查询用户列表(封装方法)
 router.get('/list', (req, res) => {
+  let queryList = ['username','realname','cellphone','depName','postName','status'] //能搜索的参数
+  // 查总数
+  let sqlTotal = `select count(*) as total from user_table `
+  let sqlTotalArr = []
+
+  // 查列表
   let sql = `select * from user_table `
   let sqlArr = []
-  let queryList = ['username','realname','cellphone','depName','postName','status'] //能搜索的参数
   // 遍历参数
   for (let key in req.query) {
     // 判断是否为可搜索参数
     if (queryList.some(i=>i==key)) {
       if (sqlArr.length == 0) {
         sql += `where ${key} like ? `
+        sqlTotal += `where ${key} like ? `
       } else {
         sql += `and ${key} like ? `
+        sqlTotal += `and ${key} like ? `
       }
       sqlArr.push("%"+req.query[key]+"%")
+      sqlTotalArr.push("%"+req.query[key]+"%")
     }
   }
-  console.log(sql,sqlArr,666);
+  if (req.query.pageNum || query.pageSize) {
+    let pageNum = req.query.pageNum || 1
+    let pageSize = req.query.pageSize || 10
+    sql += 'limit ?,?'
+    sqlArr.push((pageNum-1)*pageSize,parseInt(pageSize))
+  }
+  let total = 0
   let callBack = (err,results)=>{
     if (err) {
       console.log('连接失败')
     } else {
       let data = {
-        data : results,
+        data: results,
+        total: total,
         success: true,
         message: '加载成功'
       }
       res.send(data)
     }
   }
-  dbCongif.sqlConnect(sql,sqlArr,callBack)
+  dbCongif.sqlConnect(sqlTotal,sqlTotalArr,(err,res)=>{
+    total = res[0].total
+    dbCongif.sqlConnect(sql,sqlArr,callBack)
+  })
 })
 //查询用户列表
 // router.get('/list', (req, res) => {
