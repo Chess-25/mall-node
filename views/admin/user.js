@@ -1,9 +1,9 @@
 const uuid = require('node-uuid')
 const express = require("express");
 const router = express.Router();
-const pool = require('../service/pool')
+const pool = require('../../service/pool')
 const moment = require('moment');
-const dbCongif = require('../config/dbconfig')
+const dbCongif = require('../../config/dbconfig')
 
 //查询用户列表(封装方法)
 router.get('/list', (req, res) => {

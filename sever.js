@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: false }))
 
 
 //用户模块,路由封装
-const user = require('./views/user')
+const user = require('./views/admin/user')
 app.use('/user', user);
 
 // 简单连接
