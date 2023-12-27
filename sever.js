@@ -11,6 +11,9 @@ app.use(express.urlencoded({ extended: false }))
 //用户模块,路由封装
 const user = require('./views/admin/user')
 app.use('/user', user);
+//app模块,路由封装
+const home = require('./views/app/home')
+app.use('/app', home);
 
 // 简单连接
 // 连接数据库
