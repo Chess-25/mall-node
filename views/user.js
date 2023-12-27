@@ -30,7 +30,7 @@ router.get('/list', (req, res) => {
       sqlTotalArr.push("%"+req.query[key]+"%")
     }
   }
-  if (req.query.pageNum || query.pageSize) {
+  if (req.query.pageNum || req.query.pageSize) {
     let pageNum = req.query.pageNum || 1
     let pageSize = req.query.pageSize || 10
     sql += 'limit ?,?'
